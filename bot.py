@@ -19,7 +19,7 @@ GITHUB_REPO = "robo-analise-futebol"
 GITHUB_BRANCH = "main"
 RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/data"
 
-HORARIO_ENVIO_BRASILIA = dtime(hour=10, minute=0)  # 10h Brasilia = 13h UTC
+HORARIO_ENVIO_BRASILIA = dtime(hour=8, minute=0)  # 08h Brasilia = 11h UTC
 
 # ---------- LEITURA DOS CSVs ----------
 def _carregar_csv(nome):
@@ -190,7 +190,7 @@ def main():
     app.add_handler(CommandHandler("parcial", cmd_parcial))
 
     # Agendamento diario (10h Brasilia = 13h UTC)
-    horario_utc = dtime(hour=13, minute=0, tzinfo=timezone.utc)
+    horario_utc = dtime(hour=11, minute=0, tzinfo=timezone.utc)
     app.job_queue.run_daily(envio_automatico, time=horario_utc)
 
     print("[ok] bot rodando (polling)")
