@@ -136,15 +136,15 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg += "  /parcial - Parcial acumulada de acertos\n"
     msg += "  /help - Esta mensagem\n\n"
     msg += "Voce tambem recebe automaticamente todos os dias as 10h."
-    await update.message.reply_markdown(msg)
+    await update.message.reply_text(msg)
 
 
 async def cmd_jogos(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_markdown(formatar_jogos_do_dia())
+    await update.message.reply_text(formatar_jogos_do_dia())
 
 
 async def cmd_parcial(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_markdown(formatar_parcial())
+    await update.message.reply_text(formatar_parcial())
 
 
 async def cmd_help(update: Update, context: ContextTypes.DEFAULT_TYPE):
