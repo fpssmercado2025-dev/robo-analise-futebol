@@ -40,49 +40,60 @@ def carregar_historico():
 
 # ---------- FORMATACAO ----------
 def formatar_jogos_do_dia(data_alvo=None):
+    """Retorna LISTA de mensagens. Uma por liga (ou mais se a liga for grande)."""
     if data_alvo is None:
         data_alvo = datetime.now().strftime("%Y-%m-%d")
 
     df = carregar_previsoes()
     if df.empty:
-        return "Nenhuma previsao encontrada no repositorio."
+        return ["Nenhuma previsao encontrada no repositorio."]
 
     mask = df["data_jogo"] == data_alvo
     if not mask.any():
-        return f"Nenhum jogo das ligas alvo em {data_alvo}."
+        return [f"Nenhum jogo das ligas alvo em {data_alvo}."]
 
     df_dia = df[mask].copy()
-
-    msg = f"\u26bd JOGOS DE HOJE ({data_alvo})\n"
-    msg += "=" * 30 + "\n\n"
 
     emojis = {"escanteios": "\U0001F6A9", "chutes": "\U0001F3AF", "chutes_gol": "\U0001F945"}
     nomes = {"escanteios": "Escanteios", "chutes": "Chutes", "chutes_gol": "Chutes no gol"}
 
-    fixtures = df_dia.drop_duplicates(subset=["fixture_id"])
-    for _, fix in fixtures.iterrows():
-        msg += f"{fix['liga']}\n"
-        msg += f"  {fix['time_casa']} x {fix['time_fora']}\n"
+    mensagens = []
 
-        df_fix = df_dia[df_dia["fixture_id"] == fix["fixture_id"]]
+    for liga in sorted(df_dia["liga"].unique()):
+        df_liga = df_dia[df_dia["liga"] == liga]
+        fixtures = df_liga.drop_duplicates(subset=["fixture_id"])
 
-        for mercado in ["escanteios", "chutes", "chutes_gol"]:
-            df_merc = df_fix[df_fix["mercado"] == mercado]
-            if df_merc.empty:
-                continue
+        header = f"\U0001F3C6 *{liga}*\n" + "=" * 30 + "\n\n"
+        atual = header
 
-            total = df_merc.iloc[0].get("total_esperado", "?")
-            msg += f"  {emojis[mercado]} {nomes[mercado]} (total: {total})\n"
+        for _, fix in fixtures.iterrows():
+            bloco = f"\u26bd {fix['time_casa']} x {fix['time_fora']}\n"
+            df_fix = df_liga[df_liga["fixture_id"] == fix["fixture_id"]]
 
-            for _, row in df_merc.iterrows():
-                prob = row.get("prob_over")
-                odd = row.get("odd_justa")
-                if pd.notna(prob):
-                    msg += f"     Over {row['linha']}: {prob:.0f}% (odd {odd})\n"
+            for mercado in ["escanteios", "chutes", "chutes_gol"]:
+                df_merc = df_fix[df_fix["mercado"] == mercado]
+                if df_merc.empty:
+                    continue
+                total = df_merc.iloc[0].get("total_esperado", "?")
+                bloco += f"  {emojis[mercado]} {nomes[mercado]} (total: {total})\n"
+                for _, row in df_merc.iterrows():
+                    prob = row.get("prob_over")
+                    odd = row.get("odd_justa")
+                    if pd.notna(prob):
+                        bloco += f"     Over {row['linha']}: {prob:.0f}% (odd {odd})\n"
+            bloco += "\n"
 
-        msg += "\n"
+            # Se o bloco do jogo estourar o limite, fecha e abre novo
+            if len(atual) + len(bloco) > 3800:
+                mensagens.append(atual)
+                atual = f"\U0001F3C6 *{liga}* (continuacao)\n" + "=" * 30 + "\n\n" + bloco
+            else:
+                atual += bloco
 
-    return msg
+        if atual.strip():
+            mensagens.append(atual)
+
+    return mensagens
 
 
 def formatar_parcial():
@@ -140,7 +151,8 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def cmd_jogos(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(formatar_jogos_do_dia())
+    for msg in formatar_jogos_do_dia():
+        await update.message.reply_text(msg, parse_mode="Markdown")
 
 
 async def cmd_parcial(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -157,12 +169,12 @@ async def envio_automatico(context: ContextTypes.DEFAULT_TYPE):
         print("[aviso] TELEGRAM_CHAT_ID nao configurado")
         return
     try:
-        msg = formatar_jogos_do_dia()
-        await context.bot.send_message(
-            chat_id=TELEGRAM_CHAT_ID,
-            text=msg,
-            parse_mode="Markdown",
-        )
+        for msg in formatar_jogos_do_dia():
+            await context.bot.send_message(
+                chat_id=TELEGRAM_CHAT_ID,
+                text=msg,
+                parse_mode="Markdown",
+            )
         print(f"[ok] mensagem automatica enviada")
     except Exception as e:
         print(f"[erro] envio automatico: {e}")
