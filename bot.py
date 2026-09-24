@@ -45,47 +45,40 @@ def formatar_jogos_do_dia(data_alvo=None):
 
     df = carregar_previsoes()
     if df.empty:
-        return f"Nenhuma previsao encontrada no repositorio."
+        return "Nenhuma previsao encontrada no repositorio."
 
     mask = df["data_jogo"] == data_alvo
     if not mask.any():
         return f"Nenhum jogo das ligas alvo em {data_alvo}."
 
-    df_dia = df[mask].drop_duplicates(subset=["fixture_id"])
+    df_dia = df[mask].copy()
 
-    msg = f"⚽ *JOGOS DE HOJE* ({data_alvo})\n"
+    msg = f"\u26bd JOGOS DE HOJE ({data_alvo})\n"
     msg += "=" * 30 + "\n\n"
 
-    for _, jogo in df_dia.iterrows():
-        msg += f"*{jogo['liga']}*\n"
-        msg += f"  {jogo['time_casa']} x {jogo['time_fora']}\n"
+    emojis = {"escanteios": "\U0001F6A9", "chutes": "\U0001F3AF", "chutes_gol": "\U0001F945"}
+    nomes = {"escanteios": "Escanteios", "chutes": "Chutes", "chutes_gol": "Chutes no gol"}
 
-        # Escanteios
-        if pd.notna(jogo.get("escanteios_total")):
-            msg += f"  🚩 Escanteios (total: {jogo['escanteios_total']})\n"
-            for l in [7.5, 8.5, 9.5, 10.5]:
-                col_o = f"escanteios_over_{l}"
-                col_odd = f"escanteios_odd_{l}"
-                if col_o in jogo and pd.notna(jogo[col_o]):
-                    msg += f"     Over {l}: {jogo[col_o]:.0f}% (odd {jogo[col_odd]})\n"
+    fixtures = df_dia.drop_duplicates(subset=["fixture_id"])
+    for _, fix in fixtures.iterrows():
+        msg += f"{fix['liga']}\n"
+        msg += f"  {fix['time_casa']} x {fix['time_fora']}\n"
 
-        # Chutes
-        if pd.notna(jogo.get("chutes_total")):
-            msg += f"  🎯 Chutes (total: {jogo['chutes_total']})\n"
-            for l in [18.5, 20.5, 22.5, 24.5]:
-                col_o = f"chutes_over_{l}"
-                col_odd = f"chutes_odd_{l}"
-                if col_o in jogo and pd.notna(jogo[col_o]):
-                    msg += f"     Over {l}: {jogo[col_o]:.0f}% (odd {jogo[col_odd]})\n"
+        df_fix = df_dia[df_dia["fixture_id"] == fix["fixture_id"]]
 
-        # Chutes no gol
-        if pd.notna(jogo.get("chutes_gol_total")):
-            msg += f"  🥅 Chutes no gol (total: {jogo['chutes_gol_total']})\n"
-            for l in [6.5, 7.5, 8.5, 9.5]:
-                col_o = f"chutes_gol_over_{l}"
-                col_odd = f"chutes_gol_odd_{l}"
-                if col_o in jogo and pd.notna(jogo[col_o]):
-                    msg += f"     Over {l}: {jogo[col_o]:.0f}% (odd {jogo[col_odd]})\n"
+        for mercado in ["escanteios", "chutes", "chutes_gol"]:
+            df_merc = df_fix[df_fix["mercado"] == mercado]
+            if df_merc.empty:
+                continue
+
+            total = df_merc.iloc[0].get("total_esperado", "?")
+            msg += f"  {emojis[mercado]} {nomes[mercado]} (total: {total})\n"
+
+            for _, row in df_merc.iterrows():
+                prob = row.get("prob_over")
+                odd = row.get("odd_justa")
+                if pd.notna(prob):
+                    msg += f"     Over {row['linha']}: {prob:.0f}% (odd {odd})\n"
 
         msg += "\n"
 
