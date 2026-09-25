@@ -112,15 +112,17 @@ def get_estatisticas(fixture_id):
         _salvar_cache(nome, resp)
     return resp or []
 
-def extrair_stats_jogo(fixture_id):
+def extrair_stats_jogo(fixture_id, data_jogo=None, liga_nome=None):
     stats = get_estatisticas(fixture_id)
-    if not stats or len(stats) < 2: return None
+    if not stats or len(stats) < 2:
+        return None
     def buscar(ts, chave):
         for item in ts.get("statistics", []):
-            if item["type"] == chave: return item["value"]
+            if item["type"] == chave:
+                return item["value"]
         return None
     casa, fora = stats[0], stats[1]
-    return {
+    resultado = {
         "fixture_id": fixture_id,
         "time_casa": casa["team"]["name"],
         "time_fora": fora["team"]["name"],
@@ -131,6 +133,12 @@ def extrair_stats_jogo(fixture_id):
         "chutes_gol_casa": buscar(casa, "Shots on Goal"),
         "chutes_gol_fora": buscar(fora, "Shots on Goal"),
     }
+    if data_jogo:
+        resultado["data_jogo"] = str(data_jogo)[:10]
+    if liga_nome:
+        resultado["liga_nome"] = liga_nome
+    return resultado
+
 
 def fixtures_para_df(fixtures):
     linhas = []
@@ -287,7 +295,7 @@ def coletar_lote(df_jogos, limite_reqs=35, pausa=7.0):
         if fid in ids_ja: continue
         liga = linha.get("liga_nome", "?")
         print(f"[{reqs+1}/{limite_reqs}] id={fid} | {liga} | {linha['time_casa']} x {linha['time_fora']}")
-        stats = extrair_stats_jogo(fid)
+        stats = extrair_stats_jogo(fid, data_jogo=linha.get("data", ""), liga_nome=linha.get("liga_nome", ""))
         reqs += 1
         if stats is not None:
             novos.append(stats)
