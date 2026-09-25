@@ -96,6 +96,36 @@ def formatar_jogos_do_dia(data_alvo=None):
     return mensagens
 
 
+def formatar_coleta_ontem():
+    ontem = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    df = carregar_historico()
+    if df.empty:
+        return None
+    if "data_jogo" not in df.columns:
+        return None
+
+    df["data_jogo"] = df["data_jogo"].astype(str).str[:10]
+    mask = df["data_jogo"] == ontem
+
+    if not mask.any():
+        return [f"\U0001F4E5 *Coleta de ontem ({ontem})*\n\nNenhum jogo das ligas alvo foi coletado."]
+
+    df_ontem = df[mask].copy()
+    msg = f"\U0001F4E5 *Coleta de ontem ({ontem})*\n"
+    msg += f"Total: *{len(df_ontem)} jogos* coletados\n"
+    msg += "=" * 30 + "\n\n"
+
+    if "liga_nome" in df_ontem.columns:
+        for liga in sorted(df_ontem["liga_nome"].dropna().unique()):
+            df_l = df_ontem[df_ontem["liga_nome"] == liga]
+            msg += f"\U0001F3C6 *{liga}*\n"
+            for _, j in df_l.iterrows():
+                msg += f"  \u2022 {j['time_casa']} x {j['time_fora']}\n"
+            msg += "\n"
+
+    return [msg[:3900]] if len(msg) > 4000 else [msg]
+
+
 def formatar_parcial():
     df = carregar_previsoes()
     if df.empty:
@@ -155,6 +185,15 @@ async def cmd_jogos(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(msg, parse_mode="Markdown")
 
 
+async def cmd_coleta(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    msgs = formatar_coleta_ontem()
+    if not msgs:
+        await update.message.reply_text("Sem dados de coleta ainda.")
+        return
+    for msg in msgs:
+        await update.message.reply_text(msg, parse_mode="Markdown")
+
+
 async def cmd_parcial(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(formatar_parcial())
 
@@ -168,6 +207,19 @@ async def envio_automatico(context: ContextTypes.DEFAULT_TYPE):
     if not TELEGRAM_CHAT_ID:
         print("[aviso] TELEGRAM_CHAT_ID nao configurado")
         return
+
+    try:
+        msgs_coleta = formatar_coleta_ontem()
+        if msgs_coleta:
+            for msg in msgs_coleta:
+                await context.bot.send_message(
+                    chat_id=TELEGRAM_CHAT_ID,
+                    text=msg,
+                    parse_mode="Markdown",
+                )
+    except Exception as e:
+        print(f"[erro] envio coleta: {e}")
+
     try:
         for msg in formatar_jogos_do_dia():
             await context.bot.send_message(
@@ -177,7 +229,7 @@ async def envio_automatico(context: ContextTypes.DEFAULT_TYPE):
             )
         print(f"[ok] mensagem automatica enviada")
     except Exception as e:
-        print(f"[erro] envio automatico: {e}")
+        print(f"[erro] envio jogos: {e}")
 
 
 # ---------- MAIN ----------
@@ -193,6 +245,7 @@ def main():
     app.add_handler(CommandHandler("help", cmd_help))
     app.add_handler(CommandHandler("jogos", cmd_jogos))
     app.add_handler(CommandHandler("parcial", cmd_parcial))
+    app.add_handler(CommandHandler("coleta", cmd_coleta))
 
     # Agendamento diario (10h Brasilia = 13h UTC)
     horario_utc = dtime(hour=11, minute=0, tzinfo=timezone.utc)
