@@ -1,9 +1,10 @@
 """
-Robo de Analise de Futebol - Coleta Diaria (v3 - Bzzoiro)
+Robo de Analise de Futebol - Coleta Diaria (v3.1 - Bzzoiro)
 Roda no GitHub Actions todo dia as 07h Brasilia.
 """
 import os
 import time
+import unicodedata
 import requests
 import numpy as np
 import pandas as pd
@@ -29,7 +30,9 @@ DATA_DIR.mkdir(exist_ok=True)
 HIST_PATH = DATA_DIR / "historico_stats.csv"
 PREV_PATH = DATA_DIR / "previsoes.csv"
 
-# Ligas alvo - match por nome (substring). Cobre clubes + selecoes.
+# Minimo de jogos que pelo menos UM dos times precisa ter no historico
+MIN_JOGOS_HISTORICO = 1
+
 LIGAS_ALVO_NOMES = [
     # Clubes Europa
     "Champions League",
@@ -61,7 +64,6 @@ LIGAS_ALVO_NOMES = [
     "WC Qualifiers",
 ]
 
-# Exclusoes explicitas (se o nome contem isso, ignora)
 LIGAS_EXCLUIR = [
     "CAF Champions League",
     "AFC Champions League",
@@ -81,6 +83,13 @@ NOMES_SELECOES = [
     "World Cup", "Euro", "Copa America", "Nations League",
     "Africa Cup", "Asian Cup", "WC Qualifiers",
 ]
+
+
+def _normalize(s):
+    """Remove acentos e baixa caixa. Ex: 'Grêmio' -> 'gremio'."""
+    if s is None:
+        return ""
+    return unicodedata.normalize("NFKD", str(s)).encode("ASCII", "ignore").decode("ascii").lower().strip()
 
 
 def _liga_e_alvo(nome):
@@ -130,7 +139,6 @@ def _headers():
 
 
 def chamar_api(caminho, params=None, tentativas=3):
-    """Chama a API. Retorna (dados, erro_msg)."""
     url = f"{BZZOIRO_BASE}{caminho}"
     for i in range(tentativas):
         try:
@@ -160,7 +168,6 @@ def chamar_api(caminho, params=None, tentativas=3):
 
 
 def buscar_eventos(data_str):
-    """Busca todos os eventos de uma data. Paginado."""
     todos = []
     offset = 0
     limite = 100
@@ -194,7 +201,6 @@ def buscar_stats(evento_id):
 
 
 def extrair_stats_evento(evento, stats_data, data_jogo):
-    """Extrai estatisticas no formato do CSV."""
     if not stats_data:
         return None
     stats = stats_data.get("stats", {})
@@ -253,9 +259,28 @@ def salvar_historico(df_novos, df_antigo):
     return df_final
 
 
+def _jogos_do_time(df_hist, time):
+    """Conta quantos jogos o time tem no historico (ignora acentos)."""
+    if df_hist.empty or not time:
+        return 0
+    t = _normalize(time)
+    mask = (
+        (df_hist["time_casa"].apply(_normalize) == t) |
+        (df_hist["time_fora"].apply(_normalize) == t)
+    )
+    return int(mask.sum())
+
+
+def _tem_historico_suficiente(df_hist, tc, tf, minimo=MIN_JOGOS_HISTORICO):
+    """Retorna (tem, n_casa, n_fora)."""
+    n_casa = _jogos_do_time(df_hist, tc)
+    n_fora = _jogos_do_time(df_hist, tf)
+    tem = n_casa >= minimo or n_fora >= minimo
+    return tem, n_casa, n_fora
+
+
 # ---------- COLETA DE ONTEM ----------
 def coletar_ontem():
-    """Coleta jogos de ontem. Retorna (n_novos, erro_msg)."""
     agora = datetime.now(TZ)
     ontem = (agora - timedelta(days=1)).strftime("%Y-%m-%d")
     print(f"[info] coletando jogos de {ontem}")
@@ -302,7 +327,7 @@ def coletar_ontem():
     return len(novos), None
 
 
-# ---------- MODELO (mantido identico ao original) ----------
+# ---------- MODELO ----------
 def nb_pmf(k, mu, alpha):
     if alpha <= 1e-6:
         return poisson.pmf(k, mu)
@@ -438,10 +463,18 @@ def prever_jogos_do_dia():
         return pd.DataFrame(), "historico vazio"
 
     resultados = []
+    pulados = 0
     for ev in alvo:
         tc = ev["home_team"]
         tf = ev["away_team"]
         liga_nome = ev.get("league", {}).get("name", "")
+
+        tem, n_c, n_f = _tem_historico_suficiente(df_hist, tc, tf)
+        if not tem:
+            print(f"  [skip] {tc} ({n_c}j) x {tf} ({n_f}j) - sem historico")
+            pulados += 1
+            continue
+
         linha = {
             "fixture_id": ev["id"],
             "liga": liga_nome,
@@ -464,6 +497,8 @@ def prever_jogos_do_dia():
                     linha[f"{mercado}_over_{l}"] = None
                     linha[f"{mercado}_odd_{l}"] = None
         resultados.append(linha)
+
+    print(f"[info] {len(resultados)} jogos com previsao | {pulados} pulados por falta de historico")
     return pd.DataFrame(resultados), None
 
 
@@ -596,7 +631,6 @@ def main():
     except Exception as e:
         erros.append(f"Previsao: excecao {e}")
 
-    # Alerta no Telegram se houver erro
     if erros:
         msg = "⚠️ *Coleta com problemas*\n\n" + "\n".join(f"• {e}" for e in erros)
         enviar_telegram(msg)
