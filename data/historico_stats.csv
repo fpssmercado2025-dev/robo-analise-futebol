@@ -1,93 +1,1396 @@
 fixture_id,time_casa,time_fora,escanteios_casa,escanteios_fora,chutes_casa,chutes_fora,chutes_gol_casa,chutes_gol_fora,data_jogo,liga_nome
-1570391,Rayo Vallecano,Espanyol,3,5,16,19,2,5,,
-1570383,Alaves,Valencia,2,5,15,10,3,3,,
-1570388,Elche,Real Madrid,2,5,11,20,3,4,,
-1630778,Platense,Fluminense,12,0,16,7,6,2,,
-1570384,Atletico Madrid,Osasuna,8,0,27,3,11,1,,
-1570387,Deportivo La Coruna,Sevilla,4,4,4,11,3,6,,
-1570385,Barcelona,Racing Santander,18,0,30,5,9,3,,
-1631509,LDU de Quito,Palmeiras,10,4,16,11,5,4,,
-1492311,Botafogo,Gremio,3,3,10,13,7,3,,
-1631508,Corinthians,Estudiantes L.P.,3,4,9,6,2,2,,
-1570386,Real Betis,Getafe,4,3,22,8,8,2,,
-1570390,Malaga,Villarreal,4,8,5,16,1,7,,
-1635387,Flamengo,Independiente del Valle,5,3,10,8,3,4,,
-1575167,Bayern München,Union Berlin,9,2,23,3,15,2,,
-1550133,Monza,Sassuolo,7,5,15,20,6,8,,
-1552769,Monaco,Lens,2,8,9,12,6,4,,
-1557408,Brentford,Chelsea,4,12,13,12,6,2,,
-1570397,Espanyol,Elche,3,3,23,9,4,6,,
-1557416,Tottenham,Aston Villa,11,1,20,15,7,6,,
-1570399,Osasuna,Rayo Vallecano,4,4,10,19,3,2,,
-1550129,Bologna,Torino,1,6,11,14,1,3,,
-1550135,Udinese,Cagliari,16,1,26,5,5,2,,
-1575170,Eintracht Frankfurt,SC Freiburg,3,5,10,22,3,7,,
-1575171,Hamburger SV,1. FC Köln,3,5,12,18,7,5,,
-1575172,Werder Bremen,FC Augsburg,2,2,20,7,11,4,,
-1575174,Borussia Mönchengladbach,FSV Mainz 05,6,4,21,17,7,8,,
-1557409,Brighton,Arsenal,5,6,17,11,5,2,,
-1557410,Everton,Ipswich,4,4,21,13,2,4,,
-1557414,Newcastle,Hull City,4,7,12,22,5,4,,
-1570393,Athletic Club,Alaves,5,1,24,2,6,0,,
-1552771,Paris FC,Strasbourg,3,0,17,5,7,1,,
-1570395,Celta Vigo,Racing Santander,3,3,13,11,9,5,,
-1575168,VfB Stuttgart,Borussia Dortmund,6,2,12,13,5,2,,
-1550136,Venezia,Lazio,7,2,17,11,6,2,,
-1552765,Angers,Estac Troyes,2,11,12,19,3,3,,
-1552767,Le Mans,Lorient,1,3,11,9,7,2,,
-1552768,Lyon,Rennes,3,8,15,13,9,4,,
-1552772,Toulouse,Le Havre,6,7,14,18,5,7,,
-1492381,Atletico-MG,Chapecoense-sc,11,2,26,7,11,1,,
-1550128,AS Roma,Inter,4,2,18,16,4,5,,
-1557415,Nottingham Forest,Coventry,6,2,24,10,3,3,,
-1570400,Sevilla,Barcelona,1,3,7,24,3,7,,
-1492385,Mirassol,Botafogo,3,4,12,12,7,5,,
-1492386,Remo,Santos,5,4,14,11,4,4,,
-1492388,Vasco DA Gama,Coritiba,12,2,32,4,11,1,,
-1492387,Sao Paulo,Internacional,3,3,6,13,1,1,,
-1550130,Fiorentina,Napoli,4,5,17,13,4,5,,
-1570398,Getafe,Malaga,5,9,20,11,7,4,,
-1550131,Frosinone,Como,7,8,22,27,6,8,,
-1550134,Parma,Genoa,2,5,5,12,2,5,,
-1552766,Auxerre,Stade Brestois 29,8,3,11,8,4,2,,
-1557407,Bournemouth,Liverpool,3,3,9,12,2,3,,
-1557412,Leeds,Crystal Palace,4,3,13,12,2,4,,
-1557413,Manchester City,Sunderland,6,5,16,17,6,9,,
-1575169,Bayer Leverkusen,RB Leipzig,9,6,18,12,6,3,,
-1492384,Gremio,Palmeiras,2,9,7,31,4,10,,
-1570394,Atletico Madrid,Real Madrid,3,1,18,8,9,3,,
-1552770,Nice,Lille,3,7,10,21,4,8,,
-1557411,Fulham,Manchester United,3,13,12,29,6,6,,
-1575173,FC Schalke 04,SV Elversberg,4,4,13,11,1,1,,
-1550132,Juventus,Atalanta,4,5,14,11,5,2,,
-1570396,Deportivo La Coruna,Real Betis,11,5,24,11,7,4,,
-1570402,Villarreal,Levante,7,1,21,6,7,1,,
-1575175,SC Paderborn 07,1899 Hoffenheim,6,5,13,23,5,2,,
-1550127,AC Milan,Lecce,2,3,10,6,4,3,,
-1552773,Marseille,Paris Saint Germain,3,7,12,31,4,10,,
-1492382,Corinthians,Fluminense,11,1,20,10,7,6,,
-1492389,Vitoria,Cruzeiro,8,2,21,13,8,5,,
-1570401,Valencia,Real Sociedad,7,5,22,21,5,6,,
-1492383,Flamengo,RB Bragantino,2,5,11,15,6,5,,
-1492380,Atletico Paranaense,Bahia,6,3,11,10,6,3,,
-10160,Grêmio Novorizontino,Goiás,4,2,32,13,13,4,2026-10-02,Brasileirão Serie B
-223109,Dominican Republic,Haiti,5,5,17,14,7,11,2026-10-02,CONCACAF Nations League
-223111,Cayman Islands,Puerto Rico,1,6,5,10,2,4,2026-10-02,CONCACAF Nations League
-223110,Nicaragua,Costa Rica,4,6,4,13,1,6,2026-10-02,CONCACAF Nations League
-212643,Kazakhstan,Moldova,11,4,19,16,4,8,2026-10-02,UEFA Nations League
-212650,Cyprus,Armenia,1,11,8,17,4,5,2026-10-02,UEFA Nations League
-212651,Latvia,Montenegro,5,2,14,14,2,6,2026-10-02,UEFA Nations League
-212644,Belgium,Türkiye,2,5,17,23,10,8,2026-10-02,UEFA Nations League
-212645,France,Italy,6,4,18,14,8,2,2026-10-02,UEFA Nations League
-212646,Hungary,Georgia,8,4,26,8,8,3,2026-10-02,UEFA Nations League
-212647,Ukraine,Northern Ireland,7,1,11,10,2,3,2026-10-02,UEFA Nations League
-212648,Bosnia & Herzegovina,Sweden,4,0,4,8,2,4,2026-10-02,UEFA Nations League
-212649,Poland,Romania,7,1,24,10,9,3,2026-10-02,UEFA Nations League
-212652,Faroe Islands,Slovakia,2,10,15,15,6,4,2026-10-02,UEFA Nations League
-223117,Saint Lucia,Guadeloupe,3,5,8,12,3,2,2026-10-02,CONCACAF Nations League
-223119,Saint Kitts and Nevis,Cuba,3,4,16,22,7,7,2026-10-02,CONCACAF Nations League
-223115,Suriname,Guatemala,5,0,13,2,8,1,2026-10-02,CONCACAF Nations League
-10163,São Bernardo,CRB,5,7,12,26,5,8,2026-10-02,Brasileirão Serie B
-604422,São Paulo,Santos,14,1,20,9,8,4,2026-10-02,Brasileirão Serie A
-10162,Londrina,Criciúma,6,4,14,13,4,3,2026-10-02,Brasileirão Serie B
-10161,Juventude,Operário-PR,3,5,25,21,6,4,2026-10-02,Brasileirão Serie B
+1492311,Botafogo,Gremio,3.0,3.0,10.0,13.0,7.0,3.0,,
+1492380,Atletico Paranaense,Bahia,6.0,3.0,11.0,10.0,6.0,3.0,,
+1492381,Atletico-MG,Chapecoense-sc,11.0,2.0,26.0,7.0,11.0,1.0,,
+1492382,Corinthians,Fluminense,11.0,1.0,20.0,10.0,7.0,6.0,,
+1492383,Flamengo,RB Bragantino,2.0,5.0,11.0,15.0,6.0,5.0,,
+1492384,Gremio,Palmeiras,2.0,9.0,7.0,31.0,4.0,10.0,,
+1492385,Mirassol,Botafogo,3.0,4.0,12.0,12.0,7.0,5.0,,
+1492386,Remo,Santos,5.0,4.0,14.0,11.0,4.0,4.0,,
+1492387,Sao Paulo,Internacional,3.0,3.0,6.0,13.0,1.0,1.0,,
+1492388,Vasco DA Gama,Coritiba,12.0,2.0,32.0,4.0,11.0,1.0,,
+1492389,Vitoria,Cruzeiro,8.0,2.0,21.0,13.0,8.0,5.0,,
+1550127,AC Milan,Lecce,2.0,3.0,10.0,6.0,4.0,3.0,,
+1550128,AS Roma,Inter,4.0,2.0,18.0,16.0,4.0,5.0,,
+1550129,Bologna,Torino,1.0,6.0,11.0,14.0,1.0,3.0,,
+1550130,Fiorentina,Napoli,4.0,5.0,17.0,13.0,4.0,5.0,,
+1550131,Frosinone,Como,7.0,8.0,22.0,27.0,6.0,8.0,,
+1550132,Juventus,Atalanta,4.0,5.0,14.0,11.0,5.0,2.0,,
+1550133,Monza,Sassuolo,7.0,5.0,15.0,20.0,6.0,8.0,,
+1550134,Parma,Genoa,2.0,5.0,5.0,12.0,2.0,5.0,,
+1550135,Udinese,Cagliari,16.0,1.0,26.0,5.0,5.0,2.0,,
+1550136,Venezia,Lazio,7.0,2.0,17.0,11.0,6.0,2.0,,
+1552765,Angers,Estac Troyes,2.0,11.0,12.0,19.0,3.0,3.0,,
+1552766,Auxerre,Stade Brestois 29,8.0,3.0,11.0,8.0,4.0,2.0,,
+1552767,Le Mans,Lorient,1.0,3.0,11.0,9.0,7.0,2.0,,
+1552768,Lyon,Rennes,3.0,8.0,15.0,13.0,9.0,4.0,,
+1552769,Monaco,Lens,2.0,8.0,9.0,12.0,6.0,4.0,,
+1552770,Nice,Lille,3.0,7.0,10.0,21.0,4.0,8.0,,
+1552771,Paris FC,Strasbourg,3.0,0.0,17.0,5.0,7.0,1.0,,
+1552772,Toulouse,Le Havre,6.0,7.0,14.0,18.0,5.0,7.0,,
+1552773,Marseille,Paris Saint Germain,3.0,7.0,12.0,31.0,4.0,10.0,,
+1557407,Bournemouth,Liverpool,3.0,3.0,9.0,12.0,2.0,3.0,,
+1557408,Brentford,Chelsea,4.0,12.0,13.0,12.0,6.0,2.0,,
+1557409,Brighton,Arsenal,5.0,6.0,17.0,11.0,5.0,2.0,,
+1557410,Everton,Ipswich,4.0,4.0,21.0,13.0,2.0,4.0,,
+1557411,Fulham,Manchester United,3.0,13.0,12.0,29.0,6.0,6.0,,
+1557412,Leeds,Crystal Palace,4.0,3.0,13.0,12.0,2.0,4.0,,
+1557413,Manchester City,Sunderland,6.0,5.0,16.0,17.0,6.0,9.0,,
+1557414,Newcastle,Hull City,4.0,7.0,12.0,22.0,5.0,4.0,,
+1557415,Nottingham Forest,Coventry,6.0,2.0,24.0,10.0,3.0,3.0,,
+1557416,Tottenham,Aston Villa,11.0,1.0,20.0,15.0,7.0,6.0,,
+1570383,Alaves,Valencia,2.0,5.0,15.0,10.0,3.0,3.0,,
+1570384,Atletico Madrid,Osasuna,8.0,0.0,27.0,3.0,11.0,1.0,,
+1570385,Barcelona,Racing Santander,18.0,0.0,30.0,5.0,9.0,3.0,,
+1570386,Real Betis,Getafe,4.0,3.0,22.0,8.0,8.0,2.0,,
+1570387,Deportivo La Coruna,Sevilla,4.0,4.0,4.0,11.0,3.0,6.0,,
+1570388,Elche,Real Madrid,2.0,5.0,11.0,20.0,3.0,4.0,,
+1570390,Malaga,Villarreal,4.0,8.0,5.0,16.0,1.0,7.0,,
+1570391,Rayo Vallecano,Espanyol,3.0,5.0,16.0,19.0,2.0,5.0,,
+1570393,Athletic Club,Alaves,5.0,1.0,24.0,2.0,6.0,0.0,,
+1570394,Atletico Madrid,Real Madrid,3.0,1.0,18.0,8.0,9.0,3.0,,
+1570395,Celta Vigo,Racing Santander,3.0,3.0,13.0,11.0,9.0,5.0,,
+1570396,Deportivo La Coruna,Real Betis,11.0,5.0,24.0,11.0,7.0,4.0,,
+1570397,Espanyol,Elche,3.0,3.0,23.0,9.0,4.0,6.0,,
+1570398,Getafe,Malaga,5.0,9.0,20.0,11.0,7.0,4.0,,
+1570399,Osasuna,Rayo Vallecano,4.0,4.0,10.0,19.0,3.0,2.0,,
+1570400,Sevilla,Barcelona,1.0,3.0,7.0,24.0,3.0,7.0,,
+1570401,Valencia,Real Sociedad,7.0,5.0,22.0,21.0,5.0,6.0,,
+1570402,Villarreal,Levante,7.0,1.0,21.0,6.0,7.0,1.0,,
+1575167,Bayern München,Union Berlin,9.0,2.0,23.0,3.0,15.0,2.0,,
+1575168,VfB Stuttgart,Borussia Dortmund,6.0,2.0,12.0,13.0,5.0,2.0,,
+1575169,Bayer Leverkusen,RB Leipzig,9.0,6.0,18.0,12.0,6.0,3.0,,
+1575170,Eintracht Frankfurt,SC Freiburg,3.0,5.0,10.0,22.0,3.0,7.0,,
+1575171,Hamburger SV,1. FC Köln,3.0,5.0,12.0,18.0,7.0,5.0,,
+1575172,Werder Bremen,FC Augsburg,2.0,2.0,20.0,7.0,11.0,4.0,,
+1575173,FC Schalke 04,SV Elversberg,4.0,4.0,13.0,11.0,1.0,1.0,,
+1575174,Borussia Mönchengladbach,FSV Mainz 05,6.0,4.0,21.0,17.0,7.0,8.0,,
+1575175,SC Paderborn 07,1899 Hoffenheim,6.0,5.0,13.0,23.0,5.0,2.0,,
+1630778,Platense,Fluminense,12.0,0.0,16.0,7.0,6.0,2.0,,
+1631508,Corinthians,Estudiantes L.P.,3.0,4.0,9.0,6.0,2.0,2.0,,
+1631509,LDU de Quito,Palmeiras,10.0,4.0,16.0,11.0,5.0,4.0,,
+1635387,Flamengo,Independiente del Valle,5.0,3.0,10.0,8.0,3.0,4.0,,
+8377,Brazil,Norway,5.0,5.0,14.0,9.0,4.0,5.0,2026-07-05,World Cup 2026
+10012,Náutico,Juventude,6.0,2.0,16.0,11.0,3.0,5.0,2026-07-05,Brasileirão Serie B
+215902,Serbia U19,Croatia U19,5.0,3.0,3.0,10.0,1.0,7.0,2026-07-05,UEFA European U19 Championship
+215903,Ukraine U19,Italy U19,1.0,13.0,5.0,31.0,2.0,8.0,2026-07-05,UEFA European U19 Championship
+8378,Mexico,England,12.0,2.0,20.0,6.0,5.0,5.0,2026-07-06,World Cup 2026
+8379,Portugal,Spain,3.0,7.0,10.0,15.0,2.0,6.0,2026-07-06,World Cup 2026
+10005,Botafogo-SP,Avaí,6.0,2.0,9.0,11.0,5.0,4.0,2026-07-06,Brasileirão Serie B
+10013,Vila Nova FC,São Bernardo,6.0,6.0,17.0,9.0,5.0,6.0,2026-07-06,Brasileirão Serie B
+8380,USA,Belgium,3.0,5.0,7.0,15.0,2.0,7.0,2026-07-07,World Cup 2026
+8381,Argentina,Egypt,6.0,1.0,19.0,5.0,7.0,2.0,2026-07-07,World Cup 2026
+8382,Switzerland,Colombia,3.0,7.0,7.0,15.0,2.0,3.0,2026-07-07,World Cup 2026
+10004,Athletic Club,Operário-PR,8.0,6.0,18.0,11.0,2.0,4.0,2026-07-07,Brasileirão Serie B
+210744,Sabah FK,The New Saints,,,,,,,2026-07-07,Champions League
+210745,FK Borac Banja Luka,Levski Sofia,,,,,,,2026-07-07,Champions League
+210746,FC Ararat-Armenia,Riga FC,,,,,,,2026-07-07,Champions League
+210747,Víkingur Reykjavík,ETO FC Győr,5.0,1.0,21.0,5.0,7.0,0.0,2026-07-07,Champions League
+210748,Floriana FC,Shamrock Rovers,,,,,,,2026-07-07,Champions League
+210751,FK Vardar Skopje,Kuopion Palloseura,,,,,,,2026-07-07,Champions League
+210752,FK Kauno Žalgiris,FC Drita,,,,,,,2026-07-07,Champions League
+210753,SP Tre Fiori,Larne FC,,,,,,,2026-07-07,Champions League
+210754,Lincoln Red Imps,Inter Club d'Escaldes,,,,,,,2026-07-07,Champions League
+210755,Klaksvíkar Ítróttarfelag,Atert Bissen,,,,,,,2026-07-07,Champions League
+221077,AF Elbasani,BATE Borisov,,,,,,,2026-07-07,Conference League
+221473,Una Strassen,La Fiorita,,,,,,,2026-07-07,Conference League
+10021,Ponte Preta,Criciúma,1.0,6.0,11.0,17.0,4.0,4.0,2026-07-08,Brasileirão Serie B
+210743,FC Kairat Almaty,FK Sutjeska Nikšić,,,,,,,2026-07-08,Champions League
+210749,ML Vitebsk,Universitatea Craiova,,,,,,,2026-07-08,Champions League
+210750,Flora Tallinn,FC Iberia 1999,,,,,,,2026-07-08,Champions League
+210756,FC Petrocub Hîncesti,KF Egnatia,,,,,,,2026-07-08,Champions League
+215904,Denmark U19,Italy U19,4.0,9.0,9.0,32.0,3.0,5.0,2026-07-08,UEFA European U19 Championship
+215905,Spain U19,Croatia U19,4.0,2.0,15.0,5.0,5.0,3.0,2026-07-08,UEFA European U19 Championship
+215906,Germany U19,Ukraine U19,8.0,3.0,16.0,6.0,4.0,1.0,2026-07-08,UEFA European U19 Championship
+221078,Zirə FK,FC Torpedo Kutaisi,,,,,,,2026-07-08,Conference League
+221079,Connah's Quay Nomads,KF Ballkani,,,,,,,2026-07-08,Conference League
+221080,Differdange FC 03,Ilves,,,,,,,2026-07-08,Conference League
+8383,France,Morocco,5.0,5.0,22.0,5.0,8.0,1.0,2026-07-09,World Cup 2026
+210779,Qarabağ FK,IF Vestri,,,,,,,2026-07-09,Europa League
+210780,HNK Hajduk Split,MŠK Žilina,,,,,,,2026-07-09,Europa League
+210781,FK Vojvodina,Ferencváros TC,,,,,,,2026-07-09,Europa League
+210782,Dynamo Kyiv,FC Universitatea Cluj,,,,,,,2026-07-09,Europa League
+210783,CSKA Sofia,Derry City,,,,,,,2026-07-09,Europa League
+210784,Sheriff Tiraspol,NK Aluminij Kidričevo,,,,,,,2026-07-09,Europa League
+221081,Atlètic Club Escaldes,FK Mornar Bar,,,,,,,2026-07-09,Conference League
+221082,FC Alashkert,Yelimay Semey,,,,,,,2026-07-09,Conference League
+221083,FK Liepaja,FK Dečić Tuzi,,,,,,,2026-07-09,Conference League
+221084,FC Dila Gori,SS Virtus,,,,,,,2026-07-09,Conference League
+221085,FC Hegelmann,Paide Linnameeskond,,,,,,,2026-07-09,Conference League
+221086,Nõmme Kalju,Linfield,,,,,,,2026-07-09,Conference League
+221087,FK Velež Mostar,FC Milsami Orhei,,,,,,,2026-07-09,Conference League
+221088,Marsaxlokk FC,Pyunik Yerevan,,,,,,,2026-07-09,Conference League
+221089,Bohemian FC,St Joseph's FC,,,,,,,2026-07-09,Conference League
+221090,Dinamo Minsk,FK Sileks Kratovo,,,,,,,2026-07-09,Conference League
+221091,US Mondorf-Les-Bains,Dinamo Tbilisi,,,,,,,2026-07-09,Conference League
+221092,Europa FC,KF Shkëndija,,,,,,,2026-07-09,Conference League
+221093,Caernarfon Town,FCI Levadia Tallinn,,,,,,,2026-07-09,Conference League
+221094,KF Vllaznia,FC Malisheva,,,,,,,2026-07-09,Conference League
+221095,Glentoran,RFS,,,,,,,2026-07-09,Conference League
+221096,Penybont,FC Santa Coloma,,,,,,,2026-07-09,Conference League
+221097,NSÍ Runavík,Ħamrun Spartans FC,,,,,,,2026-07-09,Conference League
+221098,OFK Petrovac,FK Žalgiris,,,,,,,2026-07-09,Conference League
+221099,Stjarnan Garðabær,Víkingur Gøta,,,,,,,2026-07-09,Conference League
+221100,Dinamo City,Astana,,,,,,,2026-07-09,Conference League
+221101,FK Sarajevo,Inter Turku,,,,,,,2026-07-09,Conference League
+8384,Spain,Belgium,5.0,1.0,17.0,5.0,8.0,2.0,2026-07-10,World Cup 2026
+10019,Juventude,Vila Nova FC,5.0,2.0,10.0,8.0,4.0,0.0,2026-07-10,Brasileirão Serie B
+10022,Sport Recife,Botafogo-SP,7.0,2.0,21.0,12.0,5.0,4.0,2026-07-10,Brasileirão Serie B
+8385,Norway,England,7.0,4.0,13.0,14.0,4.0,8.0,2026-07-11,World Cup 2026
+215951,Spain U19,Germany U19,12.0,4.0,17.0,13.0,4.0,5.0,2026-07-11,UEFA European U19 Championship
+8386,Argentina,Switzerland,8.0,2.0,22.0,11.0,7.0,5.0,2026-07-12,World Cup 2026
+10015,Atlético Goianiense,Fortaleza,1.0,11.0,6.0,15.0,2.0,3.0,2026-07-12,Brasileirão Serie B
+10016,Avaí,Náutico,6.0,5.0,15.0,16.0,3.0,1.0,2026-07-12,Brasileirão Serie B
+10017,CRB,Goiás,6.0,1.0,21.0,4.0,3.0,2.0,2026-07-12,Brasileirão Serie B
+10020,Operário-PR,Grêmio Novorizontino,10.0,2.0,10.0,12.0,4.0,5.0,2026-07-12,Brasileirão Serie B
+10023,São Bernardo,Cuiabá,6.0,7.0,11.0,9.0,3.0,3.0,2026-07-12,Brasileirão Serie B
+10014,América Mineiro,Londrina,7.0,7.0,24.0,12.0,6.0,2.0,2026-07-13,Brasileirão Serie B
+10018,Ceará,Athletic Club,7.0,6.0,12.0,13.0,2.0,1.0,2026-07-13,Brasileirão Serie B
+8387,France,Spain,7.0,1.0,10.0,10.0,3.0,2.0,2026-07-14,World Cup 2026
+210758,The New Saints,Sabah FK,,,,,,,2026-07-14,Champions League
+210759,Levski Sofia,FK Borac Banja Luka,,,,,,,2026-07-14,Champions League
+210760,Riga FC,FC Ararat-Armenia,,,,,,,2026-07-14,Champions League
+210761,ETO FC Győr,Víkingur Reykjavík,5.0,4.0,12.0,10.0,2.0,2.0,2026-07-14,Champions League
+210762,Shamrock Rovers,Floriana FC,,,,,,,2026-07-14,Champions League
+210764,FC Iberia 1999,Flora Tallinn,,,,,,,2026-07-14,Champions League
+210765,Kuopion Palloseura,FK Vardar Skopje,,,,,,,2026-07-14,Champions League
+210766,FC Drita,FK Kauno Žalgiris,,,,,,,2026-07-14,Champions League
+210767,Larne FC,SP Tre Fiori,,,,,,,2026-07-14,Champions League
+210768,Inter Club d'Escaldes,Lincoln Red Imps,,,,,,,2026-07-14,Champions League
+221102,La Fiorita,Una Strassen,,,,,,,2026-07-14,Conference League
+8388,England,Argentina,1.0,6.0,5.0,15.0,2.0,5.0,2026-07-15,World Cup 2026
+210757,FK Sutjeska Nikšić,FC Kairat Almaty,,,,,,,2026-07-15,Champions League
+210763,Universitatea Craiova,ML Vitebsk,,,,,,,2026-07-15,Champions League
+210769,Atert Bissen,Klaksvíkar Ítróttarfelag,,,,,,,2026-07-15,Champions League
+210770,KF Egnatia,FC Petrocub Hîncesti,,,,,,,2026-07-15,Champions League
+221103,FC Malisheva,KF Vllaznia,,,,,,,2026-07-15,Conference League
+221104,FK Dečić Tuzi,FK Liepaja,,,,,,,2026-07-15,Conference League
+7175,Botafogo,Santos,5.0,6.0,17.0,22.0,6.0,9.0,2026-07-16,Brasileirão Serie A
+7183,Vitória,Vasco da Gama,3.0,2.0,14.0,13.0,5.0,3.0,2026-07-16,Brasileirão Serie A
+10026,CRB,Náutico,4.0,3.0,20.0,7.0,8.0,2.0,2026-07-16,Brasileirão Serie B
+210785,IF Vestri,Qarabağ FK,,,,,,,2026-07-16,Europa League
+210786,MŠK Žilina,HNK Hajduk Split,,,,,,,2026-07-16,Europa League
+210787,Ferencváros TC,FK Vojvodina,,,,,,,2026-07-16,Europa League
+210788,FC Universitatea Cluj,Dynamo Kyiv,6.0,2.0,11.0,22.0,3.0,7.0,2026-07-16,Europa League
+210789,Derry City,CSKA Sofia,,,,,,,2026-07-16,Europa League
+210790,NK Aluminij Kidričevo,Sheriff Tiraspol,,,,,,,2026-07-16,Europa League
+221047,Inter Turku,FK Sarajevo,,,,,,,2026-07-16,Conference League
+221048,Pyunik Yerevan,Marsaxlokk FC,,,,,,,2026-07-16,Conference League
+221049,St Joseph's FC,Bohemian FC,,,,,,,2026-07-16,Conference League
+221050,Paide Linnameeskond,FC Hegelmann,,,,,,,2026-07-16,Conference League
+221051,FC Torpedo Kutaisi,Zirə FK,,,,,,,2026-07-16,Conference League
+221052,Ilves,Differdange FC 03,,,,,,,2026-07-16,Conference League
+221053,FCI Levadia Tallinn,Caernarfon Town,,,,,,,2026-07-16,Conference League
+221054,RFS,Glentoran,,,,,,,2026-07-16,Conference League
+221055,Dinamo Tbilisi,US Mondorf-Les-Bains,,,,,,,2026-07-16,Conference League
+221056,FC Santa Coloma,Penybont,,,,,,,2026-07-16,Conference League
+221057,FC Milsami Orhei,FK Velež Mostar,,,,,,,2026-07-16,Conference League
+221058,BATE Borisov,AF Elbasani,,,,,,,2026-07-16,Conference League
+221059,Víkingur Gøta,Stjarnan Garðabær,,,,,,,2026-07-16,Conference League
+221060,FK Žalgiris,OFK Petrovac,,,,,,,2026-07-16,Conference League
+221061,Ħamrun Spartans FC,NSÍ Runavík,,,,,,,2026-07-16,Conference League
+221062,KF Shkëndija,Europa FC,,,,,,,2026-07-16,Conference League
+221063,KF Ballkani,Connah's Quay Nomads,,,,,,,2026-07-16,Conference League
+221064,FK Sileks Kratovo,Dinamo Minsk,,,,,,,2026-07-16,Conference League
+221065,FK Mornar Bar,Atlètic Club Escaldes,,,,,,,2026-07-16,Conference League
+221066,Linfield,Nõmme Kalju,,,,,,,2026-07-16,Conference League
+221067,SS Virtus,FC Dila Gori,,,,,,,2026-07-16,Conference League
+221105,Yelimay Semey,FC Alashkert,,,,,,,2026-07-16,Conference League
+221106,Astana,Dinamo City,,,,,,,2026-07-16,Conference League
+7179,Fluminense,Red Bull Bragantino,11.0,4.0,24.0,6.0,4.0,2.0,2026-07-17,Brasileirão Serie A
+7181,Mirassol,Grêmio,5.0,4.0,14.0,9.0,3.0,4.0,2026-07-17,Brasileirão Serie A
+10024,América Mineiro,Ceará,4.0,5.0,12.0,11.0,4.0,3.0,2026-07-17,Brasileirão Serie B
+10029,Juventude,Cuiabá,3.0,5.0,14.0,15.0,4.0,5.0,2026-07-17,Brasileirão Serie B
+10033,São Bernardo,Avaí,9.0,2.0,11.0,5.0,3.0,2.0,2026-07-17,Brasileirão Serie B
+212738,Bahia,Chapecoense,10.0,6.0,16.0,10.0,6.0,2.0,2026-07-17,Brasileirão Serie A
+8389,France,England,3.0,4.0,19.0,19.0,9.0,11.0,2026-07-18,World Cup 2026
+10025,Atlético Goianiense,Athletic Club,8.0,1.0,18.0,8.0,4.0,2.0,2026-07-18,Brasileirão Serie B
+10027,Criciúma,Vila Nova FC,5.0,2.0,9.0,12.0,4.0,2.0,2026-07-18,Brasileirão Serie B
+10028,Fortaleza,Grêmio Novorizontino,10.0,6.0,17.0,19.0,4.0,4.0,2026-07-18,Brasileirão Serie B
+10030,Londrina,Botafogo-SP,8.0,3.0,22.0,5.0,5.0,0.0,2026-07-18,Brasileirão Serie B
+10031,Ponte Preta,Goiás,5.0,2.0,14.0,8.0,4.0,2.0,2026-07-18,Brasileirão Serie B
+10032,Sport Recife,Operário-PR,7.0,1.0,23.0,16.0,8.0,6.0,2026-07-18,Brasileirão Serie B
+8390,Spain,Argentina,9.0,4.0,20.0,2.0,12.0,0.0,2026-07-19,World Cup 2026
+7174,Atlético Mineiro,Bahia,6.0,4.0,16.0,21.0,4.0,4.0,2026-07-21,Brasileirão Serie A
+10035,Avaí,América Mineiro,3.0,3.0,10.0,8.0,4.0,6.0,2026-07-21,Brasileirão Serie B
+10040,Grêmio Novorizontino,Criciúma,7.0,7.0,13.0,10.0,2.0,1.0,2026-07-21,Brasileirão Serie B
+207977,Nacional,Tigre,2.0,2.0,7.0,11.0,1.0,4.0,2026-07-21,Copa Sudamericana
+210771,Fenerbahçe,Górnik Zabrze,9.0,2.0,15.0,2.0,6.0,1.0,2026-07-21,Champions League
+210772,FC Thun,GNK Dinamo Zagreb,9.0,5.0,16.0,20.0,3.0,6.0,2026-07-21,Champions League
+210773,SK Sturm Graz,Heart of Midlothian,4.0,12.0,20.0,19.0,6.0,6.0,2026-07-21,Champions League
+210774,AGF,Lech Poznań,4.0,2.0,11.0,17.0,4.0,7.0,2026-07-21,Champions League
+216499,Larne FC,FK Crvena zvezda,,,,,,,2026-07-21,Champions League
+216500,FC Iberia 1999,ŠK Slovan Bratislava,,,,,,,2026-07-21,Champions League
+216501,Mjällby AIF,Lincoln Red Imps,,,,,,,2026-07-21,Champions League
+216502,Víkingur Reykjavík,Hapoel Be'er Sheva,,,,,,,2026-07-21,Champions League
+216503,FC Ararat-Armenia,Shamrock Rovers,,,,,,,2026-07-21,Champions League
+216514,Klaksvíkar Ítróttarfelag,FK Kauno Žalgiris,,,,,,,2026-07-21,Champions League
+216515,Sabah FK,Kuopion Palloseura,,,,,,,2026-07-21,Champions League
+221068,IFK Göteborg,FCI Levadia Tallinn,,,,,,,2026-07-21,Conference League
+221069,Floriana FC,FC Drita,,,,,,,2026-07-21,Conference League
+221070,Atert Bissen,ETO FC Győr,5.0,4.0,21.0,15.0,10.0,10.0,2026-07-21,Conference League
+7178,Coritiba,Palmeiras,8.0,4.0,17.0,14.0,6.0,6.0,2026-07-22,Brasileirão Serie A
+10037,Ceará,CRB,7.0,1.0,20.0,12.0,6.0,3.0,2026-07-22,Brasileirão Serie B
+10039,Goiás,Sport Recife,9.0,2.0,15.0,6.0,3.0,2.0,2026-07-22,Brasileirão Serie B
+10042,Operário-PR,Ponte Preta,6.0,6.0,20.0,11.0,4.0,5.0,2026-07-22,Brasileirão Serie B
+10043,Vila Nova FC,Fortaleza,4.0,4.0,10.0,9.0,4.0,3.0,2026-07-22,Brasileirão Serie B
+207972,Universidad Central,Santos,2.0,6.0,8.0,17.0,4.0,7.0,2026-07-22,Copa Sudamericana
+207973,Independiente Medellín,Vasco da Gama,3.0,6.0,12.0,13.0,3.0,4.0,2026-07-22,Copa Sudamericana
+216511,Levski Sofia,Universitatea Craiova,,,,,,,2026-07-22,Champions League
+216512,Omonia Nicosia,FC Kairat Almaty,,,,,,,2026-07-22,Champions League
+216513,KF Egnatia,NK Celje,,,,,,,2026-07-22,Champions League
+221071,Neftçi PFK,Dinamo Minsk,,,,,,,2026-07-22,Conference League
+221072,Bohemian FC,KF Ballkani,,,,,,,2026-07-22,Conference League
+221073,Başakşehir FK,Inter Turku,8.0,1.0,24.0,12.0,9.0,5.0,2026-07-22,Conference League
+221074,FK Vardar Skopje,Riga FC,,,,,,,2026-07-22,Conference League
+221075,FC Spartak Trnava,FC CSKA 1948 Sofia,,,,,,,2026-07-22,Conference League
+221076,FK Železničar Pančevo,Sporting Braga,,,,,,,2026-07-22,Conference League
+7176,Chapecoense,Flamengo,5.0,3.0,13.0,10.0,3.0,6.0,2026-07-23,Brasileirão Serie A
+7177,Corinthians,Remo,3.0,4.0,15.0,3.0,7.0,0.0,2026-07-23,Brasileirão Serie A
+7180,Internacional,Cruzeiro,5.0,7.0,21.0,13.0,3.0,6.0,2026-07-23,Brasileirão Serie A
+7182,São Paulo,Athletico,7.0,3.0,18.0,11.0,3.0,3.0,2026-07-23,Brasileirão Serie A
+10034,Athletic Club,São Bernardo,2.0,7.0,10.0,21.0,5.0,11.0,2026-07-23,Brasileirão Serie B
+10038,Cuiabá,Atlético Goianiense,8.0,2.0,14.0,6.0,3.0,3.0,2026-07-23,Brasileirão Serie B
+10041,Náutico,Londrina,8.0,7.0,17.0,12.0,4.0,4.0,2026-07-23,Brasileirão Serie B
+207971,CA Lanús,Cienciano,7.0,0.0,15.0,3.0,5.0,1.0,2026-07-23,Copa Sudamericana
+207975,Bolívar,Grêmio,6.0,6.0,31.0,13.0,10.0,5.0,2026-07-23,Copa Sudamericana
+207976,Club Sporting Cristal,Red Bull Bragantino,5.0,2.0,19.0,14.0,6.0,5.0,2026-07-23,Copa Sudamericana
+210791,FC St. Gallen 1879,Benfica,,,,,,,2026-07-23,Europa League
+210792,Beşiktaş JK,FC Midtjylland,,,,,,,2026-07-23,Europa League
+210793,Hammarby IF,RSC Anderlecht,,,,,,,2026-07-23,Europa League
+212739,Botafogo,Vitória,9.0,3.0,19.0,5.0,6.0,1.0,2026-07-23,Brasileirão Serie A
+213036,Tromsø IL,FC Hradec Králové,,,,,,,2026-07-23,Europa League
+216523,Dynamo Kyiv,PAOK,,,,,,,2026-07-23,Europa League
+216524,FC Twente,Ferencváros TC,,,,,,,2026-07-23,Europa League
+216525,HNK Hajduk Split,Pafos FC,,,,,,,2026-07-23,Europa League
+216526,Sheriff Tiraspol,Maccabi Tel Aviv,,,,,,,2026-07-23,Europa League
+216527,Qarabağ FK,CSKA Sofia,,,,,,,2026-07-23,Europa League
+221107,FC Malisheva,Hibernian,,,,,,,2026-07-23,Conference League
+221108,FC Alashkert,CFR 1907 Cluj,,,,,,,2026-07-23,Conference League
+221109,FK Liepaja,FK Austria Wien,6.0,3.0,14.0,10.0,3.0,3.0,2026-07-23,Conference League
+221110,FK Panevėžys,FC Tobyl,,,,,,,2026-07-23,Conference League
+221111,Flora Tallinn,The New Saints,,,,,,,2026-07-23,Conference League
+221112,HJK,Coleraine FC,,,,,,,2026-07-23,Conference League
+221113,Paide Linnameeskond,Zirə FK,,,,,,,2026-07-23,Conference League
+221114,FC Dila Gori,Apollon Limassol,,,,,,,2026-07-23,Conference League
+221115,Debreceni VSC,Pyunik Yerevan,4.0,4.0,20.0,18.0,1.0,3.0,2026-07-23,Conference League
+221116,AEK Larnaca,Beitar Jerusalem,,,,,,,2026-07-23,Conference League
+221117,RFS,IF Vestri,,,,,,,2026-07-23,Conference League
+221118,Raków Częstochowa,Valletta FC,,,,,,,2026-07-23,Conference League
+221119,DAC 1904,FK Velež Mostar,,,,,,,2026-07-23,Conference League
+221120,FC Universitatea Cluj,SK Brann,,,,,,,2026-07-23,Conference League
+221121,GAIS,FC Nordsjælland,8.0,6.0,16.0,10.0,4.0,1.0,2026-07-23,Conference League
+221122,FC Santa Coloma,SK Rapid Wien,2.0,7.0,10.0,21.0,2.0,8.0,2026-07-23,Conference League
+221123,Dinamo Tbilisi,FK Žalgiris,,,,,,,2026-07-23,Conference League
+221124,FC Zimbru Chişinău,FC Noah,,,,,,,2026-07-23,Conference League
+221125,BATE Borisov,FC Sion,1.0,8.0,9.0,23.0,2.0,8.0,2026-07-23,Conference League
+221126,ML Vitebsk,FK Sutjeska Nikšić,,,,,,,2026-07-23,Conference League
+221127,FC Vaduz,Atlètic Club Escaldes,,,,,,,2026-07-23,Conference League
+221128,FCSB,FK Auda,,,,,,,2026-07-23,Conference League
+221129,FK Vojvodina,AFC Ajax,1.0,10.0,9.0,18.0,4.0,10.0,2026-07-23,Conference League
+221130,Polissya Zhytomyr,FC København,2.0,3.0,20.0,11.0,7.0,7.0,2026-07-23,Conference League
+221131,Paksi FC,Panathinaikos FC,5.0,4.0,15.0,18.0,2.0,6.0,2026-07-23,Conference League
+221132,NK Varaždin,FK Jablonec,,,,,,,2026-07-23,Conference League
+221133,NK Aluminij Kidričevo,Dinamo City,,,,,,,2026-07-23,Conference League
+221134,Hapoel Tel Aviv,Ludogorets,,,,,,,2026-07-23,Conference League
+221135,LNZ Cherkasy,KAA Gent,,,,,,,2026-07-23,Conference League
+221136,FC Lugano,Dukagjini,7.0,3.0,24.0,12.0,7.0,3.0,2026-07-23,Conference League
+221137,FK Borac Banja Luka,FC Petrocub Hîncesti,,,,,,,2026-07-23,Conference League
+221138,MŠK Žilina,GKS Katowice,,,,,,,2026-07-23,Conference League
+221139,HNK Rijeka,Derry City,,,,,,,2026-07-23,Conference League
+221140,Shelbourne,Nõmme Kalju,,,,,,,2026-07-23,Conference League
+221141,NK Bravo,KF Shkëndija,,,,,,,2026-07-23,Conference League
+221142,Motherwell,HB Tórshavn,,,,,,,2026-07-23,Conference League
+221143,NSÍ Runavík,FC Koper,,,,,,,2026-07-23,Conference League
+221144,FK Partizan,Una Strassen,,,,,,,2026-07-23,Conference League
+221145,Stjarnan Garðabær,Ilves,,,,,,,2026-07-23,Conference League
+221146,Valur Reykjavík,HŠK Zrinjski Mostar,,,,,,,2026-07-23,Conference League
+10036,Botafogo-SP,Juventude,4.0,9.0,13.0,18.0,4.0,3.0,2026-07-24,Brasileirão Serie B
+207974,Boca Juniors,O'Higgins,7.0,3.0,15.0,10.0,2.0,3.0,2026-07-24,Copa Sudamericana
+207978,Independiente Santa Fe,Caracas F.C.,5.0,2.0,13.0,10.0,3.0,1.0,2026-07-24,Copa Sudamericana
+7184,Athletico,Internacional,3.0,7.0,14.0,13.0,3.0,3.0,2026-07-25,Brasileirão Serie A
+7192,Santos,Chapecoense,12.0,1.0,21.0,5.0,7.0,3.0,2026-07-25,Brasileirão Serie A
+7193,Vasco da Gama,Mirassol,9.0,5.0,20.0,10.0,4.0,3.0,2026-07-25,Brasileirão Serie A
+7185,Bahia,Corinthians,7.0,2.0,13.0,5.0,2.0,2.0,2026-07-26,Brasileirão Serie A
+7186,Cruzeiro,Botafogo,9.0,1.0,16.0,8.0,6.0,4.0,2026-07-26,Brasileirão Serie A
+7187,Flamengo,São Paulo,5.0,2.0,18.0,4.0,6.0,1.0,2026-07-26,Brasileirão Serie A
+7188,Grêmio,Fluminense,9.0,2.0,12.0,7.0,5.0,3.0,2026-07-26,Brasileirão Serie A
+7189,Palmeiras,Atlético Mineiro,10.0,5.0,21.0,9.0,6.0,4.0,2026-07-26,Brasileirão Serie A
+7190,Red Bull Bragantino,Coritiba,8.0,1.0,20.0,5.0,3.0,3.0,2026-07-26,Brasileirão Serie A
+7191,Remo,Vitória,4.0,9.0,15.0,14.0,9.0,6.0,2026-07-26,Brasileirão Serie A
+10044,América Mineiro,Goiás,2.0,10.0,5.0,18.0,2.0,7.0,2026-07-26,Brasileirão Serie B
+10047,Criciúma,Náutico,7.0,4.0,16.0,12.0,5.0,4.0,2026-07-26,Brasileirão Serie B
+10050,Londrina,Grêmio Novorizontino,5.0,10.0,21.0,12.0,3.0,6.0,2026-07-26,Brasileirão Serie B
+10053,São Bernardo,Ceará,10.0,3.0,20.0,17.0,5.0,7.0,2026-07-26,Brasileirão Serie B
+10046,CRB,Vila Nova FC,6.0,5.0,22.0,11.0,10.0,4.0,2026-07-27,Brasileirão Serie B
+10052,Sport Recife,Cuiabá,8.0,11.0,17.0,10.0,3.0,3.0,2026-07-27,Brasileirão Serie B
+215949,Atlético Goianiense,Operário-PR,3.0,2.0,16.0,16.0,8.0,3.0,2026-07-27,Brasileirão Serie B
+10049,Juventude,Avaí,3.0,3.0,11.0,10.0,6.0,1.0,2026-07-28,Brasileirão Serie B
+10051,Ponte Preta,Athletic Club,1.0,1.0,13.0,12.0,6.0,4.0,2026-07-28,Brasileirão Serie B
+207984,Tigre,Nacional,2.0,6.0,8.0,7.0,3.0,3.0,2026-07-28,Copa Sudamericana
+210776,GNK Dinamo Zagreb,FC Thun,15.0,1.0,32.0,8.0,6.0,3.0,2026-07-28,Champions League
+210777,Heart of Midlothian,SK Sturm Graz,8.0,2.0,15.0,17.0,4.0,9.0,2026-07-28,Champions League
+216507,Lincoln Red Imps,Mjällby AIF,,,,,,,2026-07-28,Champions League
+216510,Shamrock Rovers,FC Ararat-Armenia,,,,,,,2026-07-28,Champions League
+216518,NK Celje,KF Egnatia,,,,,,,2026-07-28,Champions League
+216520,Kuopion Palloseura,Sabah FK,,,,,,,2026-07-28,Champions League
+221147,Riga FC,FK Vardar Skopje,,,,,,,2026-07-28,Conference League
+221148,Apollon Limassol,FC Dila Gori,,,,,,,2026-07-28,Conference League
+221149,FC CSKA 1948 Sofia,FC Spartak Trnava,,,,,,,2026-07-28,Conference League
+221150,FC Drita,Floriana FC,,,,,,,2026-07-28,Conference League
+7200,Internacional,Flamengo,2.0,3.0,16.0,14.0,5.0,5.0,2026-07-29,Brasileirão Serie A
+7201,Mirassol,Remo,6.0,3.0,8.0,13.0,4.0,2.0,2026-07-29,Brasileirão Serie A
+10048,Fortaleza,Botafogo-SP,10.0,6.0,18.0,9.0,5.0,5.0,2026-07-29,Brasileirão Serie B
+207979,Santos,Universidad Central,6.0,4.0,25.0,14.0,9.0,7.0,2026-07-29,Copa Sudamericana
+207980,Vasco da Gama,Independiente Medellín,3.0,4.0,13.0,7.0,4.0,0.0,2026-07-29,Copa Sudamericana
+210775,Górnik Zabrze,Fenerbahçe,9.0,7.0,15.0,14.0,6.0,2.0,2026-07-29,Champions League
+210778,Lech Poznań,AGF,14.0,3.0,18.0,14.0,9.0,6.0,2026-07-29,Champions League
+216505,FK Crvena zvezda,Larne FC,,,,,,,2026-07-29,Champions League
+216506,ŠK Slovan Bratislava,FC Iberia 1999,,,,,,,2026-07-29,Champions League
+216508,Hapoel Be'er Sheva,Víkingur Reykjavík,,,,,,,2026-07-29,Champions League
+216516,Universitatea Craiova,Levski Sofia,,,,,,,2026-07-29,Champions League
+216517,FC Kairat Almaty,Omonia Nicosia,,,,,,,2026-07-29,Champions League
+216519,FK Kauno Žalgiris,Klaksvíkar Ítróttarfelag,,,,,,,2026-07-29,Champions League
+221151,Dukagjini,FC Lugano,1.0,5.0,9.0,12.0,4.0,7.0,2026-07-29,Conference League
+221152,FC København,Polissya Zhytomyr,2.0,14.0,5.0,26.0,2.0,4.0,2026-07-29,Conference League
+221153,SK Rapid Wien,FC Santa Coloma,2.0,3.0,15.0,6.0,10.0,2.0,2026-07-29,Conference League
+7197,Corinthians,Athletico,6.0,2.0,7.0,4.0,4.0,1.0,2026-07-30,Brasileirão Serie A
+7199,Fluminense,Bahia,8.0,1.0,25.0,10.0,11.0,0.0,2026-07-30,Brasileirão Serie A
+7203,Vitória,Palmeiras,6.0,1.0,10.0,16.0,3.0,5.0,2026-07-30,Brasileirão Serie A
+207982,Grêmio,Bolívar,11.0,1.0,31.0,19.0,12.0,6.0,2026-07-30,Copa Sudamericana
+207983,Red Bull Bragantino,Club Sporting Cristal,11.0,0.0,23.0,6.0,3.0,2.0,2026-07-30,Copa Sudamericana
+207985,Cienciano,CA Lanús,6.0,3.0,15.0,8.0,6.0,4.0,2026-07-30,Copa Sudamericana
+210795,Benfica,FC St. Gallen 1879,,,,,,,2026-07-30,Europa League
+210796,FC Midtjylland,Beşiktaş JK,,,,,,,2026-07-30,Europa League
+210797,RSC Anderlecht,Hammarby IF,10.0,0.0,21.0,6.0,6.0,3.0,2026-07-30,Europa League
+213417,FC Hradec Králové,Tromsø IL,,,,,,,2026-07-30,Europa League
+216528,PAOK,Dynamo Kyiv,,,,,,,2026-07-30,Europa League
+216529,Ferencváros TC,FC Twente,,,,,,,2026-07-30,Europa League
+216530,Pafos FC,HNK Hajduk Split,,,,,,,2026-07-30,Europa League
+216531,Maccabi Tel Aviv,Sheriff Tiraspol,,,,,,,2026-07-30,Europa League
+216532,CSKA Sofia,Qarabağ FK,,,,,,,2026-07-30,Europa League
+221154,Atlètic Club Escaldes,FC Vaduz,,,,,,,2026-07-30,Conference League
+221155,FC Tobyl,FK Panevėžys,,,,,,,2026-07-30,Conference League
+221156,FK Auda,FCSB,,,,,,,2026-07-30,Conference League
+221157,Inter Turku,Başakşehir FK,1.0,8.0,10.0,12.0,7.0,1.0,2026-07-30,Conference League
+221158,Zirə FK,Paide Linnameeskond,,,,,,,2026-07-30,Conference League
+221159,Nõmme Kalju,Shelbourne,,,,,,,2026-07-30,Conference League
+221160,FC Noah,FC Zimbru Chişinău,,,,,,,2026-07-30,Conference League
+221161,Ilves,Stjarnan Garðabær,,,,,,,2026-07-30,Conference League
+221162,FK Jablonec,NK Varaždin,,,,,,,2026-07-30,Conference League
+221163,Pyunik Yerevan,Debreceni VSC,7.0,10.0,18.0,16.0,4.0,5.0,2026-07-30,Conference League
+221164,FCI Levadia Tallinn,IFK Göteborg,,,,,,,2026-07-30,Conference League
+221165,SK Brann,FC Universitatea Cluj,,,,,,,2026-07-30,Conference League
+221166,Dinamo Minsk,Neftçi PFK,,,,,,,2026-07-30,Conference League
+221167,FC Nordsjælland,GAIS,2.0,1.0,22.0,10.0,10.0,2.0,2026-07-30,Conference League
+221168,FK Žalgiris,Dinamo Tbilisi,,,,,,,2026-07-30,Conference League
+221169,FC Petrocub Hîncesti,FK Borac Banja Luka,,,,,,,2026-07-30,Conference League
+221170,HB Tórshavn,Motherwell,,,,,,,2026-07-30,Conference League
+221171,ETO FC Győr,Atert Bissen,2.0,4.0,10.0,17.0,3.0,7.0,2026-07-30,Conference League
+221172,FK Velež Mostar,DAC 1904,1.0,4.0,12.0,11.0,1.0,5.0,2026-07-30,Conference League
+221173,Derry City,HNK Rijeka,,,,,,,2026-07-30,Conference League
+221174,The New Saints,Flora Tallinn,,,,,,,2026-07-30,Conference League
+221175,Beitar Jerusalem,AEK Larnaca,,,,,,,2026-07-30,Conference League
+221176,Valletta FC,Raków Częstochowa,,,,,,,2026-07-30,Conference League
+221177,AFC Ajax,FK Vojvodina,8.0,2.0,27.0,4.0,11.0,2.0,2026-07-30,Conference League
+221178,Ludogorets,Hapoel Tel Aviv,,,,,,,2026-07-30,Conference League
+221179,KF Ballkani,Bohemian FC,,,,,,,2026-07-30,Conference League
+221180,KF Shkëndija,NK Bravo,,,,,,,2026-07-30,Conference League
+221181,Una Strassen,FK Partizan,,,,,,,2026-07-30,Conference League
+221182,FC Sion,BATE Borisov,10.0,1.0,17.0,5.0,8.0,0.0,2026-07-30,Conference League
+221183,Panathinaikos FC,Paksi FC,8.0,5.0,20.0,8.0,8.0,4.0,2026-07-30,Conference League
+221184,KAA Gent,LNZ Cherkasy,,,,,,,2026-07-30,Conference League
+221185,CFR 1907 Cluj,FC Alashkert,,,,,,,2026-07-30,Conference League
+221186,HŠK Zrinjski Mostar,Valur Reykjavík,,,,,,,2026-07-30,Conference League
+221187,FK Austria Wien,FK Liepaja,8.0,3.0,17.0,10.0,10.0,4.0,2026-07-30,Conference League
+221188,GKS Katowice,MŠK Žilina,,,,,,,2026-07-30,Conference League
+221189,Coleraine FC,HJK,,,,,,,2026-07-30,Conference League
+221190,FC Koper,NSÍ Runavík,,,,,,,2026-07-30,Conference League
+221191,Sporting Braga,FK Železničar Pančevo,,,,,,,2026-07-30,Conference League
+221192,Hibernian,FC Malisheva,,,,,,,2026-07-30,Conference League
+221193,FK Sutjeska Nikšić,ML Vitebsk,,,,,,,2026-07-30,Conference League
+221194,Dinamo City,NK Aluminij Kidričevo,,,,,,,2026-07-30,Conference League
+221195,IF Vestri,RFS,,,,,,,2026-07-30,Conference League
+7198,Coritiba,Cruzeiro,4.0,2.0,19.0,20.0,2.0,4.0,2026-07-31,Brasileirão Serie A
+207981,O'Higgins,Boca Juniors,4.0,4.0,15.0,15.0,5.0,2.0,2026-07-31,Copa Sudamericana
+207986,Caracas F.C.,Independiente Santa Fe,8.0,0.0,14.0,14.0,4.0,4.0,2026-07-31,Copa Sudamericana
+603740,LASK,Grazer AK 1902,6.0,2.0,23.0,4.0,10.0,1.0,2026-07-31,Austrian Bundesliga
+207930,Vasco da Gama,Fluminense,2.0,3.0,6.0,12.0,1.0,2.0,2026-08-01,Copa do Brasil
+207934,Atlético Mineiro,Juventude,7.0,1.0,17.0,11.0,6.0,2.0,2026-08-01,Copa do Brasil
+603741,WSG Tirol,SK Sturm Graz,1.0,6.0,8.0,15.0,1.0,6.0,2026-08-01,Austrian Bundesliga
+603742,Red Bull Salzburg,TSV Hartberg,19.0,2.0,36.0,5.0,7.0,1.0,2026-08-01,Austrian Bundesliga
+207928,Internacional,Corinthians,4.0,5.0,12.0,13.0,3.0,3.0,2026-08-02,Copa do Brasil
+207929,Palmeiras,Fortaleza,7.0,7.0,18.0,17.0,9.0,2.0,2026-08-02,Copa do Brasil
+207931,Santos,Remo,8.0,1.0,20.0,6.0,4.0,3.0,2026-08-02,Copa do Brasil
+207932,Chapecoense,Cruzeiro,6.0,7.0,13.0,13.0,2.0,1.0,2026-08-02,Copa do Brasil
+207933,Mirassol,Grêmio,3.0,2.0,12.0,12.0,2.0,3.0,2026-08-02,Copa do Brasil
+603743,SC Austria Lustenau,SV Ried,4.0,9.0,14.0,23.0,4.0,7.0,2026-08-02,Austrian Bundesliga
+603744,Wolfsberger AC,FK Austria Wien,5.0,3.0,8.0,7.0,5.0,1.0,2026-08-02,Austrian Bundesliga
+603745,SK Rapid Wien,SCR Altach,6.0,5.0,18.0,6.0,4.0,2.0,2026-08-02,Austrian Bundesliga
+207935,Athletico,Vitória,5.0,0.0,16.0,6.0,5.0,0.0,2026-08-04,Copa do Brasil
+207942,Juventude,Atlético Mineiro,3.0,4.0,15.0,15.0,3.0,3.0,2026-08-04,Copa do Brasil
+220444,AC Sparta Praha,Olympique Lyonnais,6.0,9.0,9.0,11.0,3.0,4.0,2026-08-04,Champions League
+220445,Royale Union Saint-Gilloise,Bodø/Glimt,,,,,,,2026-08-04,Champions League
+220446,Olympiacos FC,NEC Nijmegen,5.0,2.0,11.0,13.0,5.0,4.0,2026-08-04,Champions League
+222819,FC Ararat-Armenia,NK Celje,,,,,,,2026-08-04,Champions League
+223224,GNK Dinamo Zagreb,FK Kauno Žalgiris,,,,,,,2026-08-04,Champions League
+223227,Mjällby AIF,ŠK Slovan Bratislava,,,,,,,2026-08-04,Champions League
+223228,Levski Sofia,FC Kairat Almaty,,,,,,,2026-08-04,Champions League
+223229,Hapoel Be'er Sheva,FK Crvena zvezda,,,,,,,2026-08-04,Champions League
+223237,Shamrock Rovers,KF Egnatia,,,,,,,2026-08-04,Europa League
+223293,Larne FC,FC Iberia 1999,,,,,,,2026-08-04,Europa League
+223310,FK Auda,Dinamo City,,,,,,,2026-08-04,Conference League
+207939,Remo,Santos,3.0,8.0,12.0,16.0,3.0,5.0,2026-08-05,Copa do Brasil
+207940,Cruzeiro,Chapecoense,12.0,2.0,30.0,2.0,11.0,0.0,2026-08-05,Copa do Brasil
+207941,Grêmio,Mirassol,1.0,6.0,11.0,13.0,3.0,1.0,2026-08-05,Copa do Brasil
+221198,SK Brann,Apollon Limassol,6.0,4.0,,,1.0,3.0,2026-08-05,Conference League
+223226,AGF,Sabah FK,6.0,5.0,10.0,15.0,3.0,4.0,2026-08-05,Champions League
+223286,Fenerbahçe,SK Sturm Graz,4.0,2.0,17.0,5.0,10.0,1.0,2026-08-05,Champions League
+223291,Ferencváros TC,Górnik Zabrze,,,,,,,2026-08-05,Europa League
+223386,Panathinaikos FC,FC CSKA 1948 Sofia,8.0,7.0,14.0,19.0,5.0,2.0,2026-08-05,Conference League
+207936,Corinthians,Internacional,9.0,1.0,20.0,6.0,5.0,1.0,2026-08-06,Copa do Brasil
+207937,Fortaleza,Palmeiras,6.0,4.0,14.0,14.0,4.0,4.0,2026-08-06,Copa do Brasil
+207938,Fluminense,Vasco da Gama,1.0,5.0,13.0,14.0,4.0,6.0,2026-08-06,Copa do Brasil
+207945,Vitória,Athletico,7.0,6.0,16.0,14.0,9.0,3.0,2026-08-06,Copa do Brasil
+220450,Jagiellonia Białystok,Rangers,1.0,5.0,,,7.0,3.0,2026-08-06,Europa League
+221196,AFC Ajax,Shelbourne,14.0,0.0,32.0,3.0,11.0,3.0,2026-08-06,Conference League
+221197,FC Noah,FC Sion,1.0,2.0,11.0,15.0,4.0,6.0,2026-08-06,Conference League
+223236,Lech Poznań,Klaksvíkar Ítróttarfelag,5.0,4.0,,,6.0,1.0,2026-08-06,Europa League
+223239,SP Tre Fiori,FC Drita,0.0,9.0,,,2.0,9.0,2026-08-06,Conference League
+223288,PAOK,RSC Anderlecht,5.0,1.0,,,2.0,2.0,2026-08-06,Europa League
+223289,Benfica,Heart of Midlothian,6.0,2.0,,,11.0,2.0,2026-08-06,Europa League
+223290,Maccabi Tel Aviv,CSKA Sofia,3.0,2.0,,,3.0,7.0,2026-08-06,Europa League
+223292,Lincoln Red Imps,Omonia Nicosia,7.0,2.0,,,2.0,6.0,2026-08-06,Europa League
+223294,Kuopion Palloseura,Universitatea Craiova,6.0,2.0,,,1.0,4.0,2026-08-06,Europa League
+223295,FC Hradec Králové,Beşiktaş JK,8.0,5.0,,,9.0,5.0,2026-08-06,Europa League
+223296,FC Thun,Víkingur Reykjavík,6.0,4.0,,,7.0,2.0,2026-08-06,Europa League
+223298,Red Bull Salzburg,Pafos FC,13.0,0.0,,,3.0,1.0,2026-08-06,Europa League
+223308,Riga FC,ETO FC Győr,8.0,1.0,18.0,4.0,6.0,2.0,2026-08-06,Conference League
+223311,Debreceni VSC,FC København,7.0,5.0,13.0,16.0,2.0,10.0,2026-08-06,Conference League
+223312,Paide Linnameeskond,SK Rapid Wien,4.0,5.0,8.0,23.0,2.0,8.0,2026-08-06,Conference League
+223313,FK Partizan,FC Tobyl,6.0,4.0,,,7.0,2.0,2026-08-06,Conference League
+223314,Inter Turku,FC Vaduz,6.0,3.0,,,4.0,6.0,2026-08-06,Conference League
+223316,Inter Club d'Escaldes,Flora Tallinn,8.0,7.0,,,10.0,5.0,2026-08-06,Conference League
+223387,HJK,Motherwell,5.0,3.0,,,5.0,2.0,2026-08-06,Conference League
+223388,FK Jablonec,RFS,2.0,6.0,,,5.0,1.0,2026-08-06,Conference League
+223389,CFR 1907 Cluj,Tromsø IL,4.0,0.0,,,1.0,9.0,2026-08-06,Conference League
+223390,Raków Częstochowa,Hammarby IF,5.0,6.0,,,5.0,6.0,2026-08-06,Conference League
+223391,Dynamo Kyiv,Qarabağ FK,4.0,11.0,11.0,11.0,3.0,2.0,2026-08-06,Conference League
+223392,IFK Göteborg,KAA Gent,2.0,3.0,,,1.0,5.0,2026-08-06,Conference League
+223393,FK Žalgiris,HNK Hajduk Split,2.0,5.0,,,5.0,8.0,2026-08-06,Conference League
+223394,Sheriff Tiraspol,FC St. Gallen 1879,6.0,8.0,15.0,26.0,7.0,5.0,2026-08-06,Conference League
+223395,Beitar Jerusalem,FK Austria Wien,6.0,1.0,14.0,9.0,4.0,5.0,2026-08-06,Conference League
+223396,FC Twente,DAC 1904,7.0,5.0,20.0,10.0,9.0,4.0,2026-08-06,Conference League
+223397,Sporting Braga,Dinamo Minsk,10.0,1.0,,,3.0,1.0,2026-08-06,Conference League
+223398,Valur Reykjavík,FC Nordsjælland,3.0,9.0,6.0,22.0,2.0,6.0,2026-08-06,Conference League
+223399,FK Borac Banja Luka,ML Vitebsk,8.0,1.0,,,11.0,2.0,2026-08-06,Conference League
+223400,FC Lugano,NSÍ Runavík,15.0,3.0,31.0,5.0,9.0,1.0,2026-08-06,Conference League
+223401,HNK Rijeka,Ilves,9.0,1.0,,,14.0,1.0,2026-08-06,Conference League
+223402,Bohemian FC,FC Midtjylland,3.0,8.0,6.0,7.0,2.0,5.0,2026-08-06,Conference League
+223403,Hibernian,KF Shkëndija,4.0,3.0,,,4.0,2.0,2026-08-06,Conference League
+223996,Hapoel Tel Aviv,GKS Katowice,3.0,2.0,,,6.0,2.0,2026-08-06,Conference League
+10057,Ceará,Ponte Preta,3.0,2.0,20.0,7.0,8.0,1.0,2026-08-07,Brasileirão Serie B
+10062,Operário-PR,São Bernardo,7.0,3.0,22.0,15.0,6.0,6.0,2026-08-07,Brasileirão Serie B
+602623,VfL Bochum 1848,Hertha BSC,5.0,2.0,13.0,11.0,3.0,2.0,2026-08-07,2. Bundesliga
+603746,SCR Altach,WSG Tirol,3.0,5.0,13.0,9.0,6.0,2.0,2026-08-07,Austrian Bundesliga
+7206,Coritiba,Chapecoense,5.0,6.0,15.0,12.0,4.0,3.0,2026-08-08,Brasileirão Serie A
+7209,Grêmio,São Paulo,7.0,7.0,12.0,19.0,5.0,4.0,2026-08-08,Brasileirão Serie A
+7212,Remo,Atlético Mineiro,5.0,2.0,12.0,10.0,4.0,2.0,2026-08-08,Brasileirão Serie A
+10056,Botafogo-SP,América Mineiro,4.0,9.0,14.0,9.0,4.0,3.0,2026-08-08,Brasileirão Serie B
+10063,Vila Nova FC,Sport Recife,15.0,2.0,17.0,5.0,1.0,3.0,2026-08-08,Brasileirão Serie B
+215468,L.R. Vicenza,Catania,,,,,,,2026-08-08,Coppa Italia
+215471,Ascoli,Potenza Calcio,,,,,,,2026-08-08,Coppa Italia
+602624,1. FC Heidenheim,VfL Osnabrück,4.0,6.0,20.0,26.0,6.0,6.0,2026-08-08,2. Bundesliga
+602625,1. FC Magdeburg,Eintracht Braunschweig,5.0,5.0,10.0,24.0,3.0,13.0,2026-08-08,2. Bundesliga
+602626,Darmstadt 98,Holstein Kiel,8.0,4.0,13.0,11.0,3.0,6.0,2026-08-08,2. Bundesliga
+602627,Karlsruher SC,Arminia Bielefeld,6.0,6.0,24.0,11.0,7.0,5.0,2026-08-08,2. Bundesliga
+602628,VfL Wolfsburg,1. FC Kaiserslautern,9.0,2.0,19.0,8.0,5.0,3.0,2026-08-08,2. Bundesliga
+603747,Grazer AK 1902,SC Austria Lustenau,5.0,6.0,13.0,15.0,6.0,3.0,2026-08-08,Austrian Bundesliga
+603748,TSV Hartberg,SK Sturm Graz,3.0,9.0,6.0,21.0,2.0,5.0,2026-08-08,Austrian Bundesliga
+7204,Bahia,Vasco da Gama,4.0,6.0,11.0,14.0,2.0,3.0,2026-08-09,Brasileirão Serie A
+7205,Botafogo,Fluminense,7.0,7.0,22.0,14.0,7.0,4.0,2026-08-09,Brasileirão Serie A
+7207,Cruzeiro,Mirassol,4.0,1.0,11.0,13.0,3.0,4.0,2026-08-09,Brasileirão Serie A
+7208,Flamengo,Vitória,8.0,1.0,20.0,7.0,6.0,1.0,2026-08-09,Brasileirão Serie A
+7210,Palmeiras,Internacional,5.0,2.0,22.0,9.0,3.0,2.0,2026-08-09,Brasileirão Serie A
+7211,Red Bull Bragantino,Corinthians,3.0,2.0,10.0,9.0,2.0,4.0,2026-08-09,Brasileirão Serie A
+7213,Santos,Athletico,10.0,2.0,22.0,8.0,2.0,4.0,2026-08-09,Brasileirão Serie A
+10054,Athletic Club,Criciúma,5.0,6.0,8.0,15.0,2.0,2.0,2026-08-09,Brasileirão Serie B
+10058,Cuiabá,Fortaleza,3.0,3.0,17.0,5.0,3.0,1.0,2026-08-09,Brasileirão Serie B
+10060,Grêmio Novorizontino,Juventude,8.0,6.0,15.0,10.0,4.0,1.0,2026-08-09,Brasileirão Serie B
+10061,Náutico,Atlético Goianiense,5.0,5.0,16.0,17.0,5.0,6.0,2026-08-09,Brasileirão Serie B
+215469,Benevento,Ravenna,,,,,,,2026-08-09,Coppa Italia
+215470,Arezzo,Union Brescia,,,,,,,2026-08-09,Coppa Italia
+602629,1. FC Nürnberg,SG Dynamo Dresden,5.0,5.0,16.0,10.0,7.0,1.0,2026-08-09,2. Bundesliga
+602630,Energie Cottbus,Hannover 96,2.0,6.0,12.0,27.0,4.0,10.0,2026-08-09,2. Bundesliga
+602631,FC St. Pauli,SpVgg Greuther Fürth,9.0,2.0,18.0,15.0,6.0,7.0,2026-08-09,2. Bundesliga
+603749,SV Ried,SK Rapid Wien,3.0,4.0,18.0,12.0,9.0,3.0,2026-08-09,Austrian Bundesliga
+603750,Wolfsberger AC,Red Bull Salzburg,4.0,8.0,11.0,18.0,1.0,10.0,2026-08-09,Austrian Bundesliga
+603751,FK Austria Wien,LASK,1.0,11.0,6.0,22.0,1.0,7.0,2026-08-09,Austrian Bundesliga
+10059,Goiás,Londrina,5.0,8.0,14.0,16.0,5.0,4.0,2026-08-10,Brasileirão Serie B
+10055,Avaí,CRB,14.0,2.0,23.0,18.0,10.0,3.0,2026-08-11,Brasileirão Serie B
+207958,Fluminense,Independiente Rivadavia,7.0,6.0,17.0,11.0,3.0,3.0,2026-08-11,Copa Libertadores
+220447,Olympique Lyonnais,AC Sparta Praha,7.0,1.0,19.0,6.0,11.0,1.0,2026-08-11,Champions League
+220448,Bodø/Glimt,Royale Union Saint-Gilloise,10.0,1.0,23.0,19.0,9.0,5.0,2026-08-11,Champions League
+220449,NEC Nijmegen,Olympiacos FC,3.0,4.0,17.0,10.0,7.0,2.0,2026-08-11,Champions League
+221199,Apollon Limassol,SK Brann,9.0,1.0,,,9.0,6.0,2026-08-11,Conference League
+222820,NK Celje,FC Ararat-Armenia,12.0,9.0,,,8.0,3.0,2026-08-11,Champions League
+223230,FK Kauno Žalgiris,GNK Dinamo Zagreb,8.0,1.0,,,7.0,5.0,2026-08-11,Champions League
+223231,SK Sturm Graz,Fenerbahçe,7.0,6.0,19.0,11.0,2.0,6.0,2026-08-11,Champions League
+223232,Sabah FK,AGF,7.0,4.0,29.0,14.0,10.0,5.0,2026-08-11,Champions League
+223233,ŠK Slovan Bratislava,Mjällby AIF,2.0,4.0,,,4.0,2.0,2026-08-11,Champions League
+223234,FK Crvena zvezda,Hapoel Be'er Sheva,,,,,,,2026-08-11,Champions League
+223235,FC Kairat Almaty,Levski Sofia,9.0,4.0,21.0,9.0,7.0,2.0,2026-08-11,Champions League
+223301,FC Iberia 1999,Larne FC,11.0,2.0,,,5.0,1.0,2026-08-11,Europa League
+223404,FC CSKA 1948 Sofia,Panathinaikos FC,3.0,6.0,14.0,21.0,5.0,11.0,2026-08-11,Conference League
+223423,Boca Juniors,Recoleta FC,8.0,1.0,39.0,6.0,8.0,3.0,2026-08-11,Copa Sudamericana
+207956,Palmeiras,Cerro Porteño,7.0,2.0,21.0,8.0,7.0,1.0,2026-08-12,Copa Libertadores
+207961,Estudiantes de La Plata,Universidad Católica,11.0,1.0,17.0,4.0,5.0,1.0,2026-08-12,Copa Libertadores
+207962,Club Atlético Platense,Coquimbo Unido,7.0,10.0,16.0,11.0,8.0,1.0,2026-08-12,Copa Libertadores
+207987,Tigre,Montevideo City Torque,8.0,1.0,15.0,5.0,3.0,3.0,2026-08-12,Copa Sudamericana
+223319,FC København,Debreceni VSC,6.0,3.0,22.0,10.0,11.0,2.0,2026-08-12,Conference League
+223320,SK Rapid Wien,Paide Linnameeskond,5.0,1.0,23.0,2.0,7.0,1.0,2026-08-12,Conference League
+223324,Red Bull Bragantino,Atlético Mineiro,7.0,3.0,22.0,10.0,7.0,2.0,2026-08-12,Copa Sudamericana
+223424,Bolívar,São Paulo,8.0,4.0,22.0,11.0,4.0,2.0,2026-08-12,Copa Sudamericana
+223997,GKS Katowice,Hapoel Tel Aviv,7.0,3.0,,,7.0,3.0,2026-08-12,Conference League
+207955,Cruzeiro,Flamengo,2.0,4.0,11.0,15.0,1.0,5.0,2026-08-13,Copa Libertadores
+207959,Mirassol,LDU,7.0,5.0,13.0,14.0,3.0,4.0,2026-08-13,Copa Libertadores
+220451,Rangers,Jagiellonia Białystok,6.0,2.0,,,3.0,4.0,2026-08-13,Europa League
+221200,Shelbourne,AFC Ajax,4.0,11.0,12.0,19.0,5.0,7.0,2026-08-13,Conference League
+221201,FC Sion,FC Noah,7.0,3.0,17.0,8.0,5.0,3.0,2026-08-13,Conference League
+223238,KF Egnatia,Shamrock Rovers,5.0,8.0,,,14.0,3.0,2026-08-13,Europa League
+223240,FC Drita,SP Tre Fiori,3.0,0.0,,,10.0,3.0,2026-08-13,Conference League
+223241,Santos,Macará,5.0,1.0,13.0,6.0,8.0,1.0,2026-08-13,Copa Sudamericana
+223287,Pafos FC,Red Bull Salzburg,4.0,2.0,,,9.0,6.0,2026-08-13,Europa League
+223297,Górnik Zabrze,Ferencváros TC,9.0,6.0,16.0,7.0,5.0,2.0,2026-08-13,Europa League
+223299,Heart of Midlothian,Benfica,0.0,11.0,,,3.0,5.0,2026-08-13,Europa League
+223300,CSKA Sofia,Maccabi Tel Aviv,2.0,6.0,,,3.0,5.0,2026-08-13,Europa League
+223303,RSC Anderlecht,PAOK,2.0,8.0,,,9.0,4.0,2026-08-13,Europa League
+223304,Universitatea Craiova,Kuopion Palloseura,8.0,0.0,,,7.0,2.0,2026-08-13,Europa League
+223305,Omonia Nicosia,Lincoln Red Imps,10.0,3.0,,,7.0,1.0,2026-08-13,Europa League
+223306,Víkingur Reykjavík,FC Thun,2.0,3.0,,,7.0,5.0,2026-08-13,Europa League
+223307,Beşiktaş JK,FC Hradec Králové,2.0,4.0,,,5.0,2.0,2026-08-13,Europa League
+223315,ETO FC Győr,Riga FC,2.0,11.0,10.0,22.0,4.0,7.0,2026-08-13,Conference League
+223317,Dinamo City,FK Auda,0.0,1.0,,,,,2026-08-13,Conference League
+223318,FC Tobyl,FK Partizan,11.0,10.0,,,4.0,5.0,2026-08-13,Conference League
+223321,FC Vaduz,Inter Turku,9.0,1.0,,,8.0,9.0,2026-08-13,Conference League
+223325,Vasco da Gama,Olimpia,11.0,0.0,21.0,2.0,7.0,0.0,2026-08-13,Copa Sudamericana
+223405,Ilves,HNK Rijeka,4.0,3.0,,,4.0,5.0,2026-08-13,Conference League
+223406,DAC 1904,FC Twente,3.0,12.0,19.0,24.0,9.0,12.0,2026-08-13,Conference League
+223407,Qarabağ FK,Dynamo Kyiv,1.0,0.0,,,1.0,0.0,2026-08-13,Conference League
+223408,Flora Tallinn,Inter Club d'Escaldes,7.0,1.0,,,3.0,4.0,2026-08-13,Conference League
+223409,RFS,FK Jablonec,4.0,5.0,,,8.0,2.0,2026-08-13,Conference League
+223410,Hammarby IF,Raków Częstochowa,10.0,2.0,,,4.0,3.0,2026-08-13,Conference League
+223411,Dinamo Minsk,Sporting Braga,3.0,4.0,,,2.0,5.0,2026-08-13,Conference League
+223412,Tromsø IL,CFR 1907 Cluj,9.0,0.0,,,6.0,1.0,2026-08-13,Conference League
+223413,FC Nordsjælland,Valur Reykjavík,10.0,2.0,34.0,7.0,14.0,2.0,2026-08-13,Conference League
+223414,ML Vitebsk,FK Borac Banja Luka,4.0,4.0,,,6.0,4.0,2026-08-13,Conference League
+223415,FC Midtjylland,Bohemian FC,6.0,3.0,15.0,11.0,7.0,4.0,2026-08-13,Conference League
+223416,KF Shkëndija,Hibernian,4.0,3.0,,,1.0,3.0,2026-08-13,Conference League
+223417,FC St. Gallen 1879,Sheriff Tiraspol,6.0,3.0,21.0,13.0,11.0,2.0,2026-08-13,Conference League
+223418,Motherwell,HJK,3.0,7.0,,,4.0,1.0,2026-08-13,Conference League
+223419,KAA Gent,IFK Göteborg,7.0,3.0,,,4.0,2.0,2026-08-13,Conference League
+223420,FK Austria Wien,Beitar Jerusalem,2.0,7.0,8.0,20.0,4.0,9.0,2026-08-13,Conference League
+223421,NSÍ Runavík,FC Lugano,5.0,3.0,6.0,18.0,4.0,9.0,2026-08-13,Conference League
+223422,HNK Hajduk Split,FK Žalgiris,7.0,5.0,,,7.0,0.0,2026-08-13,Conference League
+10071,Ponte Preta,Náutico,6.0,6.0,14.0,14.0,6.0,4.0,2026-08-14,Brasileirão Serie B
+10072,Sport Recife,Londrina,1.0,3.0,12.0,17.0,4.0,4.0,2026-08-14,Brasileirão Serie B
+10073,São Bernardo,Botafogo-SP,12.0,11.0,15.0,18.0,3.0,3.0,2026-08-14,Brasileirão Serie B
+207957,Rosario Central,Corinthians,12.0,0.0,16.0,5.0,2.0,1.0,2026-08-14,Copa Libertadores
+215472,Monza,US Avellino 1912,5.0,1.0,22.0,6.0,5.0,2.0,2026-08-14,Coppa Italia
+223302,Klaksvíkar Ítróttarfelag,Lech Poznań,4.0,9.0,11.0,18.0,3.0,9.0,2026-08-14,Europa League
+223323,Cienciano,Botafogo,14.0,0.0,29.0,7.0,12.0,2.0,2026-08-14,Copa Sudamericana
+587664,Parma,Catania,3.0,5.0,12.0,6.0,8.0,2.0,2026-08-14,Coppa Italia
+587665,Cagliari,Arezzo,3.0,4.0,15.0,18.0,3.0,3.0,2026-08-14,Coppa Italia
+587666,Fiorentina,Benevento,4.0,5.0,14.0,15.0,7.0,4.0,2026-08-14,Coppa Italia
+602632,Eintracht Braunschweig,VfL Bochum 1848,5.0,6.0,17.0,13.0,3.0,4.0,2026-08-14,2. Bundesliga
+602633,Holstein Kiel,FC St. Pauli,5.0,5.0,19.0,12.0,6.0,6.0,2026-08-14,2. Bundesliga
+603752,LASK,SV Ried,6.0,0.0,14.0,6.0,7.0,2.0,2026-08-14,Austrian Bundesliga
+7214,Athletico,Red Bull Bragantino,8.0,5.0,20.0,16.0,7.0,5.0,2026-08-15,Brasileirão Serie A
+7218,Fluminense,Palmeiras,5.0,5.0,17.0,16.0,6.0,7.0,2026-08-15,Brasileirão Serie A
+10065,Atlético Goianiense,Vila Nova FC,15.0,3.0,11.0,7.0,3.0,3.0,2026-08-15,Brasileirão Serie B
+10067,Ceará,Cuiabá,4.0,5.0,7.0,13.0,3.0,5.0,2026-08-15,Brasileirão Serie B
+10068,Criciúma,Goiás,9.0,2.0,16.0,8.0,4.0,3.0,2026-08-15,Brasileirão Serie B
+10069,Juventude,Fortaleza,5.0,4.0,16.0,7.0,4.0,2.0,2026-08-15,Brasileirão Serie B
+213522,Deportivo Alavés,Getafe,5.0,3.0,18.0,6.0,8.0,2.0,2026-08-15,La Liga
+213528,Sevilla,Rayo Vallecano,1.0,2.0,13.0,6.0,4.0,3.0,2026-08-15,La Liga
+215473,Catanzaro,Südtirol,0.0,4.0,13.0,11.0,4.0,3.0,2026-08-15,Coppa Italia
+215474,Udinese,Padova,0.0,6.0,10.0,8.0,2.0,0.0,2026-08-15,Coppa Italia
+215475,Venezia,Modena,10.0,3.0,23.0,11.0,10.0,4.0,2026-08-15,Coppa Italia
+215476,Torino,Carrarese,4.0,3.0,11.0,8.0,3.0,3.0,2026-08-15,Coppa Italia
+602634,Hertha BSC,1. FC Heidenheim,5.0,3.0,18.0,11.0,8.0,2.0,2026-08-15,2. Bundesliga
+602635,SpVgg Greuther Fürth,1. FC Nürnberg,5.0,3.0,14.0,15.0,6.0,9.0,2026-08-15,2. Bundesliga
+602636,VfL Osnabrück,1. FC Magdeburg,3.0,10.0,11.0,18.0,4.0,6.0,2026-08-15,2. Bundesliga
+602637,1. FC Kaiserslautern,Karlsruher SC,4.0,11.0,11.0,14.0,3.0,9.0,2026-08-15,2. Bundesliga
+603753,SC Austria Lustenau,Wolfsberger AC,6.0,4.0,20.0,14.0,6.0,4.0,2026-08-15,Austrian Bundesliga
+603754,SK Sturm Graz,SCR Altach,12.0,7.0,17.0,10.0,2.0,4.0,2026-08-15,Austrian Bundesliga
+7215,Atlético Mineiro,Grêmio,8.0,6.0,15.0,9.0,5.0,1.0,2026-08-16,Brasileirão Serie A
+7216,Chapecoense,Bahia,3.0,5.0,12.0,19.0,3.0,4.0,2026-08-16,Brasileirão Serie A
+7217,Corinthians,Cruzeiro,3.0,8.0,20.0,15.0,6.0,6.0,2026-08-16,Brasileirão Serie A
+7220,Mirassol,Flamengo,4.0,3.0,16.0,15.0,5.0,8.0,2026-08-16,Brasileirão Serie A
+7221,São Paulo,Coritiba,6.0,3.0,19.0,8.0,6.0,1.0,2026-08-16,Brasileirão Serie A
+7222,Vasco da Gama,Santos,4.0,2.0,19.0,11.0,3.0,5.0,2026-08-16,Brasileirão Serie A
+7223,Vitória,Botafogo,8.0,4.0,22.0,17.0,4.0,3.0,2026-08-16,Brasileirão Serie A
+10064,América Mineiro,Athletic Club,6.0,4.0,21.0,14.0,6.0,6.0,2026-08-16,Brasileirão Serie B
+10066,CRB,Grêmio Novorizontino,6.0,7.0,20.0,7.0,4.0,2.0,2026-08-16,Brasileirão Serie B
+10070,Operário-PR,Avaí,6.0,0.0,21.0,9.0,5.0,3.0,2026-08-16,Brasileirão Serie B
+213524,Espanyol,Levante UD,0.0,1.0,16.0,4.0,6.0,0.0,2026-08-16,La Liga
+213527,Real Racing Club,Villarreal,6.0,10.0,17.0,12.0,3.0,7.0,2026-08-16,La Liga
+215477,Frosinone,Juve Stabia,4.0,2.0,22.0,17.0,7.0,7.0,2026-08-16,Coppa Italia
+215478,Hellas Verona,Virtus Entella,6.0,7.0,15.0,14.0,4.0,4.0,2026-08-16,Coppa Italia
+215479,Lazio,Mantova,7.0,3.0,21.0,12.0,3.0,7.0,2026-08-16,Coppa Italia
+587667,Genoa,Ascoli,8.0,2.0,24.0,9.0,10.0,2.0,2026-08-16,Coppa Italia
+602638,Arminia Bielefeld,Energie Cottbus,7.0,10.0,18.0,10.0,5.0,0.0,2026-08-16,2. Bundesliga
+602639,Hannover 96,VfL Wolfsburg,8.0,6.0,14.0,18.0,2.0,7.0,2026-08-16,2. Bundesliga
+602640,SG Dynamo Dresden,Darmstadt 98,7.0,5.0,12.0,9.0,6.0,1.0,2026-08-16,2. Bundesliga
+603755,TSV Hartberg,FK Austria Wien,8.0,4.0,12.0,13.0,3.0,4.0,2026-08-16,Austrian Bundesliga
+603756,WSG Tirol,Red Bull Salzburg,2.0,7.0,14.0,22.0,5.0,12.0,2026-08-16,Austrian Bundesliga
+603757,SK Rapid Wien,Grazer AK 1902,8.0,1.0,28.0,9.0,17.0,2.0,2026-08-16,Austrian Bundesliga
+7219,Internacional,Remo,4.0,5.0,11.0,12.0,3.0,3.0,2026-08-17,Brasileirão Serie A
+213523,Deportivo de A Coruña,Elche,2.0,6.0,8.0,11.0,3.0,6.0,2026-08-17,La Liga
+215480,Pisa,Empoli,4.0,4.0,13.0,8.0,5.0,3.0,2026-08-17,Coppa Italia
+215481,Sassuolo,Cesena,4.0,5.0,18.0,9.0,8.0,5.0,2026-08-17,Coppa Italia
+215482,Cremonese,Sampdoria,2.0,4.0,7.0,6.0,3.0,3.0,2026-08-17,Coppa Italia
+215483,Palermo,Lecce,2.0,8.0,12.0,18.0,5.0,4.0,2026-08-17,Coppa Italia
+10081,Londrina,Atlético Goianiense,7.0,5.0,17.0,18.0,4.0,4.0,2026-08-18,Brasileirão Serie B
+207966,Independiente Rivadavia,Fluminense,7.0,4.0,13.0,10.0,3.0,4.0,2026-08-18,Copa Libertadores
+223426,Recoleta FC,Boca Juniors,8.0,5.0,11.0,18.0,4.0,11.0,2026-08-18,Copa Sudamericana
+587699,Levski Sofia,AEK Athens,1.0,2.0,15.0,12.0,3.0,1.0,2026-08-18,Champions League
+587700,GNK Dinamo Zagreb,Viking FK,9.0,3.0,23.0,6.0,4.0,3.0,2026-08-18,Champions League
+587701,Fenerbahçe,Olympique Lyonnais,3.0,0.0,12.0,12.0,5.0,5.0,2026-08-18,Champions League
+10075,Avaí,Sport Recife,6.0,3.0,19.0,13.0,3.0,4.0,2026-08-19,Brasileirão Serie B
+10077,Cuiabá,Operário-PR,4.0,9.0,6.0,21.0,1.0,3.0,2026-08-19,Brasileirão Serie B
+10078,Fortaleza,São Bernardo,8.0,6.0,24.0,14.0,5.0,5.0,2026-08-19,Brasileirão Serie B
+10079,Goiás,Juventude,4.0,3.0,17.0,8.0,5.0,2.0,2026-08-19,Brasileirão Serie B
+10082,Náutico,Ceará,9.0,3.0,30.0,13.0,14.0,4.0,2026-08-19,Brasileirão Serie B
+10083,Vila Nova FC,Ponte Preta,9.0,4.0,25.0,4.0,15.0,2.0,2026-08-19,Brasileirão Serie B
+207964,Cerro Porteño,Palmeiras,7.0,6.0,10.0,13.0,3.0,3.0,2026-08-19,Copa Libertadores
+207969,Universidad Católica,Estudiantes de La Plata,5.0,1.0,11.0,11.0,1.0,7.0,2026-08-19,Copa Libertadores
+207970,Coquimbo Unido,Club Atlético Platense,1.0,7.0,10.0,15.0,3.0,2.0,2026-08-19,Copa Libertadores
+213520,Atlético Madrid,Málaga CF,6.0,1.0,15.0,5.0,6.0,1.0,2026-08-19,La Liga
+223327,Atlético Mineiro,Red Bull Bragantino,5.0,10.0,11.0,18.0,4.0,9.0,2026-08-19,Copa Sudamericana
+223427,São Paulo,Bolívar,4.0,3.0,12.0,5.0,4.0,2.0,2026-08-19,Copa Sudamericana
+224834,Celtic,LASK,8.0,3.0,17.0,20.0,7.0,8.0,2026-08-19,Champions League
+587702,Hapoel Be'er Sheva,Sabah FK,3.0,2.0,18.0,8.0,7.0,5.0,2026-08-19,Champions League
+587703,NEC Nijmegen,Bodø/Glimt,7.0,2.0,22.0,8.0,6.0,4.0,2026-08-19,Champions League
+587704,ŠK Slovan Bratislava,NK Celje,4.0,0.0,14.0,8.0,2.0,4.0,2026-08-19,Champions League
+587779,Deportes Tolima,Independiente del Valle,5.0,3.0,18.0,10.0,5.0,2.0,2026-08-19,Copa Libertadores
+10074,Athletic Club,CRB,2.0,7.0,13.0,24.0,2.0,6.0,2026-08-20,Brasileirão Serie B
+10076,Botafogo-SP,Criciúma,11.0,8.0,17.0,10.0,3.0,5.0,2026-08-20,Brasileirão Serie B
+10080,Grêmio Novorizontino,América Mineiro,13.0,2.0,24.0,7.0,8.0,2.0,2026-08-20,Brasileirão Serie B
+207963,Flamengo,Cruzeiro,3.0,6.0,24.0,14.0,9.0,3.0,2026-08-20,Copa Libertadores
+207967,LDU,Mirassol,7.0,5.0,11.0,16.0,2.0,3.0,2026-08-20,Copa Libertadores
+213537,Rayo Vallecano,Deportivo Alavés,9.0,7.0,8.0,15.0,3.0,3.0,2026-08-20,La Liga
+223242,Macará,Santos,10.0,1.0,14.0,7.0,3.0,0.0,2026-08-20,Copa Sudamericana
+223243,Montevideo City Torque,Tigre,2.0,4.0,11.0,16.0,4.0,3.0,2026-08-20,Copa Sudamericana
+223328,Olimpia,Vasco da Gama,7.0,3.0,14.0,14.0,7.0,9.0,2026-08-20,Copa Sudamericana
+587711,FK Crvena zvezda,FC Viktoria Plzeň,1.0,2.0,,,7.0,5.0,2026-08-20,Europa League
+587713,Atalanta,Hapoel Tel Aviv,3.0,1.0,9.0,7.0,5.0,4.0,2026-08-20,Conference League
+587781,Independiente Santa Fe,River Plate,2.0,2.0,9.0,3.0,3.0,2.0,2026-08-20,Copa Sudamericana
+587841,Mjällby AIF,Red Bull Salzburg,2.0,6.0,,,1.0,8.0,2026-08-20,Europa League
+587842,Lech Poznań,FC Thun,5.0,3.0,,,11.0,4.0,2026-08-20,Europa League
+587843,KF Egnatia,Lillestrøm SK,6.0,4.0,,,4.0,2.0,2026-08-20,Europa League
+587844,Benfica,AGF,11.0,1.0,,,13.0,1.0,2026-08-20,Europa League
+587845,Beşiktaş JK,FK Kauno Žalgiris,15.0,2.0,,,6.0,0.0,2026-08-20,Europa League
+587846,Trabzonspor,Ferencváros TC,7.0,5.0,,,3.0,4.0,2026-08-20,Europa League
+587847,FC Kairat Almaty,RSC Anderlecht,2.0,8.0,,,2.0,4.0,2026-08-20,Europa League
+587848,Sint-Truidense VV,Omonia Nicosia,6.0,1.0,,,3.0,2.0,2026-08-20,Europa League
+587849,OFI Crete,CSKA Sofia,1.0,4.0,,,4.0,6.0,2026-08-20,Europa League
+587850,Jagiellonia Białystok,FC Iberia 1999,4.0,6.0,,,8.0,7.0,2026-08-20,Europa League
+587851,Universitatea Craiova,FC Ararat-Armenia,8.0,4.0,,,7.0,2.0,2026-08-20,Europa League
+587863,Inter Turku,FC København,9.0,8.0,10.0,11.0,2.0,3.0,2026-08-20,Conference League
+587864,Lincoln Red Imps,Larne FC,3.0,9.0,,,3.0,6.0,2026-08-20,Conference League
+587865,Tromsø IL,Brighton & Hove Albion,5.0,11.0,5.0,25.0,1.0,6.0,2026-08-20,Conference League
+587866,Klaksvíkar Ítróttarfelag,Riga FC,10.0,5.0,,,2.0,5.0,2026-08-20,Conference League
+587867,FC Drita,Inter Club d'Escaldes,0.0,4.0,,,6.0,4.0,2026-08-20,Conference League
+587868,Panathinaikos FC,FC Hradec Králové,6.0,5.0,,,9.0,3.0,2026-08-20,Conference League
+587869,Motherwell,SC Freiburg,2.0,8.0,4.0,26.0,1.0,10.0,2026-08-20,Conference League
+587870,FC Sion,AFC Ajax,5.0,7.0,12.0,23.0,4.0,8.0,2026-08-20,Conference League
+587871,Górnik Zabrze,AS Monaco,7.0,4.0,17.0,14.0,6.0,6.0,2026-08-20,Conference League
+587872,FC Twente,Qarabağ FK,5.0,3.0,21.0,7.0,5.0,4.0,2026-08-20,Conference League
+587873,Sporting Braga,FK Austria Wien,5.0,4.0,14.0,5.0,5.0,1.0,2026-08-20,Conference League
+587874,Getafe,FK Partizan,1.0,3.0,12.0,8.0,5.0,1.0,2026-08-20,Conference League
+587875,Rangers,FK Jablonec,3.0,3.0,13.0,5.0,3.0,4.0,2026-08-20,Conference League
+587876,PAOK,SK Brann,8.0,3.0,23.0,6.0,6.0,1.0,2026-08-20,Conference League
+587877,FC Midtjylland,HNK Rijeka,5.0,4.0,18.0,9.0,10.0,1.0,2026-08-20,Conference League
+587878,HNK Hajduk Split,Raków Częstochowa,7.0,5.0,,,2.0,6.0,2026-08-20,Conference League
+587879,FC Lugano,Maccabi Tel Aviv,0.0,4.0,11.0,11.0,2.0,1.0,2026-08-20,Conference League
+587880,Dinamo City,Pafos FC,3.0,1.0,,,4.0,4.0,2026-08-20,Conference League
+587881,Heart of Midlothian,SK Rapid Wien,4.0,5.0,17.0,9.0,4.0,6.0,2026-08-20,Conference League
+587882,KAA Gent,Hibernian,7.0,2.0,,,3.0,2.0,2026-08-20,Conference League
+587883,Shamrock Rovers,Kuopion Palloseura,2.0,3.0,,,8.0,2.0,2026-08-20,Conference League
+587884,FC Nordsjælland,FC St. Gallen 1879,3.0,5.0,12.0,19.0,4.0,6.0,2026-08-20,Conference League
+587885,Víkingur Reykjavík,FK Borac Banja Luka,10.0,2.0,,,5.0,5.0,2026-08-20,Conference League
+207965,Corinthians,Rosario Central,3.0,8.0,8.0,10.0,3.0,1.0,2026-08-21,Copa Libertadores
+209535,Arsenal,Coventry City,8.0,2.0,20.0,4.0,6.0,1.0,2026-08-21,Premier League
+210441,Olympique de Marseille,RC Strasbourg,3.0,4.0,14.0,5.0,8.0,2.0,2026-08-21,Ligue 1
+213538,Real Betis,Real Sociedad,4.0,5.0,18.0,9.0,7.0,3.0,2026-08-21,La Liga
+223326,Botafogo,Cienciano,6.0,1.0,22.0,8.0,8.0,1.0,2026-08-21,Copa Sudamericana
+603758,SV Ried,Grazer AK 1902,7.0,4.0,17.0,15.0,3.0,3.0,2026-08-21,Austrian Bundesliga
+7227,Cruzeiro,Flamengo,3.0,3.0,24.0,14.0,6.0,3.0,2026-08-22,Brasileirão Serie A
+7228,Fluminense,Remo,11.0,2.0,20.0,7.0,9.0,1.0,2026-08-22,Brasileirão Serie A
+7229,Internacional,Atlético Mineiro,6.0,5.0,23.0,11.0,3.0,5.0,2026-08-22,Brasileirão Serie A
+10086,Ceará,Londrina,8.0,1.0,13.0,12.0,5.0,4.0,2026-08-22,Brasileirão Serie B
+10088,Cuiabá,Goiás,9.0,0.0,26.0,5.0,7.0,2.0,2026-08-22,Brasileirão Serie B
+209536,Hull City,Manchester United,1.0,6.0,8.0,21.0,4.0,5.0,2026-08-22,Premier League
+209537,Everton,Crystal Palace,4.0,0.0,16.0,11.0,5.0,4.0,2026-08-22,Premier League
+209538,Ipswich Town,Sunderland,3.0,5.0,10.0,11.0,3.0,4.0,2026-08-22,Premier League
+209539,Nottingham Forest,Leeds United,3.0,2.0,12.0,11.0,2.0,3.0,2026-08-22,Premier League
+209540,Brentford,Tottenham Hotspur,7.0,3.0,26.0,9.0,8.0,4.0,2026-08-22,Premier League
+210061,Genoa,SSC Napoli,5.0,5.0,11.0,13.0,2.0,4.0,2026-08-22,Serie A
+210062,Inter,Monza,3.0,3.0,13.0,7.0,5.0,3.0,2026-08-22,Serie A
+210063,Parma,Cagliari,3.0,2.0,13.0,14.0,2.0,5.0,2026-08-22,Serie A
+210065,Udinese,Como,1.0,10.0,17.0,20.0,3.0,6.0,2026-08-22,Serie A
+210439,Le Mans,Stade Brestois,1.0,10.0,8.0,26.0,5.0,7.0,2026-08-22,Ligue 1
+210440,Nice,Lorient,9.0,3.0,14.0,10.0,1.0,2.0,2026-08-22,Ligue 1
+210443,RC Lens,Auxerre,4.0,7.0,12.0,10.0,9.0,4.0,2026-08-22,Ligue 1
+210444,Toulouse,Olympique Lyonnais,6.0,5.0,17.0,11.0,2.0,3.0,2026-08-22,Ligue 1
+210445,Troyes,Paris FC,6.0,2.0,9.0,10.0,2.0,1.0,2026-08-22,Ligue 1
+213530,Athletic Club,Sevilla,10.0,3.0,18.0,7.0,8.0,4.0,2026-08-22,La Liga
+213533,Espanyol,Real Madrid,0.0,8.0,8.0,21.0,3.0,8.0,2026-08-22,La Liga
+213539,Valencia,Celta Vigo,1.0,2.0,8.0,7.0,2.0,3.0,2026-08-22,La Liga
+603759,SCR Altach,TSV Hartberg,11.0,2.0,18.0,11.0,5.0,5.0,2026-08-22,Austrian Bundesliga
+603760,SK Sturm Graz,SC Austria Lustenau,10.0,8.0,13.0,17.0,4.0,6.0,2026-08-22,Austrian Bundesliga
+7225,Chapecoense,São Paulo,7.0,3.0,13.0,22.0,4.0,5.0,2026-08-23,Brasileirão Serie A
+7226,Coritiba,Corinthians,4.0,14.0,12.0,16.0,3.0,3.0,2026-08-23,Brasileirão Serie A
+7230,Palmeiras,Vasco da Gama,5.0,3.0,13.0,12.0,5.0,4.0,2026-08-23,Brasileirão Serie A
+7231,Red Bull Bragantino,Grêmio,8.0,5.0,27.0,14.0,4.0,1.0,2026-08-23,Brasileirão Serie A
+7232,Santos,Mirassol,10.0,2.0,21.0,5.0,7.0,3.0,2026-08-23,Brasileirão Serie A
+7233,Vitória,Bahia,7.0,7.0,14.0,28.0,2.0,9.0,2026-08-23,Brasileirão Serie A
+10087,Criciúma,Fortaleza,10.0,4.0,22.0,14.0,5.0,6.0,2026-08-23,Brasileirão Serie B
+10090,Operário-PR,Vila Nova FC,5.0,7.0,9.0,12.0,2.0,3.0,2026-08-23,Brasileirão Serie B
+10091,Ponte Preta,Avaí,6.0,4.0,11.0,16.0,2.0,4.0,2026-08-23,Brasileirão Serie B
+10093,São Bernardo,Náutico,4.0,3.0,15.0,10.0,3.0,2.0,2026-08-23,Brasileirão Serie B
+209541,Brighton & Hove Albion,Aston Villa,5.0,2.0,21.0,6.0,6.0,0.0,2026-08-23,Premier League
+209542,Manchester City,Bournemouth,8.0,3.0,13.0,5.0,6.0,4.0,2026-08-23,Premier League
+209543,Newcastle United,Liverpool FC,2.0,6.0,13.0,27.0,4.0,7.0,2026-08-23,Premier League
+210058,Atalanta,Sassuolo,4.0,4.0,14.0,22.0,7.0,8.0,2026-08-23,Serie A
+210060,Frosinone,Juventus,3.0,12.0,11.0,20.0,2.0,5.0,2026-08-23,Serie A
+210064,Torino,AC Milan,2.0,4.0,8.0,19.0,1.0,4.0,2026-08-23,Serie A
+210066,Venezia,Lecce,5.0,3.0,19.0,12.0,7.0,5.0,2026-08-23,Serie A
+210437,Angers,Lille,8.0,3.0,20.0,11.0,2.0,8.0,2026-08-23,Ligue 1
+210438,Le Havre,AS Monaco,7.0,4.0,14.0,15.0,4.0,7.0,2026-08-23,Ligue 1
+210641,Stade Rennais,Paris Saint-Germain,0.0,10.0,9.0,19.0,3.0,5.0,2026-08-23,Ligue 1
+213531,Atlético Madrid,Villarreal,5.0,3.0,19.0,13.0,4.0,6.0,2026-08-23,La Liga
+213532,Elche,FC Barcelona,3.0,1.0,7.0,11.0,2.0,7.0,2026-08-23,La Liga
+213534,Getafe,Real Racing Club,8.0,6.0,12.0,6.0,1.0,3.0,2026-08-23,La Liga
+7224,Botafogo,Athletico,13.0,2.0,33.0,7.0,8.0,6.0,2026-08-24,Brasileirão Serie A
+10084,Athletic Club,Grêmio Novorizontino,9.0,5.0,10.0,16.0,1.0,8.0,2026-08-24,Brasileirão Serie B
+10092,Sport Recife,América Mineiro,5.0,10.0,17.0,18.0,7.0,3.0,2026-08-24,Brasileirão Serie B
+209544,Fulham,Chelsea,6.0,4.0,14.0,18.0,6.0,6.0,2026-08-24,Premier League
+210057,AS Roma,Fiorentina,2.0,3.0,17.0,9.0,8.0,4.0,2026-08-24,Serie A
+210059,Bologna,Lazio,8.0,6.0,14.0,10.0,5.0,3.0,2026-08-24,Serie A
+213535,Málaga CF,Deportivo de A Coruña,7.0,4.0,13.0,6.0,2.0,4.0,2026-08-24,La Liga
+213536,Osasuna,Levante UD,9.0,4.0,12.0,11.0,7.0,1.0,2026-08-24,La Liga
+10085,Atlético Goianiense,Botafogo-SP,7.0,5.0,22.0,7.0,6.0,1.0,2026-08-25,Brasileirão Serie B
+10089,Juventude,CRB,5.0,8.0,13.0,17.0,9.0,4.0,2026-08-25,Brasileirão Serie B
+213529,Valencia,Real Betis,8.0,2.0,16.0,15.0,3.0,3.0,2026-08-25,La Liga
+224835,LASK,Celtic,10.0,5.0,40.0,8.0,8.0,3.0,2026-08-25,Champions League
+587707,Sabah FK,Hapoel Be'er Sheva,11.0,3.0,33.0,14.0,12.0,5.0,2026-08-25,Champions League
+587708,Bodø/Glimt,NEC Nijmegen,4.0,2.0,21.0,3.0,9.0,2.0,2026-08-25,Champions League
+213526,Real Madrid,Real Sociedad,4.0,7.0,20.0,10.0,11.0,3.0,2026-08-26,La Liga
+587705,Viking FK,GNK Dinamo Zagreb,3.0,5.0,13.0,20.0,8.0,4.0,2026-08-26,Champions League
+587706,Olympique Lyonnais,Fenerbahçe,5.0,7.0,17.0,16.0,6.0,7.0,2026-08-26,Champions League
+587709,AEK Athens,Levski Sofia,6.0,3.0,18.0,11.0,7.0,3.0,2026-08-26,Champions League
+587710,NK Celje,ŠK Slovan Bratislava,5.0,8.0,20.0,17.0,7.0,8.0,2026-08-26,Champions League
+587780,Independiente del Valle,Deportes Tolima,3.0,2.0,20.0,11.0,7.0,3.0,2026-08-26,Copa Libertadores
+587783,Cruzeiro,Atlético Mineiro,4.0,3.0,12.0,10.0,1.0,3.0,2026-08-26,Copa do Brasil
+587902,SK Rapid Wien,Heart of Midlothian,13.0,6.0,33.0,12.0,6.0,7.0,2026-08-26,Conference League
+213525,FC Barcelona,Athletic Club,12.0,5.0,22.0,5.0,10.0,0.0,2026-08-27,La Liga
+587712,FC Viktoria Plzeň,FK Crvena zvezda,5.0,3.0,,,11.0,2.0,2026-08-27,Europa League
+587714,Hapoel Tel Aviv,Atalanta,7.0,6.0,11.0,14.0,3.0,4.0,2026-08-27,Conference League
+587782,River Plate,Independiente Santa Fe,6.0,2.0,31.0,12.0,11.0,4.0,2026-08-27,Copa Sudamericana
+587784,Palmeiras,Santos,8.0,5.0,20.0,7.0,8.0,1.0,2026-08-27,Copa do Brasil
+587785,Vasco da Gama,Vitória,1.0,5.0,15.0,17.0,5.0,6.0,2026-08-27,Copa do Brasil
+587786,Internacional,Grêmio,7.0,2.0,15.0,11.0,3.0,2.0,2026-08-27,Copa do Brasil
+587840,Celta Vigo,Osasuna,5.0,3.0,4.0,13.0,2.0,5.0,2026-08-27,La Liga
+587852,FC Iberia 1999,Jagiellonia Białystok,6.0,4.0,,,5.0,5.0,2026-08-27,Europa League
+587853,FC Ararat-Armenia,Universitatea Craiova,3.0,7.0,,,2.0,7.0,2026-08-27,Europa League
+587854,FK Kauno Žalgiris,Beşiktaş JK,2.0,5.0,,,2.0,4.0,2026-08-27,Europa League
+587855,Red Bull Salzburg,Mjällby AIF,7.0,0.0,,,7.0,2.0,2026-08-27,Europa League
+587856,Omonia Nicosia,Sint-Truidense VV,5.0,6.0,,,5.0,5.0,2026-08-27,Europa League
+587857,Lillestrøm SK,KF Egnatia,9.0,8.0,,,3.0,3.0,2026-08-27,Europa League
+587858,AGF,Benfica,3.0,5.0,,,3.0,8.0,2026-08-27,Europa League
+587859,CSKA Sofia,OFI Crete,7.0,5.0,,,6.0,7.0,2026-08-27,Europa League
+587860,FC Thun,Lech Poznań,6.0,3.0,,,3.0,3.0,2026-08-27,Europa League
+587861,Ferencváros TC,Trabzonspor,9.0,4.0,,,11.0,2.0,2026-08-27,Europa League
+587862,RSC Anderlecht,FC Kairat Almaty,7.0,3.0,,,8.0,3.0,2026-08-27,Europa League
+587886,Qarabağ FK,FC Twente,0.0,9.0,9.0,29.0,1.0,10.0,2026-08-27,Conference League
+587887,SK Brann,PAOK,12.0,1.0,,,9.0,6.0,2026-08-27,Conference League
+587888,Riga FC,Klaksvíkar Ítróttarfelag,9.0,0.0,,,6.0,1.0,2026-08-27,Conference League
+587889,Brighton & Hove Albion,Tromsø IL,7.0,0.0,21.0,5.0,8.0,0.0,2026-08-27,Conference League
+587890,AFC Ajax,FC Sion,5.0,2.0,26.0,11.0,15.0,4.0,2026-08-27,Conference League
+587891,AS Monaco,Górnik Zabrze,5.0,2.0,15.0,7.0,6.0,5.0,2026-08-27,Conference League
+587892,FK Austria Wien,Sporting Braga,2.0,5.0,8.0,9.0,1.0,4.0,2026-08-27,Conference League
+587893,FK Partizan,Getafe,4.0,7.0,18.0,9.0,4.0,4.0,2026-08-27,Conference League
+587894,FK Jablonec,Rangers,5.0,4.0,16.0,9.0,5.0,1.0,2026-08-27,Conference League
+587895,FC København,Inter Turku,9.0,1.0,21.0,5.0,9.0,2.0,2026-08-27,Conference League
+587896,HNK Rijeka,FC Midtjylland,2.0,7.0,9.0,19.0,4.0,8.0,2026-08-27,Conference League
+587897,FC Hradec Králové,Panathinaikos FC,12.0,8.0,21.0,15.0,8.0,5.0,2026-08-27,Conference League
+587898,Raków Częstochowa,HNK Hajduk Split,5.0,4.0,20.0,12.0,5.0,4.0,2026-08-27,Conference League
+587899,SC Freiburg,Motherwell,7.0,1.0,29.0,2.0,11.0,1.0,2026-08-27,Conference League
+587900,Maccabi Tel Aviv,FC Lugano,6.0,4.0,20.0,9.0,7.0,2.0,2026-08-27,Conference League
+587901,Pafos FC,Dinamo City,5.0,2.0,21.0,7.0,8.0,2.0,2026-08-27,Conference League
+587903,Hibernian,KAA Gent,6.0,6.0,14.0,13.0,5.0,5.0,2026-08-27,Conference League
+587904,Kuopion Palloseura,Shamrock Rovers,3.0,2.0,,,4.0,2.0,2026-08-27,Conference League
+587905,FC St. Gallen 1879,FC Nordsjælland,2.0,5.0,21.0,16.0,6.0,5.0,2026-08-27,Conference League
+587906,FK Borac Banja Luka,Víkingur Reykjavík,2.0,6.0,,,5.0,0.0,2026-08-27,Conference League
+587907,Larne FC,Lincoln Red Imps,7.0,7.0,,,2.0,8.0,2026-08-27,Conference League
+587908,Inter Club d'Escaldes,FC Drita,6.0,1.0,,,3.0,2.0,2026-08-27,Conference League
+10099,Goiás,São Bernardo,4.0,9.0,14.0,11.0,4.0,4.0,2026-08-28,Brasileirão Serie B
+10100,Grêmio Novorizontino,Sport Recife,9.0,3.0,24.0,13.0,9.0,1.0,2026-08-28,Brasileirão Serie B
+10102,Náutico,Athletic Club,8.0,2.0,26.0,6.0,9.0,1.0,2026-08-28,Brasileirão Serie B
+209549,Crystal Palace,Manchester City,2.0,6.0,9.0,18.0,1.0,9.0,2026-08-28,Premier League
+210067,AC Milan,Venezia,2.0,3.0,16.0,9.0,5.0,2.0,2026-08-28,Serie A
+210448,Lille,Paris Saint-Germain,0.0,5.0,9.0,18.0,4.0,4.0,2026-08-28,Ligue 1
+213541,Deportivo Alavés,Villarreal,5.0,9.0,9.0,19.0,2.0,6.0,2026-08-28,La Liga
+213547,Real Racing Club,Elche,5.0,10.0,13.0,18.0,6.0,7.0,2026-08-28,La Liga
+213668,FC Bayern München,VfB Stuttgart,9.0,3.0,21.0,11.0,9.0,4.0,2026-08-28,Bundesliga
+602641,Eintracht Braunschweig,Hertha BSC,5.0,12.0,17.0,25.0,9.0,6.0,2026-08-28,2. Bundesliga
+602642,VfL Bochum 1848,VfL Osnabrück,6.0,1.0,20.0,8.0,1.0,2.0,2026-08-28,2. Bundesliga
+603767,SC Austria Lustenau,WSG Tirol,8.0,12.0,8.0,14.0,2.0,6.0,2026-08-28,Austrian Bundesliga
+7235,Atlético Mineiro,Vitória,4.0,5.0,18.0,14.0,8.0,3.0,2026-08-29,Brasileirão Serie A
+7242,São Paulo,Red Bull Bragantino,9.0,7.0,17.0,8.0,8.0,3.0,2026-08-29,Brasileirão Serie A
+10096,Botafogo-SP,Cuiabá,4.0,4.0,15.0,16.0,5.0,4.0,2026-08-29,Brasileirão Serie B
+209546,Bournemouth,Everton,10.0,7.0,17.0,13.0,5.0,7.0,2026-08-29,Premier League
+209548,Coventry City,Hull City,6.0,2.0,11.0,6.0,3.0,2.0,2026-08-29,Premier League
+209551,Liverpool FC,Nottingham Forest,3.0,5.0,13.0,12.0,4.0,3.0,2026-08-29,Premier League
+209554,Tottenham Hotspur,Newcastle United,9.0,7.0,17.0,11.0,6.0,2.0,2026-08-29,Premier League
+210070,Fiorentina,Frosinone,8.0,5.0,25.0,12.0,4.0,6.0,2026-08-29,Serie A
+210071,Juventus,Parma,10.0,2.0,21.0,4.0,6.0,3.0,2026-08-29,Serie A
+210074,Monza,Udinese,3.0,3.0,15.0,12.0,5.0,5.0,2026-08-29,Serie A
+210076,Sassuolo,Torino,4.0,3.0,19.0,10.0,7.0,4.0,2026-08-29,Serie A
+210447,Auxerre,Angers,7.0,10.0,20.0,15.0,7.0,6.0,2026-08-29,Ligue 1
+210449,Lorient,Troyes,2.0,5.0,15.0,11.0,6.0,2.0,2026-08-29,Ligue 1
+210450,Olympique Lyonnais,Le Havre,5.0,5.0,15.0,12.0,5.0,4.0,2026-08-29,Ligue 1
+210452,RC Strasbourg,RC Lens,3.0,6.0,16.0,17.0,7.0,7.0,2026-08-29,Ligue 1
+210453,Stade Brestois,Toulouse,7.0,2.0,27.0,6.0,7.0,2.0,2026-08-29,Ligue 1
+213544,Levante UD,Real Betis,5.0,8.0,19.0,20.0,10.0,6.0,2026-08-29,La Liga
+213548,Real Sociedad,Espanyol,7.0,3.0,17.0,11.0,10.0,3.0,2026-08-29,La Liga
+213549,Sevilla,Atlético Madrid,4.0,2.0,20.0,12.0,5.0,5.0,2026-08-29,La Liga
+213669,1. FC Köln,TSG Hoffenheim,6.0,7.0,18.0,15.0,6.0,4.0,2026-08-29,Bundesliga
+213670,1. FC Union Berlin,Eintracht Frankfurt,5.0,2.0,19.0,12.0,10.0,3.0,2026-08-29,Bundesliga
+213671,1. FSV Mainz 05,SC Paderborn 07,11.0,2.0,21.0,10.0,4.0,0.0,2026-08-29,Bundesliga
+213672,Borussia Dortmund,Hamburger SV,3.0,1.0,20.0,8.0,6.0,3.0,2026-08-29,Bundesliga
+213674,RB Leipzig,Borussia M'gladbach,7.0,6.0,25.0,15.0,11.0,4.0,2026-08-29,Bundesliga
+213676,SV 07 Elversberg,Bayer 04 Leverkusen,4.0,3.0,11.0,21.0,6.0,4.0,2026-08-29,Bundesliga
+602643,1. FC Heidenheim,SG Dynamo Dresden,6.0,9.0,28.0,17.0,10.0,8.0,2026-08-29,2. Bundesliga
+602644,Energie Cottbus,SpVgg Greuther Fürth,10.0,6.0,22.0,15.0,6.0,7.0,2026-08-29,2. Bundesliga
+602645,Karlsruher SC,VfL Wolfsburg,10.0,8.0,19.0,27.0,5.0,11.0,2026-08-29,2. Bundesliga
+602646,1. FC Nürnberg,Arminia Bielefeld,3.0,8.0,13.0,20.0,6.0,5.0,2026-08-29,2. Bundesliga
+603768,Grazer AK 1902,Wolfsberger AC,11.0,4.0,27.0,5.0,7.0,1.0,2026-08-29,Austrian Bundesliga
+603769,LASK,SCR Altach,4.0,0.0,21.0,7.0,10.0,2.0,2026-08-29,Austrian Bundesliga
+7234,Athletico,Fluminense,8.0,3.0,17.0,12.0,8.0,6.0,2026-08-30,Brasileirão Serie A
+7236,Bahia,Internacional,3.0,3.0,13.0,12.0,6.0,3.0,2026-08-30,Brasileirão Serie A
+7237,Corinthians,Santos,8.0,1.0,18.0,8.0,2.0,4.0,2026-08-30,Brasileirão Serie A
+7238,Flamengo,Botafogo,5.0,3.0,18.0,14.0,6.0,4.0,2026-08-30,Brasileirão Serie A
+7239,Grêmio,Chapecoense,5.0,7.0,12.0,32.0,5.0,9.0,2026-08-30,Brasileirão Serie A
+7240,Mirassol,Palmeiras,3.0,4.0,11.0,14.0,5.0,3.0,2026-08-30,Brasileirão Serie A
+7243,Vasco da Gama,Cruzeiro,11.0,3.0,22.0,11.0,9.0,6.0,2026-08-30,Brasileirão Serie A
+10094,América Mineiro,Ponte Preta,12.0,2.0,35.0,7.0,12.0,2.0,2026-08-30,Brasileirão Serie B
+10095,Avaí,Atlético Goianiense,7.0,7.0,16.0,17.0,6.0,3.0,2026-08-30,Brasileirão Serie B
+10097,CRB,Criciúma,2.0,6.0,23.0,17.0,10.0,6.0,2026-08-30,Brasileirão Serie B
+10103,Vila Nova FC,Ceará,5.0,7.0,16.0,7.0,7.0,3.0,2026-08-30,Brasileirão Serie B
+209547,Chelsea,Brighton & Hove Albion,4.0,7.0,17.0,15.0,6.0,6.0,2026-08-30,Premier League
+209550,Leeds United,Brentford,5.0,6.0,12.0,22.0,2.0,5.0,2026-08-30,Premier League
+209552,Manchester United,Ipswich Town,8.0,4.0,33.0,9.0,11.0,5.0,2026-08-30,Premier League
+209553,Sunderland,Fulham,3.0,4.0,12.0,11.0,4.0,0.0,2026-08-30,Premier League
+210069,Cagliari,Inter,8.0,6.0,10.0,31.0,0.0,7.0,2026-08-30,Serie A
+210072,Lazio,Genoa,4.0,2.0,15.0,8.0,2.0,1.0,2026-08-30,Serie A
+210075,SSC Napoli,Como,2.0,7.0,13.0,21.0,2.0,6.0,2026-08-30,Serie A
+210446,AS Monaco,Olympique de Marseille,5.0,7.0,11.0,13.0,5.0,2.0,2026-08-30,Ligue 1
+210451,Paris FC,Nice,2.0,4.0,15.0,16.0,4.0,4.0,2026-08-30,Ligue 1
+210454,Stade Rennais,Le Mans,8.0,6.0,22.0,12.0,8.0,5.0,2026-08-30,Ligue 1
+213540,Celta Vigo,Athletic Club,4.0,7.0,8.0,17.0,2.0,7.0,2026-08-30,La Liga
+213542,Deportivo de A Coruña,Valencia,5.0,5.0,11.0,12.0,4.0,4.0,2026-08-30,La Liga
+213546,Real Madrid,Málaga CF,9.0,6.0,19.0,14.0,8.0,1.0,2026-08-30,La Liga
+213673,FC Augsburg,FC Schalke 04,11.0,3.0,24.0,11.0,13.0,5.0,2026-08-30,Bundesliga
+213675,SC Freiburg,SV Werder Bremen,6.0,5.0,19.0,9.0,5.0,3.0,2026-08-30,Bundesliga
+602647,1. FC Magdeburg,Holstein Kiel,3.0,3.0,10.0,14.0,2.0,2.0,2026-08-30,2. Bundesliga
+602648,Darmstadt 98,Hannover 96,2.0,11.0,11.0,25.0,3.0,7.0,2026-08-30,2. Bundesliga
+602649,FC St. Pauli,1. FC Kaiserslautern,4.0,5.0,21.0,11.0,7.0,4.0,2026-08-30,2. Bundesliga
+603770,SK Rapid Wien,SK Sturm Graz,6.0,4.0,16.0,19.0,6.0,5.0,2026-08-30,Austrian Bundesliga
+603771,TSV Hartberg,SV Ried,3.0,4.0,14.0,17.0,5.0,4.0,2026-08-30,Austrian Bundesliga
+603772,Red Bull Salzburg,FK Austria Wien,7.0,4.0,12.0,8.0,5.0,3.0,2026-08-30,Austrian Bundesliga
+7241,Remo,Coritiba,9.0,4.0,34.0,11.0,7.0,5.0,2026-08-31,Brasileirão Serie A
+10098,Fortaleza,Operário-PR,11.0,1.0,31.0,9.0,7.0,4.0,2026-08-31,Brasileirão Serie B
+209545,Aston Villa,Arsenal,2.0,4.0,7.0,7.0,0.0,2.0,2026-08-31,Premier League
+210068,Atalanta,Bologna,1.0,2.0,6.0,16.0,2.0,3.0,2026-08-31,Serie A
+210073,Lecce,AS Roma,2.0,1.0,7.0,15.0,3.0,8.0,2026-08-31,Serie A
+213543,FC Barcelona,Rayo Vallecano,9.0,5.0,26.0,11.0,9.0,5.0,2026-08-31,La Liga
+213545,Osasuna,Getafe,1.0,3.0,10.0,11.0,2.0,1.0,2026-08-31,La Liga
+10101,Londrina,Juventude,5.0,1.0,7.0,8.0,2.0,2.0,2026-09-01,Brasileirão Serie B
+588022,Torino,Monza,8.0,8.0,16.0,19.0,0.0,8.0,2026-09-01,Coppa Italia
+600981,Parma,Cremonese,10.0,10.0,9.0,13.0,2.0,6.0,2026-09-01,Coppa Italia
+603764,Wolfsberger AC,LASK,1.0,14.0,7.0,25.0,2.0,6.0,2026-09-01,Austrian Bundesliga
+587787,Atlético Mineiro,Cruzeiro,8.0,2.0,28.0,12.0,8.0,4.0,2026-09-02,Copa do Brasil
+588024,Udinese,Venezia,8.0,2.0,16.0,11.0,8.0,4.0,2026-09-02,Coppa Italia
+588046,Sassuolo,Frosinone,6.0,5.0,7.0,15.0,3.0,7.0,2026-09-02,Coppa Italia
+600956,Flamengo,Mirassol,9.0,7.0,14.0,8.0,4.0,2.0,2026-09-02,Brasileirão Serie A
+603765,FK Austria Wien,WSG Tirol,8.0,2.0,7.0,11.0,3.0,3.0,2026-09-02,Austrian Bundesliga
+603766,Red Bull Salzburg,SK Rapid Wien,2.0,6.0,16.0,17.0,9.0,4.0,2026-09-02,Austrian Bundesliga
+10112,Náutico,Botafogo-SP,5.0,2.0,11.0,14.0,4.0,4.0,2026-09-03,Brasileirão Serie B
+210462,Toulouse,Lille,6.0,2.0,24.0,10.0,10.0,6.0,2026-09-03,Ligue 1
+213579,Real Sociedad,Celta Vigo,11.0,3.0,16.0,7.0,5.0,2.0,2026-09-03,La Liga
+587788,Vitória,Vasco da Gama,0.0,3.0,7.0,12.0,1.0,5.0,2026-09-03,Copa do Brasil
+587789,Santos,Palmeiras,5.0,1.0,19.0,9.0,4.0,1.0,2026-09-03,Copa do Brasil
+587790,Grêmio,Internacional,4.0,13.0,9.0,23.0,5.0,7.0,2026-09-03,Copa do Brasil
+588023,Cagliari,Hellas Verona,6.0,2.0,14.0,9.0,4.0,5.0,2026-09-03,Coppa Italia
+600982,Palermo,Mantova,3.0,2.0,13.0,13.0,9.0,8.0,2026-09-03,Coppa Italia
+10104,Athletic Club,Vila Nova FC,2.0,2.0,14.0,12.0,11.0,4.0,2026-09-04,Brasileirão Serie B
+10107,Criciúma,Cuiabá,4.0,2.0,8.0,11.0,1.0,0.0,2026-09-04,Brasileirão Serie B
+209561,Ipswich Town,Liverpool FC,4.0,3.0,14.0,10.0,5.0,7.0,2026-09-04,Premier League
+210082,Genoa,Como,5.0,4.0,11.0,20.0,2.0,9.0,2026-09-04,Serie A
+210458,Olympique Lyonnais,Auxerre,9.0,5.0,21.0,8.0,7.0,3.0,2026-09-04,Ligue 1
+210460,Paris Saint-Germain,AS Monaco,6.0,0.0,23.0,4.0,10.0,2.0,2026-09-04,Ligue 1
+213557,Real Betis,Real Madrid,6.0,10.0,10.0,20.0,5.0,8.0,2026-09-04,La Liga
+213685,VfB Stuttgart,1. FC Köln,10.0,8.0,22.0,18.0,8.0,5.0,2026-09-04,Bundesliga
+602650,Arminia Bielefeld,FC St. Pauli,3.0,5.0,9.0,8.0,2.0,5.0,2026-09-04,2. Bundesliga
+602651,Hannover 96,Karlsruher SC,1.0,5.0,12.0,20.0,7.0,7.0,2026-09-04,2. Bundesliga
+7250,Red Bull Bragantino,Bahia,10.0,8.0,24.0,11.0,10.0,5.0,2026-09-05,Brasileirão Serie A
+7252,São Paulo,Atlético Mineiro,16.0,2.0,23.0,4.0,5.0,0.0,2026-09-05,Brasileirão Serie A
+10105,CRB,América Mineiro,6.0,3.0,28.0,14.0,8.0,6.0,2026-09-05,Brasileirão Serie B
+10106,Ceará,Sport Recife,9.0,9.0,15.0,21.0,4.0,5.0,2026-09-05,Brasileirão Serie B
+10108,Goiás,Fortaleza,5.0,2.0,9.0,10.0,3.0,3.0,2026-09-05,Brasileirão Serie B
+10109,Grêmio Novorizontino,Avaí,8.0,2.0,18.0,7.0,8.0,4.0,2026-09-05,Brasileirão Serie B
+10110,Juventude,Atlético Goianiense,3.0,3.0,20.0,17.0,5.0,5.0,2026-09-05,Brasileirão Serie B
+209556,Brentford,Sunderland,4.0,3.0,12.0,14.0,2.0,5.0,2026-09-05,Premier League
+209557,Brighton & Hove Albion,Leeds United,7.0,6.0,20.0,10.0,5.0,5.0,2026-09-05,Premier League
+209559,Fulham,Crystal Palace,7.0,1.0,25.0,10.0,6.0,5.0,2026-09-05,Premier League
+209560,Hull City,Aston Villa,3.0,4.0,11.0,13.0,4.0,1.0,2026-09-05,Premier League
+209562,Manchester City,Coventry City,4.0,5.0,15.0,12.0,4.0,3.0,2026-09-05,Premier League
+209563,Newcastle United,Bournemouth,4.0,3.0,8.0,17.0,2.0,5.0,2026-09-05,Premier League
+209564,Nottingham Forest,Tottenham Hotspur,2.0,10.0,12.0,11.0,2.0,0.0,2026-09-05,Premier League
+210077,AS Roma,Atalanta,14.0,1.0,39.0,6.0,10.0,2.0,2026-09-05,Serie A
+210080,Fiorentina,Torino,3.0,5.0,14.0,7.0,6.0,4.0,2026-09-05,Serie A
+210083,Inter,SSC Napoli,10.0,5.0,29.0,16.0,8.0,7.0,2026-09-05,Serie A
+210456,Le Havre,Stade Brestois,5.0,5.0,18.0,19.0,4.0,9.0,2026-09-05,Ligue 1
+210457,Nice,Le Mans,5.0,2.0,8.0,8.0,2.0,3.0,2026-09-05,Ligue 1
+210461,RC Lens,Lorient,8.0,0.0,17.0,8.0,6.0,3.0,2026-09-05,Ligue 1
+213550,Athletic Club,Atlético Madrid,3.0,8.0,11.0,15.0,4.0,5.0,2026-09-05,La Liga
+213556,Rayo Vallecano,Real Racing Club,9.0,6.0,16.0,9.0,10.0,4.0,2026-09-05,La Liga
+213559,Villarreal,Deportivo de A Coruña,7.0,1.0,17.0,8.0,5.0,3.0,2026-09-05,La Liga
+213677,Bayer 04 Leverkusen,1. FC Union Berlin,11.0,1.0,21.0,5.0,10.0,0.0,2026-09-05,Bundesliga
+213678,Borussia M'gladbach,SV 07 Elversberg,13.0,4.0,25.0,14.0,6.0,10.0,2026-09-05,Bundesliga
+213680,FC Schalke 04,FC Bayern München,0.0,11.0,4.0,15.0,1.0,5.0,2026-09-05,Bundesliga
+213682,SC Paderborn 07,SC Freiburg,5.0,4.0,14.0,16.0,3.0,5.0,2026-09-05,Bundesliga
+213683,SV Werder Bremen,RB Leipzig,2.0,7.0,12.0,19.0,7.0,5.0,2026-09-05,Bundesliga
+213684,TSG Hoffenheim,Borussia Dortmund,10.0,3.0,18.0,11.0,6.0,4.0,2026-09-05,Bundesliga
+602652,1. FC Kaiserslautern,Darmstadt 98,9.0,3.0,21.0,9.0,7.0,2.0,2026-09-05,2. Bundesliga
+602653,Holstein Kiel,1. FC Nürnberg,10.0,8.0,15.0,19.0,3.0,7.0,2026-09-05,2. Bundesliga
+602654,VfL Wolfsburg,Energie Cottbus,4.0,8.0,21.0,21.0,7.0,9.0,2026-09-05,2. Bundesliga
+602655,SG Dynamo Dresden,VfL Bochum 1848,8.0,4.0,15.0,15.0,4.0,6.0,2026-09-05,2. Bundesliga
+7244,Botafogo,Palmeiras,5.0,9.0,15.0,17.0,4.0,5.0,2026-09-06,Brasileirão Serie A
+7245,Corinthians,Chapecoense,5.0,2.0,16.0,7.0,6.0,5.0,2026-09-06,Brasileirão Serie A
+7246,Coritiba,Mirassol,5.0,7.0,17.0,20.0,6.0,7.0,2026-09-06,Brasileirão Serie A
+7247,Cruzeiro,Athletico,7.0,2.0,19.0,17.0,6.0,7.0,2026-09-06,Brasileirão Serie A
+7248,Fluminense,Vasco da Gama,6.0,6.0,7.0,14.0,4.0,4.0,2026-09-06,Brasileirão Serie A
+7249,Internacional,Santos,7.0,2.0,15.0,5.0,6.0,3.0,2026-09-06,Brasileirão Serie A
+7251,Remo,Flamengo,7.0,9.0,7.0,21.0,1.0,5.0,2026-09-06,Brasileirão Serie A
+10111,Londrina,Operário-PR,7.0,3.0,21.0,17.0,5.0,4.0,2026-09-06,Brasileirão Serie B
+10113,Ponte Preta,São Bernardo,2.0,9.0,9.0,14.0,2.0,6.0,2026-09-06,Brasileirão Serie B
+209555,Arsenal,Chelsea,5.0,3.0,16.0,13.0,9.0,5.0,2026-09-06,Premier League
+209558,Everton,Manchester United,4.0,3.0,18.0,14.0,6.0,3.0,2026-09-06,Premier League
+210078,Bologna,Sassuolo,10.0,7.0,21.0,15.0,5.0,6.0,2026-09-06,Serie A
+210081,Frosinone,Venezia,5.0,2.0,13.0,15.0,8.0,4.0,2026-09-06,Serie A
+210084,Juventus,AC Milan,7.0,1.0,14.0,3.0,5.0,1.0,2026-09-06,Serie A
+210085,Parma,Monza,6.0,3.0,7.0,16.0,3.0,5.0,2026-09-06,Serie A
+210455,Angers,Stade Rennais,12.0,6.0,19.0,17.0,3.0,5.0,2026-09-06,Ligue 1
+210459,Olympique de Marseille,Paris FC,5.0,4.0,14.0,18.0,5.0,7.0,2026-09-06,Ligue 1
+210463,Troyes,RC Strasbourg,11.0,0.0,27.0,19.0,6.0,12.0,2026-09-06,Ligue 1
+213551,Deportivo Alavés,Osasuna,4.0,1.0,12.0,7.0,7.0,5.0,2026-09-06,La Liga
+213553,Espanyol,Sevilla,0.0,4.0,12.0,6.0,3.0,3.0,2026-09-06,La Liga
+213555,Málaga CF,Levante UD,6.0,4.0,10.0,11.0,3.0,3.0,2026-09-06,La Liga
+213558,Valencia,FC Barcelona,1.0,4.0,3.0,25.0,2.0,10.0,2026-09-06,La Liga
+213679,Eintracht Frankfurt,FC Augsburg,9.0,4.0,22.0,17.0,8.0,7.0,2026-09-06,Bundesliga
+213681,Hamburger SV,1. FSV Mainz 05,4.0,5.0,8.0,17.0,1.0,8.0,2026-09-06,Bundesliga
+602656,Hertha BSC,1. FC Magdeburg,5.0,7.0,12.0,18.0,5.0,5.0,2026-09-06,2. Bundesliga
+602657,SpVgg Greuther Fürth,1. FC Heidenheim,7.0,2.0,14.0,6.0,5.0,5.0,2026-09-06,2. Bundesliga
+602658,VfL Osnabrück,Eintracht Braunschweig,5.0,5.0,13.0,21.0,8.0,12.0,2026-09-06,2. Bundesliga
+7253,Vitória,Grêmio,6.0,1.0,20.0,11.0,6.0,5.0,2026-09-07,Brasileirão Serie A
+210079,Cagliari,Lecce,7.0,5.0,20.0,10.0,9.0,3.0,2026-09-07,Serie A
+210086,Udinese,Lazio,2.0,8.0,10.0,19.0,6.0,6.0,2026-09-07,Serie A
+213552,Elche,Real Sociedad,6.0,7.0,20.0,13.0,10.0,6.0,2026-09-07,La Liga
+213554,Getafe,Celta Vigo,3.0,5.0,10.0,16.0,2.0,3.0,2026-09-07,La Liga
+10118,Cuiabá,Athletic Club,2.0,6.0,11.0,7.0,4.0,1.0,2026-09-08,Brasileirão Serie B
+588061,Fluminense,Club Atlético Platense,2.0,7.0,4.0,13.0,3.0,1.0,2026-09-08,Copa Libertadores
+601024,Real Madrid,Inter,4.0,11.0,16.0,21.0,8.0,7.0,2026-09-08,Champions League
+601050,FC Porto,Manchester City,2.0,5.0,5.0,20.0,0.0,10.0,2026-09-08,Champions League
+601071,Borussia Dortmund,Villarreal,9.0,7.0,18.0,13.0,6.0,6.0,2026-09-08,Champions League
+601076,Club Brugge KV,Aston Villa,4.0,5.0,14.0,21.0,7.0,9.0,2026-09-08,Champions League
+601108,AEK Athens,LASK,7.0,3.0,18.0,11.0,4.0,3.0,2026-09-08,Champions League
+601144,Lille,Real Betis,5.0,5.0,6.0,20.0,2.0,5.0,2026-09-08,Champions League
+601168,Independiente Santa Fe,Vasco da Gama,5.0,5.0,15.0,15.0,2.0,4.0,2026-09-08,Copa Sudamericana
+10114,América Mineiro,Náutico,5.0,10.0,17.0,20.0,6.0,3.0,2026-09-09,Brasileirão Serie B
+10116,Botafogo-SP,Grêmio Novorizontino,8.0,4.0,13.0,9.0,1.0,5.0,2026-09-09,Brasileirão Serie B
+10117,Criciúma,Juventude,10.0,2.0,13.0,8.0,4.0,2.0,2026-09-09,Brasileirão Serie B
+10119,Fortaleza,Avaí,4.0,2.0,10.0,15.0,3.0,2.0,2026-09-09,Brasileirão Serie B
+10120,Operário-PR,CRB,0.0,6.0,9.0,17.0,3.0,5.0,2026-09-09,Brasileirão Serie B
+588063,Boca Juniors,São Paulo,4.0,2.0,11.0,9.0,2.0,3.0,2026-09-09,Copa Sudamericana
+599509,Palmeiras,LDU,10.0,1.0,28.0,6.0,7.0,1.0,2026-09-09,Copa Libertadores
+599510,Santos,Atlético Mineiro,6.0,2.0,14.0,9.0,7.0,3.0,2026-09-09,Copa Sudamericana
+601029,FC Barcelona,Feyenoord,4.0,1.0,24.0,4.0,9.0,2.0,2026-09-09,Champions League
+601048,Liverpool FC,Atlético Madrid,7.0,5.0,14.0,9.0,5.0,4.0,2026-09-09,Champions League
+601065,Paris Saint-Germain,ŠK Slovan Bratislava,7.0,2.0,35.0,9.0,14.0,4.0,2026-09-09,Champions League
+601086,SSC Napoli,Arsenal,0.0,6.0,5.0,26.0,3.0,8.0,2026-09-09,Champions League
+601138,Sporting CP,Galatasaray,1.0,4.0,8.0,10.0,5.0,3.0,2026-09-09,Champions League
+601165,VfB Stuttgart,Viking FK,3.0,5.0,17.0,9.0,3.0,3.0,2026-09-09,Champions League
+10115,Atlético Goianiense,Ceará,3.0,7.0,11.0,23.0,2.0,5.0,2026-09-10,Brasileirão Serie B
+10122,São Bernardo,Londrina,4.0,7.0,14.0,21.0,1.0,7.0,2026-09-10,Brasileirão Serie B
+10123,Vila Nova FC,Goiás,2.0,7.0,21.0,12.0,8.0,4.0,2026-09-10,Brasileirão Serie B
+600963,Estudiantes de La Plata,Corinthians,5.0,1.0,14.0,7.0,6.0,3.0,2026-09-10,Copa Libertadores
+601062,Manchester United,Sabah FK,7.0,2.0,21.0,11.0,10.0,0.0,2026-09-10,Champions League
+601067,FC Bayern München,Bodø/Glimt,6.0,3.0,25.0,3.0,12.0,0.0,2026-09-10,Champions League
+601109,Fenerbahçe,AS Roma,1.0,3.0,11.0,8.0,5.0,3.0,2026-09-10,Champions League
+601125,Como,RB Leipzig,1.0,5.0,14.0,14.0,6.0,4.0,2026-09-10,Champions League
+601149,PSV Eindhoven,Shakhtar Donetsk,3.0,3.0,10.0,8.0,2.0,2.0,2026-09-10,Champions League
+601154,SK Slavia Praha,RC Lens,6.0,9.0,18.0,26.0,5.0,8.0,2026-09-10,Champions League
+10121,Sport Recife,Ponte Preta,7.0,3.0,22.0,12.0,6.0,2.0,2026-09-11,Brasileirão Serie B
+210096,Venezia,Fiorentina,2.0,4.0,10.0,19.0,3.0,10.0,2026-09-11,Serie A
+210472,Stade Rennais,Olympique de Marseille,3.0,5.0,20.0,13.0,7.0,5.0,2026-09-11,Ligue 1
+213568,Sevilla,Valencia,6.0,4.0,13.0,3.0,4.0,0.0,2026-09-11,La Liga
+213687,1. FC Union Berlin,FC Schalke 04,4.0,5.0,20.0,19.0,8.0,10.0,2026-09-11,Bundesliga
+600966,Cienciano,Montevideo City Torque,9.0,4.0,31.0,9.0,12.0,1.0,2026-09-11,Copa Sudamericana
+601010,Independiente del Valle,Flamengo,10.0,3.0,18.0,4.0,3.0,2.0,2026-09-11,Copa Libertadores
+602659,1. FC Nürnberg,Hannover 96,7.0,2.0,27.0,9.0,8.0,2.0,2026-09-11,2. Bundesliga
+602660,Darmstadt 98,Arminia Bielefeld,4.0,8.0,12.0,16.0,6.0,4.0,2026-09-11,2. Bundesliga
+603773,SV Ried,Red Bull Salzburg,5.0,7.0,8.0,24.0,2.0,6.0,2026-09-11,Austrian Bundesliga
+7254,Atlético Mineiro,Fluminense,5.0,2.0,15.0,10.0,7.0,3.0,2026-09-12,Brasileirão Serie A
+7256,Botafogo,Red Bull Bragantino,5.0,3.0,21.0,14.0,6.0,8.0,2026-09-12,Brasileirão Serie A
+7257,Chapecoense,Internacional,4.0,2.0,13.0,4.0,2.0,2.0,2026-09-12,Brasileirão Serie A
+7258,Coritiba,Athletico,8.0,3.0,22.0,14.0,7.0,5.0,2026-09-12,Brasileirão Serie A
+7260,Grêmio,Vasco da Gama,3.0,5.0,14.0,17.0,4.0,5.0,2026-09-12,Brasileirão Serie A
+7262,Palmeiras,São Paulo,9.0,6.0,19.0,8.0,7.0,2.0,2026-09-12,Brasileirão Serie A
+209565,Aston Villa,Nottingham Forest,6.0,1.0,7.0,22.0,5.0,7.0,2026-09-12,Premier League
+209566,Bournemouth,Brentford,2.0,1.0,20.0,8.0,10.0,2.0,2026-09-12,Premier League
+209567,Chelsea,Hull City,10.0,4.0,12.0,14.0,7.0,5.0,2026-09-12,Premier League
+209569,Crystal Palace,Ipswich Town,6.0,3.0,11.0,12.0,4.0,6.0,2026-09-12,Premier League
+209571,Liverpool FC,Fulham,5.0,8.0,14.0,10.0,3.0,4.0,2026-09-12,Premier League
+209573,Sunderland,Arsenal,4.0,2.0,12.0,11.0,3.0,5.0,2026-09-12,Premier League
+209574,Tottenham Hotspur,Everton,5.0,6.0,14.0,12.0,2.0,3.0,2026-09-12,Premier League
+210087,Atalanta,Cagliari,3.0,2.0,22.0,5.0,4.0,5.0,2026-09-12,Serie A
+210089,Genoa,Frosinone,8.0,9.0,17.0,26.0,5.0,6.0,2026-09-12,Serie A
+210091,Lazio,AC Milan,2.0,5.0,8.0,16.0,6.0,7.0,2026-09-12,Serie A
+210464,Auxerre,Nice,3.0,8.0,11.0,12.0,7.0,4.0,2026-09-12,Ligue 1
+210465,Le Havre,Angers,4.0,6.0,15.0,9.0,6.0,1.0,2026-09-12,Ligue 1
+210468,Lorient,Toulouse,4.0,3.0,10.0,13.0,3.0,4.0,2026-09-12,Ligue 1
+210469,Paris FC,Olympique Lyonnais,4.0,3.0,6.0,5.0,4.0,1.0,2026-09-12,Ligue 1
+210470,RC Strasbourg,AS Monaco,2.0,7.0,13.0,12.0,2.0,3.0,2026-09-12,Ligue 1
+213560,Athletic Club,Elche,7.0,1.0,19.0,3.0,3.0,1.0,2026-09-12,La Liga
+213564,Osasuna,Espanyol,3.0,4.0,11.0,6.0,4.0,3.0,2026-09-12,La Liga
+213565,Real Madrid,Rayo Vallecano,11.0,5.0,24.0,18.0,11.0,7.0,2026-09-12,La Liga
+213566,Real Racing Club,Deportivo Alavés,4.0,6.0,11.0,16.0,4.0,8.0,2026-09-12,La Liga
+213686,1. FC Köln,SV Werder Bremen,8.0,5.0,15.0,14.0,6.0,5.0,2026-09-12,Bundesliga
+213688,1. FSV Mainz 05,Eintracht Frankfurt,4.0,5.0,18.0,11.0,5.0,5.0,2026-09-12,Bundesliga
+213689,Borussia Dortmund,SC Paderborn 07,7.0,3.0,14.0,10.0,8.0,0.0,2026-09-12,Bundesliga
+213690,FC Augsburg,Bayer 04 Leverkusen,2.0,14.0,8.0,30.0,5.0,5.0,2026-09-12,Bundesliga
+213692,SC Freiburg,Borussia M'gladbach,6.0,2.0,19.0,5.0,9.0,0.0,2026-09-12,Bundesliga
+213694,TSG Hoffenheim,VfB Stuttgart,5.0,7.0,20.0,16.0,8.0,5.0,2026-09-12,Bundesliga
+602661,1. FC Magdeburg,1. FC Kaiserslautern,4.0,3.0,18.0,13.0,10.0,6.0,2026-09-12,2. Bundesliga
+602662,Eintracht Braunschweig,SG Dynamo Dresden,2.0,5.0,11.0,16.0,5.0,6.0,2026-09-12,2. Bundesliga
+602663,VfL Bochum 1848,SpVgg Greuther Fürth,3.0,7.0,16.0,18.0,5.0,6.0,2026-09-12,2. Bundesliga
+602664,FC St. Pauli,VfL Wolfsburg,10.0,4.0,18.0,10.0,4.0,2.0,2026-09-12,2. Bundesliga
+603774,SCR Altach,Grazer AK 1902,6.0,2.0,15.0,8.0,4.0,5.0,2026-09-12,Austrian Bundesliga
+603775,Wolfsberger AC,SK Rapid Wien,1.0,6.0,12.0,6.0,3.0,4.0,2026-09-12,Austrian Bundesliga
+7259,Flamengo,Corinthians,20.0,0.0,32.0,3.0,10.0,1.0,2026-09-13,Brasileirão Serie A
+7261,Mirassol,Vitória,12.0,5.0,27.0,8.0,6.0,6.0,2026-09-13,Brasileirão Serie A
+7263,Santos,Cruzeiro,13.0,3.0,31.0,9.0,9.0,4.0,2026-09-13,Brasileirão Serie A
+10125,Atlético Goianiense,Criciúma,3.0,5.0,14.0,11.0,8.0,4.0,2026-09-13,Brasileirão Serie B
+10129,Fortaleza,Ceará,3.0,4.0,11.0,15.0,3.0,5.0,2026-09-13,Brasileirão Serie B
+10130,Grêmio Novorizontino,Cuiabá,10.0,7.0,25.0,9.0,6.0,2.0,2026-09-13,Brasileirão Serie B
+10131,Juventude,Athletic Club,3.0,3.0,20.0,8.0,8.0,3.0,2026-09-13,Brasileirão Serie B
+209568,Coventry City,Brighton & Hove Albion,5.0,3.0,14.0,22.0,6.0,7.0,2026-09-13,Premier League
+209572,Manchester United,Manchester City,6.0,7.0,16.0,6.0,3.0,2.0,2026-09-13,Premier League
+210092,Lecce,Monza,4.0,6.0,7.0,19.0,3.0,11.0,2026-09-13,Serie A
+210093,SSC Napoli,Bologna,10.0,0.0,14.0,5.0,3.0,2.0,2026-09-13,Serie A
+210094,Sassuolo,Juventus,3.0,10.0,10.0,19.0,6.0,8.0,2026-09-13,Serie A
+210466,Le Mans,RC Lens,3.0,9.0,13.0,16.0,5.0,6.0,2026-09-13,Ligue 1
+210467,Lille,Troyes,2.0,5.0,13.0,8.0,6.0,1.0,2026-09-13,Ligue 1
+210471,Stade Brestois,Paris Saint-Germain,3.0,2.0,16.0,15.0,5.0,7.0,2026-09-13,Ligue 1
+213561,Celta Vigo,Málaga CF,1.0,5.0,17.0,12.0,5.0,2.0,2026-09-13,La Liga
+213562,Getafe,Deportivo de A Coruña,3.0,7.0,15.0,10.0,4.0,3.0,2026-09-13,La Liga
+213563,Levante UD,FC Barcelona,3.0,5.0,13.0,12.0,7.0,6.0,2026-09-13,La Liga
+213567,Real Sociedad,Atlético Madrid,9.0,3.0,8.0,13.0,3.0,5.0,2026-09-13,La Liga
+213691,RB Leipzig,Hamburger SV,7.0,7.0,19.0,10.0,6.0,4.0,2026-09-13,Bundesliga
+213693,SV 07 Elversberg,FC Bayern München,3.0,9.0,5.0,28.0,1.0,6.0,2026-09-13,Bundesliga
+602665,1. FC Heidenheim,Holstein Kiel,6.0,8.0,19.0,13.0,4.0,2.0,2026-09-13,2. Bundesliga
+602666,Karlsruher SC,Energie Cottbus,5.0,8.0,20.0,25.0,5.0,10.0,2026-09-13,2. Bundesliga
+602667,VfL Osnabrück,Hertha BSC,4.0,5.0,14.0,22.0,7.0,7.0,2026-09-13,2. Bundesliga
+603776,FK Austria Wien,SC Austria Lustenau,6.0,4.0,16.0,13.0,5.0,5.0,2026-09-13,Austrian Bundesliga
+603777,WSG Tirol,TSV Hartberg,14.0,5.0,16.0,5.0,7.0,4.0,2026-09-13,Austrian Bundesliga
+603778,SK Sturm Graz,LASK,3.0,6.0,14.0,25.0,7.0,4.0,2026-09-13,Austrian Bundesliga
+7255,Bahia,Remo,7.0,6.0,17.0,14.0,9.0,3.0,2026-09-14,Brasileirão Serie A
+10124,América Mineiro,São Bernardo,5.0,4.0,14.0,15.0,4.0,7.0,2026-09-14,Brasileirão Serie B
+10127,Botafogo-SP,Goiás,6.0,7.0,14.0,16.0,3.0,6.0,2026-09-14,Brasileirão Serie B
+209570,Leeds United,Newcastle United,5.0,5.0,15.0,7.0,6.0,5.0,2026-09-14,Premier League
+210088,Como,Parma,11.0,4.0,29.0,12.0,7.0,4.0,2026-09-14,Serie A
+210090,Inter,Udinese,10.0,1.0,27.0,6.0,12.0,5.0,2026-09-14,Serie A
+210095,Torino,AS Roma,1.0,8.0,8.0,14.0,3.0,5.0,2026-09-14,Serie A
+213569,Villarreal,Real Betis,7.0,4.0,14.0,26.0,8.0,12.0,2026-09-14,La Liga
+10126,Avaí,Vila Nova FC,4.0,4.0,8.0,11.0,2.0,2.0,2026-09-15,Brasileirão Serie B
+10132,Londrina,Ponte Preta,10.0,0.0,23.0,14.0,10.0,4.0,2026-09-15,Brasileirão Serie B
+10133,Náutico,Operário-PR,4.0,2.0,21.0,16.0,6.0,6.0,2026-09-15,Brasileirão Serie B
+213571,Deportivo Alavés,Valencia,2.0,5.0,15.0,10.0,3.0,3.0,2026-09-15,La Liga
+213573,Elche,Real Madrid,2.0,5.0,11.0,20.0,3.0,4.0,2026-09-15,La Liga
+213577,Rayo Vallecano,Espanyol,3.0,5.0,16.0,19.0,2.0,5.0,2026-09-15,La Liga
+588025,Genoa,Südtirol,10.0,3.0,27.0,5.0,6.0,2.0,2026-09-15,Coppa Italia
+588062,Club Atlético Platense,Fluminense,12.0,0.0,16.0,7.0,6.0,2.0,2026-09-15,Copa Libertadores
+600983,Fiorentina,Pisa,3.0,0.0,13.0,6.0,7.0,0.0,2026-09-15,Coppa Italia
+601169,Vasco da Gama,Independiente Santa Fe,3.0,5.0,11.0,8.0,4.0,3.0,2026-09-15,Copa Sudamericana
+10128,CRB,Sport Recife,5.0,3.0,22.0,11.0,8.0,3.0,2026-09-16,Brasileirão Serie B
+213570,Atlético Madrid,Osasuna,8.0,0.0,27.0,3.0,11.0,1.0,2026-09-16,La Liga
+213572,Deportivo de A Coruña,Sevilla,4.0,4.0,4.0,11.0,3.0,6.0,2026-09-16,La Liga
+213574,FC Barcelona,Real Racing Club,18.0,0.0,30.0,5.0,9.0,3.0,2026-09-16,La Liga
+588064,São Paulo,Boca Juniors,4.0,1.0,16.0,7.0,5.0,1.0,2026-09-16,Copa Sudamericana
+599511,Atlético Mineiro,Santos,4.0,6.0,12.0,18.0,5.0,4.0,2026-09-16,Copa Sudamericana
+600964,LDU,Palmeiras,10.0,4.0,16.0,11.0,5.0,4.0,2026-09-16,Copa Libertadores
+601173,AC Milan,Benfica,10.0,1.0,17.0,11.0,4.0,4.0,2026-09-16,Europa League
+601187,Bayer 04 Leverkusen,NK Celje,6.0,2.0,17.0,5.0,8.0,3.0,2026-09-16,Europa League
+601214,FC Ararat-Armenia,AC Sparta Praha,2.0,13.0,13.0,23.0,2.0,8.0,2026-09-16,Europa League
+601230,Hapoel Be'er Sheva,GNK Dinamo Zagreb,6.0,2.0,15.0,7.0,2.0,1.0,2026-09-16,Europa League
+601267,Olympiacos FC,Jagiellonia Białystok,13.0,0.0,26.0,4.0,6.0,3.0,2026-09-16,Europa League
+601279,Omonia Nicosia,Celta Vigo,3.0,11.0,10.0,19.0,4.0,5.0,2026-09-16,Europa League
+601281,RSC Anderlecht,Olympique Lyonnais,6.0,4.0,14.0,13.0,5.0,10.0,2026-09-16,Europa League
+601298,SK Sturm Graz,Stade Rennais,5.0,4.0,11.0,23.0,4.0,5.0,2026-09-16,Europa League
+601305,Sunderland,AZ Alkmaar,12.0,5.0,20.0,11.0,5.0,2.0,2026-09-16,Europa League
+601942,Botafogo,Grêmio,3.0,3.0,10.0,13.0,7.0,3.0,2026-09-16,Brasileirão Serie A
+213576,Málaga CF,Villarreal,4.0,8.0,5.0,16.0,1.0,7.0,2026-09-17,La Liga
+213578,Real Betis,Getafe,4.0,3.0,22.0,8.0,8.0,2.0,2026-09-17,La Liga
+600965,Corinthians,Estudiantes de La Plata,3.0,4.0,9.0,6.0,2.0,2.0,2026-09-17,Copa Libertadores
+601193,Beşiktaş JK,Olympique de Marseille,3.0,3.0,18.0,14.0,7.0,3.0,2026-09-17,Europa League
+601206,Celtic,Ferencváros TC,11.0,3.0,16.0,14.0,4.0,6.0,2026-09-17,Europa League
+601211,Crystal Palace,Lech Poznań,6.0,5.0,16.0,17.0,6.0,6.0,2026-09-17,Europa League
+601218,FC Viktoria Plzeň,Royale Union Saint-Gilloise,5.0,1.0,14.0,22.0,5.0,13.0,2026-09-17,Europa League
+601240,Juventus,NEC Nijmegen,0.0,1.0,11.0,11.0,7.0,3.0,2026-09-17,Europa League
+601246,Levski Sofia,Red Bull Salzburg,5.0,4.0,14.0,12.0,0.0,7.0,2026-09-17,Europa League
+601252,Lillestrøm SK,Torreense,11.0,2.0,25.0,11.0,6.0,3.0,2026-09-17,Europa League
+601264,OFI Crete,TSG Hoffenheim,4.0,8.0,9.0,21.0,3.0,5.0,2026-09-17,Europa League
+601287,Real Sociedad,Bournemouth,10.0,3.0,16.0,11.0,5.0,3.0,2026-09-17,Europa League
+10135,Ceará,Grêmio Novorizontino,2.0,9.0,8.0,24.0,3.0,9.0,2026-09-18,Brasileirão Serie B
+10143,Vila Nova FC,América Mineiro,5.0,5.0,14.0,20.0,2.0,5.0,2026-09-18,Brasileirão Serie B
+209576,Brentford,Chelsea,4.0,12.0,13.0,12.0,6.0,2.0,2026-09-18,Premier League
+210103,Monza,Sassuolo,7.0,5.0,15.0,20.0,6.0,8.0,2026-09-18,Serie A
+210473,AS Monaco,RC Lens,2.0,8.0,9.0,12.0,6.0,4.0,2026-09-18,Ligue 1
+213584,Espanyol,Elche,3.0,3.0,23.0,9.0,4.0,6.0,2026-09-18,La Liga
+213698,FC Bayern München,1. FC Union Berlin,9.0,2.0,23.0,3.0,15.0,2.0,2026-09-18,Bundesliga
+600967,Montevideo City Torque,Cienciano,6.0,5.0,14.0,6.0,7.0,2.0,2026-09-18,Copa Sudamericana
+601011,Flamengo,Independiente del Valle,5.0,3.0,10.0,8.0,3.0,4.0,2026-09-18,Copa Libertadores
+602668,SpVgg Greuther Fürth,1. FC Magdeburg,3.0,5.0,8.0,14.0,4.0,6.0,2026-09-18,2. Bundesliga
+602669,VfL Wolfsburg,Darmstadt 98,8.0,5.0,19.0,12.0,6.0,3.0,2026-09-18,2. Bundesliga
+603779,SK Rapid Wien,WSG Tirol,6.0,3.0,17.0,5.0,7.0,1.0,2026-09-18,Austrian Bundesliga
+7265,Atlético Mineiro,Chapecoense,10.0,2.0,26.0,7.0,11.0,1.0,2026-09-19,Brasileirão Serie A
+7269,Mirassol,Botafogo,3.0,4.0,12.0,12.0,7.0,5.0,2026-09-19,Brasileirão Serie A
+7270,Remo,Santos,5.0,4.0,14.0,11.0,4.0,4.0,2026-09-19,Brasileirão Serie A
+7272,Vasco da Gama,Coritiba,12.0,2.0,32.0,4.0,11.0,1.0,2026-09-19,Brasileirão Serie A
+10134,Athletic Club,Botafogo-SP,2.0,5.0,17.0,13.0,4.0,2.0,2026-09-19,Brasileirão Serie B
+10141,Sport Recife,Juventude,2.0,3.0,8.0,8.0,3.0,1.0,2026-09-19,Brasileirão Serie B
+10142,São Bernardo,Atlético Goianiense,2.0,10.0,6.0,24.0,4.0,6.0,2026-09-19,Brasileirão Serie B
+209577,Brighton & Hove Albion,Arsenal,5.0,6.0,17.0,11.0,5.0,2.0,2026-09-19,Premier League
+209578,Everton,Ipswich Town,4.0,4.0,21.0,13.0,2.0,4.0,2026-09-19,Premier League
+209582,Newcastle United,Hull City,4.0,7.0,12.0,22.0,5.0,4.0,2026-09-19,Premier League
+209583,Nottingham Forest,Coventry City,6.0,2.0,24.0,10.0,3.0,3.0,2026-09-19,Premier League
+209584,Tottenham Hotspur,Aston Villa,11.0,1.0,20.0,15.0,7.0,6.0,2026-09-19,Premier League
+210098,AS Roma,Inter,4.0,2.0,18.0,16.0,4.0,5.0,2026-09-19,Serie A
+210099,Bologna,Torino,1.0,6.0,11.0,14.0,1.0,3.0,2026-09-19,Serie A
+210105,Udinese,Cagliari,16.0,1.0,26.0,5.0,5.0,2.0,2026-09-19,Serie A
+210106,Venezia,Lazio,7.0,2.0,17.0,12.0,6.0,2.0,2026-09-19,Serie A
+210474,Angers,Troyes,2.0,11.0,12.0,19.0,3.0,3.0,2026-09-19,Ligue 1
+210476,Le Mans,Lorient,1.0,3.0,11.0,9.0,7.0,2.0,2026-09-19,Ligue 1
+210478,Olympique Lyonnais,Stade Rennais,3.0,8.0,15.0,13.0,9.0,4.0,2026-09-19,Ligue 1
+210480,Paris FC,RC Strasbourg,3.0,0.0,17.0,5.0,7.0,1.0,2026-09-19,Ligue 1
+210481,Toulouse,Le Havre,6.0,7.0,14.0,18.0,5.0,7.0,2026-09-19,Ligue 1
+213580,Athletic Club,Deportivo Alavés,5.0,1.0,24.0,2.0,6.0,0.0,2026-09-19,La Liga
+213582,Celta Vigo,Real Racing Club,3.0,3.0,13.0,11.0,9.0,5.0,2026-09-19,La Liga
+213586,Osasuna,Rayo Vallecano,4.0,4.0,10.0,19.0,3.0,2.0,2026-09-19,La Liga
+213587,Sevilla,FC Barcelona,1.0,3.0,7.0,24.0,3.0,7.0,2026-09-19,La Liga
+213696,Borussia M'gladbach,1. FSV Mainz 05,6.0,4.0,21.0,17.0,7.0,8.0,2026-09-19,Bundesliga
+213697,Eintracht Frankfurt,SC Freiburg,3.0,5.0,10.0,22.0,3.0,7.0,2026-09-19,Bundesliga
+213700,Hamburger SV,1. FC Köln,3.0,5.0,12.0,18.0,7.0,5.0,2026-09-19,Bundesliga
+213702,SV Werder Bremen,FC Augsburg,2.0,2.0,20.0,7.0,11.0,4.0,2026-09-19,Bundesliga
+213703,VfB Stuttgart,Borussia Dortmund,6.0,2.0,12.0,13.0,5.0,2.0,2026-09-19,Bundesliga
+602670,1. FC Kaiserslautern,Eintracht Braunschweig,7.0,5.0,23.0,15.0,10.0,4.0,2026-09-19,2. Bundesliga
+602671,Holstein Kiel,VfL Osnabrück,10.0,1.0,18.0,14.0,4.0,3.0,2026-09-19,2. Bundesliga
+602672,Karlsruher SC,1. FC Nürnberg,3.0,4.0,9.0,10.0,3.0,3.0,2026-09-19,2. Bundesliga
+602673,SG Dynamo Dresden,Hertha BSC,6.0,5.0,7.0,26.0,2.0,9.0,2026-09-19,2. Bundesliga
+603780,SC Austria Lustenau,SCR Altach,3.0,7.0,12.0,13.0,2.0,2.0,2026-09-19,Austrian Bundesliga
+603781,Grazer AK 1902,FK Austria Wien,2.0,4.0,13.0,11.0,5.0,4.0,2026-09-19,Austrian Bundesliga
+7264,Athletico,Bahia,6.0,3.0,11.0,10.0,6.0,3.0,2026-09-20,Brasileirão Serie A
+7266,Corinthians,Fluminense,11.0,1.0,20.0,10.0,7.0,6.0,2026-09-20,Brasileirão Serie A
+7267,Flamengo,Red Bull Bragantino,2.0,5.0,11.0,15.0,6.0,5.0,2026-09-20,Brasileirão Serie A
+7268,Grêmio,Palmeiras,2.0,9.0,7.0,31.0,4.0,10.0,2026-09-20,Brasileirão Serie A
+7271,São Paulo,Internacional,3.0,3.0,6.0,13.0,1.0,1.0,2026-09-20,Brasileirão Serie A
+7273,Vitória,Cruzeiro,8.0,2.0,21.0,14.0,8.0,5.0,2026-09-20,Brasileirão Serie A
+10138,Goiás,Avaí,8.0,3.0,26.0,7.0,7.0,2.0,2026-09-20,Brasileirão Serie B
+10139,Londrina,Fortaleza,8.0,2.0,19.0,10.0,3.0,2.0,2026-09-20,Brasileirão Serie B
+10140,Ponte Preta,CRB,3.0,7.0,8.0,24.0,3.0,7.0,2026-09-20,Brasileirão Serie B
+209575,Bournemouth,Liverpool FC,3.0,3.0,9.0,12.0,2.0,3.0,2026-09-20,Premier League
+209579,Fulham,Manchester United,3.0,13.0,12.0,29.0,6.0,6.0,2026-09-20,Premier League
+209580,Leeds United,Crystal Palace,4.0,3.0,13.0,12.0,2.0,4.0,2026-09-20,Premier League
+209581,Manchester City,Sunderland,6.0,5.0,16.0,17.0,6.0,9.0,2026-09-20,Premier League
+210097,AC Milan,Lecce,2.0,3.0,10.0,6.0,4.0,3.0,2026-09-20,Serie A
+210100,Fiorentina,SSC Napoli,4.0,5.0,17.0,13.0,4.0,5.0,2026-09-20,Serie A
+210101,Frosinone,Como,7.0,8.0,22.0,27.0,6.0,8.0,2026-09-20,Serie A
+210102,Juventus,Atalanta,4.0,5.0,14.0,11.0,5.0,2.0,2026-09-20,Serie A
+210104,Parma,Genoa,2.0,5.0,5.0,12.0,2.0,5.0,2026-09-20,Serie A
+210475,Auxerre,Stade Brestois,8.0,3.0,11.0,8.0,4.0,2.0,2026-09-20,Ligue 1
+210477,Nice,Lille,3.0,7.0,10.0,21.0,4.0,8.0,2026-09-20,Ligue 1
+210479,Olympique de Marseille,Paris Saint-Germain,3.0,7.0,12.0,31.0,4.0,10.0,2026-09-20,Ligue 1
+213581,Atlético Madrid,Real Madrid,3.0,1.0,18.0,8.0,9.0,3.0,2026-09-20,La Liga
+213583,Deportivo de A Coruña,Real Betis,11.0,5.0,24.0,11.0,7.0,4.0,2026-09-20,La Liga
+213585,Getafe,Málaga CF,5.0,9.0,20.0,11.0,7.0,4.0,2026-09-20,La Liga
+213588,Valencia,Real Sociedad,7.0,5.0,22.0,21.0,5.0,6.0,2026-09-20,La Liga
+213589,Villarreal,Levante UD,7.0,1.0,21.0,6.0,7.0,1.0,2026-09-20,La Liga
+213695,Bayer 04 Leverkusen,RB Leipzig,9.0,6.0,18.0,12.0,6.0,3.0,2026-09-20,Bundesliga
+213699,FC Schalke 04,SV 07 Elversberg,4.0,4.0,13.0,11.0,1.0,1.0,2026-09-20,Bundesliga
+213701,SC Paderborn 07,TSG Hoffenheim,6.0,5.0,13.0,23.0,5.0,2.0,2026-09-20,Bundesliga
+602674,Arminia Bielefeld,1. FC Heidenheim,5.0,6.0,6.0,14.0,3.0,7.0,2026-09-20,2. Bundesliga
+602675,Energie Cottbus,FC St. Pauli,9.0,3.0,14.0,7.0,5.0,2.0,2026-09-20,2. Bundesliga
+602676,Hannover 96,VfL Bochum 1848,2.0,12.0,10.0,28.0,7.0,10.0,2026-09-20,2. Bundesliga
+603782,SV Ried,Wolfsberger AC,0.0,9.0,20.0,26.0,11.0,5.0,2026-09-20,Austrian Bundesliga
+603783,TSV Hartberg,LASK,1.0,9.0,10.0,16.0,3.0,6.0,2026-09-20,Austrian Bundesliga
+603784,Red Bull Salzburg,SK Sturm Graz,3.0,8.0,15.0,14.0,7.0,2.0,2026-09-20,Austrian Bundesliga
+10136,Criciúma,Operário-PR,17.0,2.0,26.0,5.0,4.0,2.0,2026-09-22,Brasileirão Serie B
+10137,Cuiabá,Náutico,7.0,4.0,28.0,12.0,7.0,2.0,2026-09-22,Brasileirão Serie B
+223068,Turks and Caicos Islands,Montserrat,2.0,3.0,2.0,14.0,0.0,4.0,2026-09-23,CONCACAF Nations League
+223069,Aruba,Antigua and Barbuda,8.0,3.0,14.0,11.0,6.0,2.0,2026-09-23,CONCACAF Nations League
+223070,Bahamas,Saint Martin,1.0,12.0,2.0,29.0,0.0,14.0,2026-09-23,CONCACAF Nations League
+212581,Netherlands,Germany,12.0,1.0,22.0,10.0,10.0,2.0,2026-09-24,UEFA Nations League
+212582,Serbia,Greece,2.0,6.0,9.0,26.0,4.0,9.0,2026-09-24,UEFA Nations League
+212583,Norway,Denmark,4.0,7.0,13.0,13.0,7.0,7.0,2026-09-24,UEFA Nations League
+212584,Portugal,Wales,10.0,2.0,23.0,5.0,5.0,1.0,2026-09-24,UEFA Nations League
+212587,Austria,Israel,4.0,2.0,19.0,5.0,9.0,1.0,2026-09-24,UEFA Nations League
+212588,Kosovo,Ireland,1.0,0.0,22.0,3.0,8.0,1.0,2026-09-24,UEFA Nations League
+212589,Andorra,Malta,3.0,2.0,13.0,13.0,5.0,8.0,2026-09-24,UEFA Nations League
+212590,Liechtenstein,Lithuania,0.0,8.0,4.0,16.0,0.0,7.0,2026-09-24,UEFA Nations League
+223075,Puerto Rico,Guyana,1.0,3.0,10.0,11.0,1.0,3.0,2026-09-24,CONCACAF Nations League
+10150,Grêmio Novorizontino,São Bernardo,9.0,1.0,17.0,6.0,3.0,1.0,2026-09-25,Brasileirão Serie B
+10153,Vila Nova FC,Londrina,9.0,5.0,23.0,10.0,9.0,3.0,2026-09-25,Brasileirão Serie B
+212591,Georgia,Northern Ireland,9.0,1.0,11.0,12.0,5.0,5.0,2026-09-25,UEFA Nations League
+212592,Armenia,Latvia,10.0,2.0,14.0,5.0,4.0,1.0,2026-09-25,UEFA Nations League
+212593,Italy,Belgium,4.0,8.0,21.0,19.0,6.0,8.0,2026-09-25,UEFA Nations League
+212594,Türkiye,France,5.0,3.0,12.0,12.0,3.0,4.0,2026-09-25,UEFA Nations League
+212595,Hungary,Ukraine,4.0,2.0,17.0,10.0,4.0,3.0,2026-09-25,UEFA Nations League
+212596,Poland,Bosnia & Herzegovina,3.0,3.0,14.0,9.0,4.0,1.0,2026-09-25,UEFA Nations League
+212597,Sweden,Romania,3.0,0.0,11.0,10.0,4.0,1.0,2026-09-25,UEFA Nations League
+212598,Montenegro,Cyprus,8.0,1.0,19.0,11.0,4.0,4.0,2026-09-25,UEFA Nations League
+223071,Costa Rica,Curaçao,0.0,2.0,10.0,12.0,4.0,5.0,2026-09-25,CONCACAF Nations League
+223072,Dominican Republic,Nicaragua,1.0,2.0,27.0,9.0,9.0,4.0,2026-09-25,CONCACAF Nations League
+223073,Haiti,Trinidad and Tobago,6.0,3.0,23.0,11.0,8.0,5.0,2026-09-25,CONCACAF Nations League
+223074,Cayman Islands,Dominica,4.0,12.0,8.0,21.0,2.0,5.0,2026-09-25,CONCACAF Nations League
+223080,Bermuda,Guadeloupe,4.0,7.0,12.0,21.0,4.0,11.0,2026-09-25,CONCACAF Nations League
+223082,Grenada,Cuba,3.0,9.0,10.0,20.0,1.0,9.0,2026-09-25,CONCACAF Nations League
+10149,Goiás,Atlético Goianiense,6.0,7.0,24.0,13.0,5.0,2.0,2026-09-26,Brasileirão Serie B
+10151,Náutico,Sport Recife,11.0,9.0,12.0,24.0,4.0,4.0,2026-09-26,Brasileirão Serie B
+10152,Operário-PR,Ceará,7.0,5.0,12.0,15.0,4.0,5.0,2026-09-26,Brasileirão Serie B
+212585,North Macedonia,Switzerland,0.0,5.0,2.0,23.0,0.0,11.0,2026-09-26,UEFA Nations League
+212586,Slovenia,Scotland,5.0,4.0,4.0,17.0,1.0,5.0,2026-09-26,UEFA Nations League
+212599,San Marino,Finland,0.0,4.0,1.0,23.0,0.0,11.0,2026-09-26,UEFA Nations League
+212600,Faroe Islands,Kazakhstan,7.0,5.0,14.0,10.0,5.0,2.0,2026-09-26,UEFA Nations League
+212601,Bulgaria,Luxembourg,5.0,4.0,10.0,15.0,7.0,7.0,2026-09-26,UEFA Nations League
+212602,Iceland,Estonia,7.0,3.0,19.0,8.0,8.0,5.0,2026-09-26,UEFA Nations League
+212603,Czechia,Croatia,1.0,6.0,5.0,16.0,2.0,5.0,2026-09-26,UEFA Nations League
+212604,England,Spain,6.0,3.0,13.0,15.0,5.0,5.0,2026-09-26,UEFA Nations League
+212605,Albania,Belarus,5.0,2.0,20.0,8.0,3.0,2.0,2026-09-26,UEFA Nations League
+212606,Slovakia,Moldova,7.0,3.0,17.0,8.0,3.0,1.0,2026-09-26,UEFA Nations League
+223076,El Salvador,Martinique,1.0,6.0,9.0,16.0,3.0,2.0,2026-09-26,CONCACAF Nations League
+223077,Honduras,Suriname,3.0,2.0,13.0,10.0,4.0,5.0,2026-09-26,CONCACAF Nations League
+223078,Jamaica,Guatemala,1.0,2.0,12.0,17.0,4.0,3.0,2026-09-26,CONCACAF Nations League
+223079,Barbados,Saint Lucia,1.0,5.0,15.0,16.0,4.0,1.0,2026-09-26,CONCACAF Nations League
+223081,Bonaire,Saint Kitts and Nevis,3.0,6.0,11.0,17.0,4.0,6.0,2026-09-26,CONCACAF Nations League
+223083,Saint Vincent and the Grenadines,French Guiana,4.0,5.0,10.0,9.0,5.0,3.0,2026-09-26,CONCACAF Nations League
+223085,Montserrat,British Virgin Islands,4.0,1.0,20.0,5.0,7.0,2.0,2026-09-26,CONCACAF Nations League
+223086,Antigua and Barbuda,Anguilla,4.0,1.0,24.0,9.0,10.0,2.0,2026-09-26,CONCACAF Nations League
+223087,Saint Martin,US Virgin Islands,12.0,3.0,28.0,11.0,6.0,3.0,2026-09-26,CONCACAF Nations League
+604495,CD Anaitasuna FT,CD Tedeon,,,,,,,2026-09-26,Copa del Rey
+604496,Atlético Calatayud,CD Baztan,,,,,,,2026-09-26,Copa del Rey
+604497,UB Lebrijana,CD 6 de Junio,,,,,,,2026-09-26,Copa del Rey
+604498,Ribadesella CF,Noja SD,,,,,,,2026-09-26,Copa del Rey
+604499,UD Pinatar,Atletico Melilla CF,,,,,,,2026-09-26,Copa del Rey
+10146,CRB,Cuiabá,7.0,7.0,28.0,13.0,10.0,4.0,2026-09-27,Brasileirão Serie B
+10147,Criciúma,Avaí,5.0,2.0,19.0,1.0,5.0,0.0,2026-09-27,Brasileirão Serie B
+10148,Fortaleza,Athletic Club,5.0,1.0,16.0,6.0,7.0,3.0,2026-09-27,Brasileirão Serie B
+212609,Lithuania,Azerbaijan,0.0,2.0,9.0,9.0,3.0,4.0,2026-09-27,UEFA Nations League
+212610,Serbia,Netherlands,3.0,4.0,11.0,25.0,6.0,8.0,2026-09-27,UEFA Nations League
+212611,Denmark,Wales,2.0,4.0,20.0,10.0,4.0,3.0,2026-09-27,UEFA Nations League
+212612,Austria,Kosovo,5.0,1.0,11.0,6.0,6.0,1.0,2026-09-27,UEFA Nations League
+212613,Gibraltar,Andorra,4.0,4.0,5.0,10.0,1.0,4.0,2026-09-27,UEFA Nations League
+212614,Germany,Greece,8.0,2.0,16.0,8.0,5.0,1.0,2026-09-27,UEFA Nations League
+212615,Norway,Portugal,7.0,2.0,22.0,12.0,6.0,4.0,2026-09-27,UEFA Nations League
+212616,Israel,Ireland,2.0,4.0,8.0,9.0,4.0,3.0,2026-09-27,UEFA Nations League
+223084,Sint Maarten,Belize,5.0,8.0,5.0,15.0,1.0,5.0,2026-09-27,CONCACAF Nations League
+223089,Haiti,Costa Rica,3.0,2.0,7.0,21.0,2.0,6.0,2026-09-27,CONCACAF Nations League
+223092,Guyana,Cayman Islands,11.0,1.0,20.0,6.0,5.0,2.0,2026-09-27,CONCACAF Nations League
+604500,Sporting Hortaleza,Atlético Unión Güímar,,,,,,,2026-09-27,Copa del Rey
+604501,Auriense Cented Academy,CD San José de Soria,,,,,,,2026-09-27,Copa del Rey
+604502,CF Sant Rafel,AE Prat,,,,,,,2026-09-27,Copa del Rey
+604503,CP Talayuela,Sporting de Alcazar CF,,,,,,,2026-09-27,Copa del Rey
+604504,UD Maracena,UE Tavernes,,,,,,,2026-09-27,Copa del Rey
+10144,América Mineiro,Juventude,3.0,7.0,13.0,17.0,4.0,3.0,2026-09-28,Brasileirão Serie B
+212617,Georgia,Ukraine,4.0,0.0,14.0,7.0,4.0,2.0,2026-09-28,UEFA Nations League
+212618,Armenia,Montenegro,2.0,4.0,9.0,12.0,4.0,4.0,2026-09-28,UEFA Nations League
+212619,Belgium,France,2.0,6.0,12.0,18.0,2.0,7.0,2026-09-28,UEFA Nations League
+212620,Türkiye,Italy,6.0,2.0,15.0,14.0,3.0,8.0,2026-09-28,UEFA Nations League
+212621,Northern Ireland,Hungary,3.0,2.0,10.0,13.0,3.0,1.0,2026-09-28,UEFA Nations League
+212622,Romania,Bosnia & Herzegovina,4.0,3.0,13.0,15.0,4.0,7.0,2026-09-28,UEFA Nations League
+212623,Sweden,Poland,4.0,4.0,12.0,18.0,6.0,7.0,2026-09-28,UEFA Nations League
+212624,Latvia,Cyprus,4.0,11.0,8.0,18.0,0.0,5.0,2026-09-28,UEFA Nations League
+223088,Curaçao,Nicaragua,4.0,2.0,22.0,5.0,13.0,1.0,2026-09-28,CONCACAF Nations League
+223090,Trinidad and Tobago,Dominican Republic,8.0,3.0,19.0,17.0,6.0,7.0,2026-09-28,CONCACAF Nations League
+223091,Dominica,Puerto Rico,6.0,5.0,10.0,19.0,2.0,6.0,2026-09-28,CONCACAF Nations League
+223095,Suriname,Martinique,6.0,6.0,14.0,10.0,5.0,3.0,2026-09-28,CONCACAF Nations League
+223096,Guadeloupe,Barbados,2.0,5.0,5.0,10.0,3.0,3.0,2026-09-28,CONCACAF Nations League
+223098,Cuba,Bonaire,7.0,5.0,26.0,7.0,7.0,3.0,2026-09-28,CONCACAF Nations League
+10145,Botafogo-SP,Ponte Preta,5.0,2.0,13.0,7.0,4.0,1.0,2026-09-29,Brasileirão Serie B
+212607,Scotland,Switzerland,2.0,6.0,2.0,23.0,0.0,9.0,2026-09-29,UEFA Nations League
+212608,Slovenia,North Macedonia,6.0,3.0,16.0,10.0,5.0,1.0,2026-09-29,UEFA Nations League
+212625,Czechia,England,1.0,6.0,6.0,22.0,2.0,7.0,2026-09-29,UEFA Nations League
+212626,Spain,Croatia,6.0,2.0,16.0,5.0,7.0,2.0,2026-09-29,UEFA Nations League
+212627,Finland,Belarus,8.0,2.0,9.0,9.0,2.0,3.0,2026-09-29,UEFA Nations League
+212628,San Marino,Albania,5.0,6.0,6.0,14.0,1.0,8.0,2026-09-29,UEFA Nations League
+212629,Moldova,Faroe Islands,7.0,2.0,22.0,6.0,4.0,1.0,2026-09-29,UEFA Nations League
+212630,Slovakia,Kazakhstan,8.0,1.0,17.0,3.0,8.0,2.0,2026-09-29,UEFA Nations League
+212631,Bulgaria,Estonia,6.0,6.0,17.0,6.0,2.0,2.0,2026-09-29,UEFA Nations League
+212632,Luxembourg,Iceland,2.0,2.0,5.0,13.0,1.0,4.0,2026-09-29,UEFA Nations League
+223093,Guatemala,El Salvador,4.0,3.0,18.0,13.0,7.0,1.0,2026-09-29,CONCACAF Nations League
+223094,Jamaica,Honduras,3.0,5.0,13.0,14.0,3.0,7.0,2026-09-29,CONCACAF Nations League
+223097,Saint Lucia,Bermuda,3.0,8.0,16.0,20.0,7.0,11.0,2026-09-29,CONCACAF Nations League
+223099,Saint Kitts and Nevis,Grenada,3.0,4.0,9.0,9.0,7.0,4.0,2026-09-29,CONCACAF Nations League
+223101,French Guiana,Sint Maarten,3.0,3.0,12.0,10.0,5.0,3.0,2026-09-29,CONCACAF Nations League
+223102,British Virgin Islands,Turks and Caicos Islands,4.0,7.0,8.0,15.0,1.0,4.0,2026-09-29,CONCACAF Nations League
+223103,Anguilla,Aruba,2.0,8.0,5.0,26.0,1.0,8.0,2026-09-29,CONCACAF Nations League
+223104,US Virgin Islands,Bahamas,0.0,5.0,10.0,15.0,4.0,6.0,2026-09-29,CONCACAF Nations League
+223100,Belize,Saint Vincent and the Grenadines,2.0,4.0,12.0,13.0,3.0,8.0,2026-09-30,CONCACAF Nations League
+10154,Athletic Club,Sport Recife,8.0,6.0,30.0,12.0,8.0,5.0,2026-10-01,Brasileirão Serie B
+212635,Azerbaijan,Liechtenstein,6.0,0.0,25.0,5.0,5.0,0.0,2026-10-01,UEFA Nations League
+212636,Germany,Serbia,12.0,1.0,32.0,1.0,8.0,1.0,2026-10-01,UEFA Nations League
+212637,Greece,Netherlands,6.0,8.0,8.0,19.0,4.0,5.0,2026-10-01,UEFA Nations League
+212638,Denmark,Portugal,3.0,7.0,12.0,19.0,3.0,10.0,2026-10-01,UEFA Nations League
+212639,Wales,Norway,3.0,3.0,12.0,12.0,6.0,4.0,2026-10-01,UEFA Nations League
+212640,Ireland,Austria,3.0,5.0,9.0,16.0,3.0,7.0,2026-10-01,UEFA Nations League
+212641,Israel,Kosovo,4.0,5.0,10.0,18.0,3.0,4.0,2026-10-01,UEFA Nations League
+212642,Malta,Gibraltar,8.0,1.0,17.0,9.0,5.0,2.0,2026-10-01,UEFA Nations League
+223105,British Virgin Islands,Montserrat,1.0,4.0,3.0,12.0,1.0,5.0,2026-10-01,CONCACAF Nations League
+223106,Anguilla,Antigua and Barbuda,4.0,16.0,5.0,43.0,0.0,15.0,2026-10-01,CONCACAF Nations League
+223107,US Virgin Islands,Saint Martin,3.0,16.0,5.0,30.0,1.0,10.0,2026-10-01,CONCACAF Nations League
+223108,Curaçao,Trinidad and Tobago,9.0,1.0,19.0,9.0,9.0,2.0,2026-10-01,CONCACAF Nations League
+223112,Dominica,Guyana,2.0,2.0,11.0,16.0,3.0,8.0,2026-10-01,CONCACAF Nations League
+10160,Grêmio Novorizontino,Goiás,4.0,2.0,32.0,13.0,13.0,4.0,2026-10-02,Brasileirão Serie B
+10161,Juventude,Operário-PR,3.0,5.0,25.0,21.0,6.0,4.0,2026-10-02,Brasileirão Serie B
+10162,Londrina,Criciúma,6.0,4.0,14.0,13.0,4.0,3.0,2026-10-02,Brasileirão Serie B
+10163,São Bernardo,CRB,5.0,7.0,12.0,26.0,5.0,8.0,2026-10-02,Brasileirão Serie B
+212643,Kazakhstan,Moldova,11.0,4.0,19.0,16.0,4.0,8.0,2026-10-02,UEFA Nations League
+212644,Belgium,Türkiye,2.0,5.0,17.0,23.0,10.0,8.0,2026-10-02,UEFA Nations League
+212645,France,Italy,6.0,4.0,18.0,14.0,8.0,2.0,2026-10-02,UEFA Nations League
+212646,Hungary,Georgia,8.0,4.0,26.0,8.0,8.0,3.0,2026-10-02,UEFA Nations League
+212647,Ukraine,Northern Ireland,7.0,1.0,11.0,10.0,2.0,3.0,2026-10-02,UEFA Nations League
+212648,Bosnia & Herzegovina,Sweden,4.0,0.0,4.0,8.0,2.0,4.0,2026-10-02,UEFA Nations League
+212649,Poland,Romania,7.0,1.0,24.0,10.0,9.0,3.0,2026-10-02,UEFA Nations League
+212650,Cyprus,Armenia,1.0,11.0,8.0,17.0,4.0,5.0,2026-10-02,UEFA Nations League
+212651,Latvia,Montenegro,5.0,2.0,14.0,14.0,2.0,6.0,2026-10-02,UEFA Nations League
+212652,Faroe Islands,Slovakia,2.0,10.0,15.0,15.0,6.0,4.0,2026-10-02,UEFA Nations League
+223109,Dominican Republic,Haiti,5.0,5.0,17.0,14.0,7.0,11.0,2026-10-02,CONCACAF Nations League
+223110,Nicaragua,Costa Rica,4.0,6.0,4.0,13.0,1.0,6.0,2026-10-02,CONCACAF Nations League
+223111,Cayman Islands,Puerto Rico,1.0,6.0,5.0,10.0,2.0,4.0,2026-10-02,CONCACAF Nations League
+223115,Suriname,Guatemala,5.0,0.0,13.0,2.0,8.0,1.0,2026-10-02,CONCACAF Nations League
+223117,Saint Lucia,Guadeloupe,3.0,5.0,8.0,12.0,3.0,2.0,2026-10-02,CONCACAF Nations League
+223119,Saint Kitts and Nevis,Cuba,3.0,4.0,16.0,22.0,7.0,7.0,2026-10-02,CONCACAF Nations League
+604422,São Paulo,Santos,14.0,1.0,20.0,9.0,8.0,4.0,2026-10-02,Brasileirão Serie A
