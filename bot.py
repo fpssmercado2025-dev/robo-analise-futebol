@@ -7,6 +7,7 @@ import io
 import requests
 import pandas as pd
 from datetime import datetime, time as dtime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
@@ -19,7 +20,17 @@ GITHUB_REPO = "robo-analise-futebol"
 GITHUB_BRANCH = "main"
 RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/data"
 
-HORARIO_ENVIO_BRASILIA = dtime(hour=8, minute=0)  # 08h Brasilia = 11h UTC
+TZ = ZoneInfo("America/Sao_Paulo")
+HORARIO_ENVIO_BRASILIA = dtime(hour=8, minute=0)  # 08h Brasilia
+
+
+def _hoje():
+    return datetime.now(TZ).strftime("%Y-%m-%d")
+
+
+def _ontem():
+    return (datetime.now(TZ) - timedelta(days=1)).strftime("%Y-%m-%d")
+
 
 # ---------- LEITURA DOS CSVs ----------
 def _carregar_csv(nome):
@@ -32,17 +43,20 @@ def _carregar_csv(nome):
         print(f"[erro] {nome}: {e}")
     return pd.DataFrame()
 
+
 def carregar_previsoes():
     return _carregar_csv("previsoes.csv")
 
+
 def carregar_historico():
     return _carregar_csv("historico_stats.csv")
+
 
 # ---------- FORMATACAO ----------
 def formatar_jogos_do_dia(data_alvo=None):
     """Retorna LISTA de mensagens. Uma por liga (ou mais se a liga for grande)."""
     if data_alvo is None:
-        data_alvo = datetime.now().strftime("%Y-%m-%d")
+        data_alvo = _hoje()
 
     df = carregar_previsoes()
     if df.empty:
@@ -83,7 +97,6 @@ def formatar_jogos_do_dia(data_alvo=None):
                         bloco += f"     Over {row['linha']}: {prob:.0f}% (odd {odd})\n"
             bloco += "\n"
 
-            # Se o bloco do jogo estourar o limite, fecha e abre novo
             if len(atual) + len(bloco) > 3800:
                 mensagens.append(atual)
                 atual = f"\U0001F3C6 *{liga}* (continuacao)\n" + "=" * 30 + "\n\n" + bloco
@@ -97,7 +110,7 @@ def formatar_jogos_do_dia(data_alvo=None):
 
 
 def formatar_coleta_ontem():
-    ontem = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    ontem = _ontem()
     df = carregar_historico()
     if df.empty:
         return None
@@ -175,8 +188,9 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg += "Comandos disponiveis:\n"
     msg += "  /jogos - Previsoes dos jogos de hoje\n"
     msg += "  /parcial - Parcial acumulada de acertos\n"
+    msg += "  /coleta - Jogos coletados ontem\n"
     msg += "  /help - Esta mensagem\n\n"
-    msg += "Voce tambem recebe automaticamente todos os dias as 10h."
+    msg += "Voce tambem recebe automaticamente todos os dias as 08h (Brasilia)."
     await update.message.reply_text(msg)
 
 
@@ -247,7 +261,7 @@ def main():
     app.add_handler(CommandHandler("parcial", cmd_parcial))
     app.add_handler(CommandHandler("coleta", cmd_coleta))
 
-    # Agendamento diario (10h Brasilia = 13h UTC)
+    # Agendamento diario (08h Brasilia = 11h UTC)
     horario_utc = dtime(hour=11, minute=0, tzinfo=timezone.utc)
     app.job_queue.run_daily(envio_automatico, time=horario_utc)
 
