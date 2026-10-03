@@ -50,7 +50,6 @@ LIGAS_ALVO_NOMES = [
     "Copa Sudamericana",
     "Copa do Brasil",
     # Copas nacionais
-    "Copa del Rey",
     "Coppa Italia",
     "Coupe de France",
     # Selecoes (datas FIFA)
