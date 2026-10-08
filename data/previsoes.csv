@@ -1019,147 +1019,207 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-10-06,10168,Brasileirão Serie B,Goiás,Athletic Club,chutes_gol,7.5,22.7,4.404,5.61,12.0,1.0
 2026-10-06,10168,Brasileirão Serie B,Goiás,Athletic Club,chutes_gol,8.5,14.5,6.917,5.61,12.0,1.0
 2026-10-06,10168,Brasileirão Serie B,Goiás,Athletic Club,chutes_gol,9.5,8.8,11.416,5.61,12.0,1.0
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,7.5,20.5,4.868,5.34,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,8.5,13.2,7.578,5.34,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,9.5,8.1,12.292,5.34,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,10.5,4.8,20.69,5.34,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,18.5,43.1,2.317,18.02,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,20.5,31.4,3.184,18.02,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,22.5,21.7,4.607,18.02,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,24.5,14.3,7.011,18.02,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,6.5,12.7,7.879,3.95,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,7.5,6.7,14.838,3.95,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,8.5,3.4,29.735,3.95,,
-2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,9.5,1.6,62.972,3.95,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,7.5,12.9,7.758,4.59,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,8.5,7.6,13.209,4.59,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,9.5,4.3,23.462,4.59,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,10.5,2.3,43.268,4.59,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,18.5,34.7,2.879,16.7,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,20.5,23.9,4.186,16.7,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,22.5,15.6,6.425,16.7,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,24.5,9.6,10.392,16.7,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,6.5,41.0,2.439,6.13,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,7.5,29.2,3.43,6.13,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,8.5,19.7,5.071,6.13,,
-2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,9.5,12.7,7.85,6.13,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,7.5,40.7,2.458,7.07,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,8.5,30.4,3.288,7.07,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,9.5,21.9,4.558,7.07,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,10.5,15.3,6.529,7.07,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,18.5,50.2,1.991,19.17,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,20.5,38.1,2.623,19.17,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,22.5,27.6,3.629,19.17,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,24.5,19.0,5.273,19.17,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,6.5,12.8,7.82,3.96,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,7.5,6.8,14.704,3.96,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,8.5,3.4,29.417,3.96,,
-2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,9.5,1.6,62.192,3.96,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,7.5,80.2,1.246,11.74,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,8.5,72.7,1.375,11.74,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,9.5,64.5,1.55,11.74,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,10.5,56.0,1.784,11.74,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,18.5,71.8,1.392,23.5,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,20.5,61.1,1.636,23.5,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,22.5,50.0,2.001,23.5,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,24.5,39.2,2.552,23.5,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,6.5,22.4,4.467,4.76,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,7.5,13.6,7.379,4.76,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,8.5,7.7,12.925,4.76,,
-2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,9.5,4.2,23.859,4.76,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,7.5,52.3,1.912,8.12,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,8.5,41.7,2.4,8.12,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,9.5,32.1,3.112,8.12,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,10.5,24.1,4.158,8.12,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,18.5,78.6,1.272,25.43,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,20.5,69.2,1.446,25.43,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,22.5,58.8,1.702,25.43,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,24.5,48.0,2.082,25.43,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,6.5,39.5,2.533,6.02,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,7.5,27.7,3.613,6.02,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,8.5,18.4,5.43,6.02,,
-2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,9.5,11.7,8.562,6.02,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,7.5,92.1,1.086,15.24,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,8.5,88.1,1.135,15.24,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,9.5,83.2,1.201,15.24,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,10.5,77.6,1.289,15.24,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,18.5,95.5,1.047,36.56,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,20.5,92.2,1.085,36.56,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,22.5,87.4,1.144,36.56,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,24.5,81.2,1.232,36.56,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,6.5,52.0,1.921,6.97,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,7.5,39.6,2.527,6.97,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,8.5,28.7,3.484,6.97,,
-2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,9.5,19.9,5.022,6.97,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,7.5,92.4,1.083,15.36,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,8.5,88.5,1.13,15.36,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,9.5,83.7,1.195,15.36,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,10.5,78.1,1.28,15.36,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,18.5,92.2,1.085,32.47,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,20.5,87.2,1.147,32.47,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,22.5,80.6,1.24,32.47,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,24.5,72.6,1.378,32.47,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,6.5,66.7,1.499,8.27,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,7.5,55.1,1.816,8.27,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,8.5,43.7,2.29,8.27,,
-2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,9.5,33.3,3.002,8.27,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,7.5,57.4,1.743,8.62,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,8.5,46.9,2.134,8.62,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,9.5,37.1,2.694,8.62,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,10.5,28.6,3.5,8.62,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,18.5,73.0,1.37,23.81,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,20.5,62.5,1.601,23.81,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,22.5,51.4,1.945,23.81,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,24.5,40.6,2.462,23.81,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,6.5,50.5,1.979,6.85,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,7.5,38.1,2.627,6.85,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,8.5,27.3,3.657,6.85,,
-2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,9.5,18.8,5.326,6.85,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,7.5,81.9,1.221,12.07,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,8.5,74.7,1.338,12.07,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,9.5,66.8,1.496,12.07,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,10.5,58.6,1.707,12.07,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,18.5,99.2,1.008,52.75,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,20.5,98.4,1.016,52.75,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,22.5,97.0,1.031,52.75,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,24.5,94.8,1.055,52.75,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,6.5,94.7,1.056,13.86,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,7.5,91.1,1.098,13.86,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,8.5,86.2,1.16,13.86,,
-2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,9.5,80.2,1.247,13.86,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,7.5,77.9,1.284,11.3,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,8.5,69.8,1.432,11.3,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,9.5,61.2,1.633,11.3,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,10.5,52.5,1.904,11.3,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,18.5,95.8,1.044,37.15,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,20.5,92.7,1.079,37.15,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,22.5,88.2,1.134,37.15,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,24.5,82.1,1.217,37.15,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,6.5,94.0,1.063,13.52,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,7.5,90.1,1.11,13.52,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,8.5,84.8,1.179,13.52,,
-2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,9.5,78.4,1.275,13.52,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,7.5,72.9,1.372,10.5,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,8.5,63.9,1.564,10.5,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,9.5,54.7,1.828,10.5,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,10.5,45.7,2.189,10.5,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,18.5,84.1,1.19,27.48,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,20.5,76.1,1.314,27.48,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,22.5,66.7,1.499,27.48,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,24.5,56.5,1.769,27.48,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,6.5,47.8,2.092,6.64,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,7.5,35.4,2.824,6.64,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,8.5,25.0,4.003,6.64,,
-2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,9.5,16.8,5.94,6.64,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,7.5,95.0,1.052,17.02,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,8.5,92.3,1.084,17.02,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,9.5,88.7,1.127,17.02,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,10.5,84.4,1.185,17.02,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,18.5,90.0,1.111,30.75,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,20.5,84.1,1.189,30.75,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,22.5,76.6,1.305,30.75,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,24.5,67.8,1.475,30.75,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,6.5,74.0,1.351,9.09,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,7.5,63.5,1.574,9.09,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,8.5,52.6,1.902,9.09,,
-2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,9.5,42.0,2.381,9.09,,
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,7.5,20.5,4.868,5.34,10.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,8.5,13.2,7.578,5.34,10.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,9.5,8.1,12.292,5.34,10.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,escanteios,10.5,4.8,20.69,5.34,10.0,0.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,18.5,43.1,2.317,18.02,25.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,20.5,31.4,3.184,18.02,25.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,22.5,21.7,4.607,18.02,25.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes,24.5,14.3,7.011,18.02,25.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,6.5,12.7,7.879,3.95,8.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,7.5,6.7,14.838,3.95,8.0,1.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,8.5,3.4,29.735,3.95,8.0,0.0
+2026-10-07,10171,Brasileirão Serie B,Ponte Preta,Juventude,chutes_gol,9.5,1.6,62.972,3.95,8.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,7.5,12.9,7.758,4.59,8.0,1.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,8.5,7.6,13.209,4.59,8.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,9.5,4.3,23.462,4.59,8.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,escanteios,10.5,2.3,43.268,4.59,8.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,18.5,34.7,2.879,16.7,22.0,1.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,20.5,23.9,4.186,16.7,22.0,1.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,22.5,15.6,6.425,16.7,22.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes,24.5,9.6,10.392,16.7,22.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,6.5,41.0,2.439,6.13,4.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,7.5,29.2,3.43,6.13,4.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,8.5,19.7,5.071,6.13,4.0,0.0
+2026-10-07,223140,CONCACAF Nations League,French Guiana,Belize,chutes_gol,9.5,12.7,7.85,6.13,4.0,0.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,7.5,40.7,2.458,7.07,15.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,8.5,30.4,3.288,7.07,15.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,9.5,21.9,4.558,7.07,15.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,escanteios,10.5,15.3,6.529,7.07,15.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,18.5,50.2,1.991,19.17,39.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,20.5,38.1,2.623,19.17,39.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,22.5,27.6,3.629,19.17,39.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes,24.5,19.0,5.273,19.17,39.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,6.5,12.8,7.82,3.96,14.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,7.5,6.8,14.704,3.96,14.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,8.5,3.4,29.417,3.96,14.0,1.0
+2026-10-07,7278,Brasileirão Serie A,Internacional,Corinthians,chutes_gol,9.5,1.6,62.192,3.96,14.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,7.5,80.2,1.246,11.74,11.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,8.5,72.7,1.375,11.74,11.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,9.5,64.5,1.55,11.74,11.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,escanteios,10.5,56.0,1.784,11.74,11.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,18.5,71.8,1.392,23.5,25.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,20.5,61.1,1.636,23.5,25.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,22.5,50.0,2.001,23.5,25.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes,24.5,39.2,2.552,23.5,25.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,6.5,22.4,4.467,4.76,9.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,7.5,13.6,7.379,4.76,9.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,8.5,7.7,12.925,4.76,9.0,1.0
+2026-10-07,10170,Brasileirão Serie B,Operário-PR,Botafogo-SP,chutes_gol,9.5,4.2,23.859,4.76,9.0,0.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,7.5,52.3,1.912,8.12,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,8.5,41.7,2.4,8.12,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,9.5,32.1,3.112,8.12,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,escanteios,10.5,24.1,4.158,8.12,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,18.5,78.6,1.272,25.43,40.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,20.5,69.2,1.446,25.43,40.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,22.5,58.8,1.702,25.43,40.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes,24.5,48.0,2.082,25.43,40.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,6.5,39.5,2.533,6.02,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,7.5,27.7,3.613,6.02,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,8.5,18.4,5.43,6.02,14.0,1.0
+2026-10-07,7281,Brasileirão Serie A,Remo,Grêmio,chutes_gol,9.5,11.7,8.562,6.02,14.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,7.5,92.1,1.086,15.24,13.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,8.5,88.1,1.135,15.24,13.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,9.5,83.2,1.201,15.24,13.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,escanteios,10.5,77.6,1.289,15.24,13.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,18.5,95.5,1.047,36.56,41.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,20.5,92.2,1.085,36.56,41.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,22.5,87.4,1.144,36.56,41.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes,24.5,81.2,1.232,36.56,41.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,6.5,52.0,1.921,6.97,11.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,7.5,39.6,2.527,6.97,11.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,8.5,28.7,3.484,6.97,11.0,1.0
+2026-10-07,7280,Brasileirão Serie A,Red Bull Bragantino,Mirassol,chutes_gol,9.5,19.9,5.022,6.97,11.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,7.5,92.4,1.083,15.36,13.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,8.5,88.5,1.13,15.36,13.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,9.5,83.7,1.195,15.36,13.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,escanteios,10.5,78.1,1.28,15.36,13.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,18.5,92.2,1.085,32.47,30.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,20.5,87.2,1.147,32.47,30.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,22.5,80.6,1.24,32.47,30.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes,24.5,72.6,1.378,32.47,30.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,6.5,66.7,1.499,8.27,8.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,7.5,55.1,1.816,8.27,8.0,1.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,8.5,43.7,2.29,8.27,8.0,0.0
+2026-10-07,10165,Brasileirão Serie B,Avaí,Londrina,chutes_gol,9.5,33.3,3.002,8.27,8.0,0.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,7.5,57.4,1.743,8.62,9.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,8.5,46.9,2.134,8.62,9.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,9.5,37.1,2.694,8.62,9.0,0.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,escanteios,10.5,28.6,3.5,8.62,9.0,0.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,18.5,73.0,1.37,23.81,31.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,20.5,62.5,1.601,23.81,31.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,22.5,51.4,1.945,23.81,31.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes,24.5,40.6,2.462,23.81,31.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,6.5,50.5,1.979,6.85,12.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,7.5,38.1,2.627,6.85,12.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,8.5,27.3,3.657,6.85,12.0,1.0
+2026-10-07,7283,Brasileirão Serie A,Vitória,Chapecoense,chutes_gol,9.5,18.8,5.326,6.85,12.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,7.5,81.9,1.221,12.07,17.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,8.5,74.7,1.338,12.07,17.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,9.5,66.8,1.496,12.07,17.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,escanteios,10.5,58.6,1.707,12.07,17.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,18.5,99.2,1.008,52.75,35.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,20.5,98.4,1.016,52.75,35.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,22.5,97.0,1.031,52.75,35.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes,24.5,94.8,1.055,52.75,35.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,6.5,94.7,1.056,13.86,11.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,7.5,91.1,1.098,13.86,11.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,8.5,86.2,1.16,13.86,11.0,1.0
+2026-10-07,10166,Brasileirão Serie B,CRB,Atlético Goianiense,chutes_gol,9.5,80.2,1.247,13.86,11.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,7.5,77.9,1.284,11.3,21.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,8.5,69.8,1.432,11.3,21.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,9.5,61.2,1.633,11.3,21.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,escanteios,10.5,52.5,1.904,11.3,21.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,18.5,95.8,1.044,37.15,28.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,20.5,92.7,1.079,37.15,28.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,22.5,88.2,1.134,37.15,28.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes,24.5,82.1,1.217,37.15,28.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,6.5,94.0,1.063,13.52,9.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,7.5,90.1,1.11,13.52,9.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,8.5,84.8,1.179,13.52,9.0,1.0
+2026-10-07,7275,Brasileirão Serie A,Botafogo,Vasco da Gama,chutes_gol,9.5,78.4,1.275,13.52,9.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,7.5,72.9,1.372,10.5,8.0,1.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,8.5,63.9,1.564,10.5,8.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,9.5,54.7,1.828,10.5,8.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,escanteios,10.5,45.7,2.189,10.5,8.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,18.5,84.1,1.19,27.48,21.0,1.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,20.5,76.1,1.314,27.48,21.0,1.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,22.5,66.7,1.499,27.48,21.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes,24.5,56.5,1.769,27.48,21.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,6.5,47.8,2.092,6.64,3.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,7.5,35.4,2.824,6.64,3.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,8.5,25.0,4.003,6.64,3.0,0.0
+2026-10-07,10164,Brasileirão Serie B,América Mineiro,Fortaleza,chutes_gol,9.5,16.8,5.94,6.64,3.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,7.5,95.0,1.052,17.02,12.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,8.5,92.3,1.084,17.02,12.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,9.5,88.7,1.127,17.02,12.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,escanteios,10.5,84.4,1.185,17.02,12.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,18.5,90.0,1.111,30.75,22.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,20.5,84.1,1.189,30.75,22.0,1.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,22.5,76.6,1.305,30.75,22.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes,24.5,67.8,1.475,30.75,22.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,6.5,74.0,1.351,9.09,4.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,7.5,63.5,1.574,9.09,4.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,8.5,52.6,1.902,9.09,4.0,0.0
+2026-10-07,10173,Brasileirão Serie B,Vila Nova FC,Cuiabá,chutes_gol,9.5,42.0,2.381,9.09,4.0,0.0
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,escanteios,7.5,66.5,1.504,9.64,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,escanteios,8.5,56.7,1.765,9.64,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,escanteios,9.5,47.0,2.128,9.64,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,escanteios,10.5,37.9,2.635,9.64,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes,18.5,89.9,1.112,30.62,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes,20.5,84.0,1.191,30.62,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes,22.5,76.4,1.309,30.62,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes,24.5,67.5,1.482,30.62,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes_gol,6.5,39.8,2.513,6.04,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes_gol,7.5,28.0,3.576,6.04,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes_gol,8.5,18.6,5.361,6.04,,
+2026-10-08,7276,Brasileirão Serie A,Cruzeiro,São Paulo,chutes_gol,9.5,11.9,8.43,6.04,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,escanteios,7.5,88.2,1.133,13.71,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,escanteios,8.5,82.9,1.206,13.71,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,escanteios,9.5,76.6,1.305,13.71,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,escanteios,10.5,69.7,1.436,13.71,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes,18.5,96.9,1.033,39.33,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes,20.5,94.3,1.06,39.33,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes,22.5,90.6,1.104,39.33,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes,24.5,85.4,1.171,39.33,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes_gol,6.5,94.0,1.064,13.5,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes_gol,7.5,90.0,1.111,13.5,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes_gol,8.5,84.8,1.18,13.5,,
+2026-10-08,7282,Brasileirão Serie A,Santos,Flamengo,chutes_gol,9.5,78.3,1.277,13.5,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,escanteios,7.5,89.4,1.119,14.1,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,escanteios,8.5,84.4,1.184,14.1,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,escanteios,9.5,78.5,1.273,14.1,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,escanteios,10.5,71.9,1.391,14.1,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes,18.5,79.8,1.253,25.83,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes,20.5,70.7,1.415,25.83,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes,22.5,60.5,1.654,25.83,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes,24.5,49.8,2.009,25.83,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes_gol,6.5,51.7,1.934,6.94,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes_gol,7.5,39.2,2.548,6.94,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes_gol,8.5,28.4,3.52,6.94,,
+2026-10-08,10167,Brasileirão Serie B,Ceará,Criciúma,chutes_gol,9.5,19.7,5.084,6.94,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,escanteios,7.5,95.9,1.043,17.69,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,escanteios,8.5,93.5,1.07,17.69,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,escanteios,9.5,90.3,1.107,17.69,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,escanteios,10.5,86.4,1.157,17.69,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes,18.5,96.2,1.04,37.73,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes,20.5,93.2,1.073,37.73,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes,22.5,88.9,1.125,37.73,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes,24.5,83.2,1.203,37.73,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes_gol,6.5,96.4,1.037,14.98,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes_gol,7.5,93.7,1.067,14.98,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes_gol,8.5,90.0,1.111,14.98,,
+2026-10-08,10169,Brasileirão Serie B,Náutico,Grêmio Novorizontino,chutes_gol,9.5,85.2,1.174,14.98,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,escanteios,7.5,51.3,1.95,8.02,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,escanteios,8.5,40.6,2.461,8.02,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,escanteios,9.5,31.1,3.21,8.02,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,escanteios,10.5,23.2,4.316,8.02,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes,18.5,64.4,1.553,21.79,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes,20.5,52.7,1.897,21.79,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes,22.5,41.3,2.419,21.79,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes,24.5,31.0,3.226,21.79,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes_gol,6.5,52.4,1.907,7.0,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes_gol,7.5,40.0,2.501,7.0,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes_gol,8.5,29.1,3.439,7.0,,
+2026-10-08,7274,Brasileirão Serie A,Athletico,Atlético Mineiro,chutes_gol,9.5,20.2,4.943,7.0,,
