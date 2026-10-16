@@ -2483,447 +2483,579 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-10-14,604474,Copa Sudamericana,Atlético Mineiro,Montevideo City Torque,chutes_gol,7.5,46.7,2.144,7.54,9.0,1.0
 2026-10-14,604474,Copa Sudamericana,Atlético Mineiro,Montevideo City Torque,chutes_gol,8.5,35.3,2.833,7.54,9.0,1.0
 2026-10-14,604474,Copa Sudamericana,Atlético Mineiro,Montevideo City Torque,chutes_gol,9.5,25.6,3.905,7.54,9.0,0.0
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,7.5,83.1,1.203,12.26,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,8.5,76.2,1.312,12.26,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,9.5,68.5,1.46,12.26,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,10.5,60.3,1.659,12.26,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,18.5,96.8,1.033,38.83,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,20.5,94.3,1.061,38.83,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,22.5,90.5,1.105,38.83,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,24.5,85.2,1.174,38.83,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,6.5,94.0,1.063,13.5,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,7.5,90.1,1.11,13.5,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,8.5,84.8,1.179,13.5,,
-2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,9.5,78.4,1.276,13.5,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,7.5,38.5,2.596,6.89,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,8.5,28.3,3.53,6.89,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,9.5,20.1,4.984,6.89,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,10.5,13.7,7.281,6.89,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,18.5,86.4,1.157,28.4,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,20.5,79.1,1.264,28.4,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,22.5,70.3,1.422,28.4,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,24.5,60.4,1.655,28.4,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,6.5,49.5,2.02,6.77,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,7.5,37.0,2.699,6.77,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,8.5,26.4,3.785,6.77,,
-2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,9.5,18.0,5.554,6.77,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,7.5,69.6,1.438,9.99,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,8.5,60.0,1.666,9.99,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,9.5,50.4,1.984,9.99,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,10.5,41.2,2.426,9.99,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,18.5,27.0,3.705,15.5,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,20.5,17.4,5.75,15.5,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,22.5,10.6,9.454,15.5,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,24.5,6.1,16.427,15.5,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,6.5,31.2,3.209,5.42,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,7.5,20.5,4.88,5.42,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,8.5,12.8,7.844,5.42,,
-2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,9.5,7.5,13.262,5.42,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,7.5,75.7,1.321,11.0,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,8.5,67.3,1.485,11.0,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,9.5,58.5,1.708,11.0,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,10.5,49.8,2.009,11.0,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,18.5,91.9,1.089,32.96,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,20.5,86.6,1.155,32.96,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,22.5,79.7,1.256,32.96,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,24.5,71.1,1.407,32.96,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,6.5,87.8,1.14,11.39,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,7.5,81.0,1.234,11.39,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,8.5,73.0,1.37,11.39,,
-2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,9.5,64.0,1.563,11.39,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,7.5,83.6,1.196,13.16,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,8.5,77.4,1.292,13.16,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,9.5,70.5,1.418,13.16,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,10.5,63.3,1.581,13.16,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,18.5,96.9,1.032,38.65,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,20.5,94.3,1.06,38.65,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,22.5,90.6,1.104,38.65,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,24.5,85.4,1.172,38.65,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,6.5,97.6,1.024,16.14,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,7.5,95.7,1.045,16.14,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,8.5,93.0,1.076,16.14,,
-2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,9.5,89.2,1.121,16.14,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,7.5,79.9,1.252,11.88,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,8.5,72.5,1.379,11.88,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,9.5,64.5,1.55,11.88,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,10.5,56.3,1.777,11.88,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,18.5,88.3,1.132,30.61,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,20.5,81.6,1.225,30.61,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,22.5,73.2,1.367,30.61,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,24.5,63.3,1.58,30.61,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,6.5,74.7,1.339,9.27,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,7.5,64.6,1.549,9.27,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,8.5,54.0,1.853,9.27,,
-2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,9.5,43.6,2.291,9.27,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,7.5,77.2,1.295,11.15,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,8.5,69.0,1.449,11.15,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,9.5,60.2,1.66,11.15,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,10.5,51.4,1.946,11.15,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,18.5,92.9,1.076,33.3,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,20.5,88.1,1.134,33.3,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,22.5,81.8,1.223,33.3,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,24.5,73.8,1.354,33.3,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,6.5,79.0,1.266,9.76,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,7.5,69.6,1.437,9.76,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,8.5,59.3,1.686,9.76,,
-2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,9.5,48.9,2.044,9.76,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,7.5,95.5,1.047,17.37,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,8.5,92.9,1.077,17.37,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,9.5,89.5,1.117,17.37,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,10.5,85.4,1.171,17.37,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,18.5,88.6,1.129,30.7,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,20.5,81.9,1.22,30.7,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,22.5,73.6,1.359,30.7,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,24.5,63.8,1.568,30.7,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,6.5,59.4,1.682,7.61,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,7.5,47.3,2.113,7.61,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,8.5,36.1,2.77,7.61,,
-2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,9.5,26.5,3.779,7.61,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,7.5,82.6,1.211,12.13,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,8.5,75.5,1.324,12.13,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,9.5,67.7,1.478,12.13,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,10.5,59.3,1.685,12.13,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,18.5,83.3,1.201,27.21,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,20.5,75.0,1.334,27.21,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,22.5,65.2,1.533,27.21,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,24.5,54.7,1.828,27.21,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,6.5,76.9,1.3,9.51,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,7.5,67.1,1.49,9.51,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,8.5,56.6,1.766,9.51,,
-2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,9.5,46.2,2.162,9.51,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,7.5,59.5,1.68,8.82,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,8.5,49.0,2.04,8.82,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,9.5,39.1,2.556,8.82,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,10.5,30.3,3.296,8.82,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,18.5,86.8,1.152,28.6,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,20.5,79.7,1.255,28.6,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,22.5,71.0,1.409,28.6,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,24.5,61.1,1.636,28.6,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,6.5,29.3,3.414,5.28,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,7.5,18.9,5.276,5.28,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,8.5,11.6,8.625,5.28,,
-2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,9.5,6.7,14.835,5.28,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,7.5,85.8,1.165,12.91,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,8.5,79.6,1.256,12.91,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,9.5,72.5,1.378,12.91,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,10.5,64.8,1.542,12.91,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,18.5,98.4,1.016,44.47,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,20.5,96.9,1.032,44.47,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,22.5,94.5,1.058,44.47,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,24.5,90.9,1.1,44.47,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,6.5,79.6,1.257,9.85,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,7.5,70.3,1.422,9.85,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,8.5,60.2,1.663,9.85,,
-2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,9.5,49.8,2.008,9.85,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,7.5,85.7,1.167,12.88,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,8.5,79.5,1.258,12.88,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,9.5,72.4,1.381,12.88,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,10.5,64.7,1.546,12.88,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,18.5,91.0,1.099,31.19,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,20.5,85.4,1.171,31.19,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,22.5,78.2,1.278,31.19,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,24.5,69.6,1.436,31.19,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,6.5,80.0,1.25,9.92,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,7.5,70.9,1.411,9.92,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,8.5,60.8,1.645,9.92,,
-2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,9.5,50.5,1.981,9.92,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,7.5,20.9,4.778,5.39,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,8.5,13.4,7.441,5.39,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,9.5,8.3,12.09,5.39,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,10.5,4.9,20.404,5.39,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,18.5,86.8,1.152,28.6,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,20.5,79.7,1.255,28.6,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,22.5,71.0,1.409,28.6,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,24.5,61.1,1.636,28.6,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,6.5,43.5,2.302,6.31,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,7.5,31.3,3.196,6.31,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,8.5,21.4,4.67,6.31,,
-2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,9.5,14.0,7.151,6.31,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,7.5,41.4,2.416,7.13,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,8.5,31.0,3.229,7.13,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,9.5,22.3,4.476,7.13,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,10.5,15.6,6.417,7.13,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,18.5,69.0,1.449,22.74,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,20.5,57.8,1.731,22.74,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,22.5,46.4,2.157,22.74,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,24.5,35.6,2.807,22.74,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,6.5,72.6,1.377,8.92,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,7.5,61.9,1.616,8.92,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,8.5,50.8,1.969,8.92,,
-2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,9.5,40.2,2.488,8.92,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,7.5,55.9,1.788,8.45,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,8.5,45.2,2.21,8.45,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,9.5,35.4,2.822,8.45,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,10.5,26.9,3.714,8.45,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,18.5,80.3,1.245,26.05,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,20.5,71.2,1.404,26.05,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,22.5,60.9,1.641,26.05,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,24.5,50.1,1.995,26.05,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,6.5,83.0,1.205,10.42,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,7.5,74.7,1.339,10.42,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,8.5,65.3,1.532,10.42,,
-2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,9.5,55.3,1.807,10.42,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,7.5,90.7,1.103,14.46,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,8.5,86.1,1.161,14.46,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,9.5,80.6,1.241,14.46,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,10.5,74.2,1.348,14.46,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,18.5,83.4,1.198,27.05,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,20.5,75.2,1.33,27.05,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,22.5,65.6,1.525,27.05,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,24.5,55.2,1.812,27.05,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,6.5,99.2,1.008,19.35,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,7.5,98.4,1.016,19.35,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,8.5,97.2,1.028,19.35,,
-2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,9.5,95.5,1.047,19.35,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,7.5,99.2,1.008,24.11,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,8.5,98.6,1.014,24.11,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,9.5,97.7,1.023,24.11,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,10.5,96.5,1.036,24.11,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,18.5,97.4,1.027,40.43,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,20.5,95.2,1.05,40.43,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,22.5,91.9,1.088,40.43,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,24.5,87.2,1.147,40.43,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,6.5,97.9,1.022,16.52,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,7.5,96.2,1.04,16.52,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,8.5,93.7,1.068,16.52,,
-2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,9.5,90.2,1.108,16.52,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,7.5,76.1,1.313,10.95,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,8.5,67.7,1.477,10.95,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,9.5,58.7,1.703,10.95,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,10.5,49.7,2.011,10.95,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,18.5,92.5,1.081,32.44,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,20.5,87.6,1.142,32.44,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,22.5,81.1,1.234,32.44,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,24.5,73.0,1.369,32.44,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,6.5,95.8,1.044,14.54,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,7.5,92.8,1.077,14.54,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,8.5,88.7,1.128,14.54,,
-2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,9.5,83.4,1.199,14.54,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,7.5,38.9,2.569,6.92,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,8.5,28.7,3.485,6.92,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,9.5,20.4,4.908,6.92,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,10.5,14.0,7.155,6.92,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,18.5,71.5,1.398,23.32,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,20.5,60.6,1.649,23.32,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,22.5,49.4,2.026,23.32,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,24.5,38.5,2.595,23.32,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,6.5,59.3,1.687,7.59,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,7.5,47.1,2.124,7.59,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,8.5,35.8,2.794,7.59,,
-2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,9.5,26.1,3.828,7.59,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,7.5,58.0,1.726,8.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,8.5,48.3,2.07,8.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,9.5,39.3,2.542,8.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,10.5,31.3,3.191,8.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,18.5,85.2,1.173,29.63,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,20.5,77.3,1.293,29.63,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,22.5,67.7,1.477,29.63,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,24.5,56.8,1.761,29.63,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,6.5,79.6,1.256,9.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,7.5,70.4,1.42,9.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,8.5,60.3,1.657,9.89,,
-2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,9.5,50.1,1.996,9.89,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,7.5,78.8,1.269,11.42,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,8.5,70.9,1.41,11.42,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,9.5,62.4,1.604,11.42,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,10.5,53.6,1.865,11.42,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,18.5,93.9,1.064,33.78,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,20.5,89.8,1.114,33.78,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,22.5,84.0,1.19,33.78,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,24.5,76.8,1.302,33.78,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,6.5,71.8,1.392,8.88,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,7.5,61.1,1.636,8.88,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,8.5,50.1,1.995,8.88,,
-2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,9.5,39.7,2.519,8.88,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,7.5,73.3,1.364,10.54,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,8.5,64.4,1.553,10.54,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,9.5,55.1,1.814,10.54,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,10.5,46.1,2.169,10.54,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,18.5,88.5,1.129,29.42,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,20.5,82.0,1.219,29.42,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,22.5,73.9,1.353,29.42,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,24.5,64.5,1.549,29.42,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,6.5,75.4,1.327,9.3,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,7.5,65.2,1.533,9.3,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,8.5,54.6,1.832,9.3,,
-2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,9.5,44.1,2.266,9.3,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,7.5,79.4,1.26,11.51,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,8.5,71.6,1.397,11.51,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,9.5,63.1,1.584,11.51,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,10.5,54.4,1.838,11.51,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,18.5,86.8,1.152,28.6,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,20.5,79.7,1.255,28.6,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,22.5,71.0,1.409,28.6,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,24.5,61.1,1.636,28.6,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,6.5,78.6,1.272,9.71,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,7.5,69.1,1.446,9.71,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,8.5,58.8,1.7,9.71,,
-2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,9.5,48.4,2.066,9.71,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,7.5,79.2,1.262,11.47,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,8.5,71.4,1.401,11.47,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,9.5,62.9,1.591,11.47,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,10.5,54.1,1.847,11.47,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,18.5,90.1,1.11,30.53,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,20.5,84.1,1.189,30.53,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,22.5,76.6,1.306,30.53,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,24.5,67.6,1.479,30.53,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,6.5,87.0,1.15,11.21,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,7.5,80.0,1.251,11.21,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,8.5,71.6,1.396,11.21,,
-2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,9.5,62.5,1.601,11.21,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,7.5,78.1,1.281,11.36,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,8.5,70.1,1.427,11.36,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,9.5,61.5,1.625,11.36,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,10.5,52.9,1.892,11.36,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,18.5,90.3,1.108,31.43,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,20.5,84.4,1.185,31.43,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,22.5,76.7,1.303,31.43,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,24.5,67.6,1.479,31.43,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,6.5,82.0,1.22,10.44,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,7.5,73.7,1.358,10.44,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,8.5,64.4,1.553,10.44,,
-2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,9.5,54.8,1.826,10.44,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,7.5,80.4,1.244,11.7,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,8.5,72.8,1.374,11.7,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,9.5,64.5,1.551,11.7,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,10.5,55.9,1.789,11.7,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,18.5,92.8,1.077,32.94,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,20.5,88.1,1.135,32.94,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,22.5,81.7,1.224,32.94,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,24.5,73.8,1.355,32.94,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,6.5,91.3,1.096,12.38,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,7.5,86.0,1.163,12.38,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,8.5,79.3,1.261,12.38,,
-2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,9.5,71.5,1.399,12.38,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,7.5,20.9,4.777,5.39,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,8.5,13.4,7.439,5.39,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,9.5,8.3,12.086,5.39,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,10.5,4.9,20.395,5.39,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,18.5,91.7,1.09,31.78,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,20.5,86.5,1.156,31.78,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,22.5,79.6,1.256,31.78,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,24.5,71.3,1.403,31.78,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,6.5,85.2,1.174,10.83,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,7.5,77.6,1.289,10.83,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,8.5,68.7,1.455,10.83,,
-2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,9.5,59.2,1.69,10.83,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,7.5,75.5,1.324,10.88,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,8.5,67.0,1.493,10.88,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,9.5,58.0,1.724,10.88,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,10.5,49.0,2.039,10.88,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,18.5,79.3,1.261,25.52,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,20.5,70.0,1.429,25.52,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,22.5,59.6,1.678,25.52,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,24.5,48.8,2.049,25.52,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,6.5,70.2,1.424,8.64,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,7.5,59.1,1.693,8.64,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,8.5,47.8,2.093,8.64,,
-2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,9.5,37.2,2.686,8.64,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,7.5,58.5,1.71,8.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,8.5,48.6,2.059,8.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,9.5,39.3,2.546,8.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,10.5,31.0,3.223,8.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,18.5,60.7,1.648,21.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,20.5,48.6,2.058,21.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,22.5,36.8,2.716,21.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,24.5,26.2,3.824,21.87,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,6.5,63.6,1.571,8.06,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,7.5,52.1,1.92,8.06,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,8.5,41.0,2.437,8.06,,
-2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,9.5,31.2,3.207,8.06,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,7.5,75.1,1.332,10.78,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,8.5,66.4,1.506,10.78,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,9.5,57.3,1.746,10.78,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,10.5,48.2,2.073,10.78,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,18.5,86.5,1.156,28.42,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,20.5,79.2,1.263,28.42,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,22.5,70.4,1.421,28.42,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,24.5,60.5,1.653,28.42,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,6.5,95.8,1.044,14.54,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,7.5,92.8,1.077,14.54,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,8.5,88.7,1.128,14.54,,
-2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,9.5,83.4,1.199,14.54,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,7.5,17.5,5.726,5.07,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,8.5,10.8,9.254,5.07,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,9.5,6.4,15.616,5.07,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,10.5,3.6,27.39,5.07,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,18.5,78.1,1.281,25.1,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,20.5,68.5,1.461,25.1,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,22.5,57.9,1.728,25.1,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,24.5,47.0,2.125,25.1,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,6.5,55.8,1.792,7.29,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,7.5,43.5,2.299,7.29,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,8.5,32.4,3.085,7.29,,
-2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,9.5,23.2,4.315,7.29,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,7.5,2.7,37.534,3.08,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,8.5,1.2,85.365,3.08,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,9.5,0.5,203.869,3.08,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,10.5,0.2,508.209,3.08,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,18.5,88.5,1.13,29.51,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,20.5,81.9,1.221,29.51,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,22.5,73.8,1.356,29.51,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,24.5,64.3,1.554,29.51,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,6.5,65.3,1.532,8.13,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,7.5,53.5,1.871,8.13,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,8.5,42.0,2.38,8.13,,
-2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,9.5,31.7,3.151,8.13,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,7.5,67.6,1.479,9.74,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,8.5,57.8,1.73,9.74,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,9.5,48.1,2.081,9.74,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,10.5,38.9,2.57,9.74,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,18.5,97.2,1.028,39.92,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,20.5,95.0,1.053,39.92,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,22.5,91.5,1.093,39.92,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,24.5,86.6,1.155,39.92,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,6.5,65.0,1.538,8.1,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,7.5,53.2,1.88,8.1,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,8.5,41.8,2.395,8.1,,
-2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,9.5,31.5,3.175,8.1,,
-2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,7.5,83.8,1.194,12.39,,
-2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,8.5,77.0,1.298,12.39,,
-2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,9.5,69.4,1.441,12.39,,
-2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,10.5,61.3,1.631,12.39,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes,18.5,95.9,1.042,36.97,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes,20.5,92.8,1.078,36.97,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes,22.5,88.3,1.133,36.97,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes,24.5,82.3,1.216,36.97,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,6.5,94.7,1.056,14.55,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,7.5,91.2,1.096,14.55,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,8.5,86.7,1.153,14.55,,
-2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,9.5,81.2,1.232,14.55,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,7.5,57.7,1.732,8.8,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,8.5,47.8,2.091,8.8,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,9.5,38.6,2.591,8.8,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,10.5,30.4,3.287,8.8,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,18.5,88.5,1.13,29.68,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,20.5,81.9,1.221,29.68,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,22.5,73.7,1.356,29.68,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,24.5,64.2,1.556,29.68,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,6.5,95.1,1.052,14.08,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,7.5,91.7,1.091,14.08,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,8.5,87.1,1.149,14.08,,
-2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,9.5,81.3,1.231,14.08,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,7.5,93.1,1.074,15.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,8.5,89.5,1.117,15.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,9.5,85.0,1.177,15.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,10.5,79.6,1.257,15.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,18.5,86.8,1.152,28.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,20.5,79.7,1.255,28.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,22.5,71.0,1.409,28.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,24.5,61.1,1.636,28.6,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,6.5,78.5,1.275,9.68,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,7.5,68.9,1.451,9.68,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,8.5,58.6,1.708,9.68,,
-2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,9.5,48.1,2.078,9.68,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,7.5,75.8,1.319,10.9,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,8.5,67.3,1.486,10.9,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,9.5,58.3,1.715,10.9,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,10.5,49.3,2.028,10.9,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,18.5,94.9,1.054,35.17,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,20.5,91.1,1.097,35.17,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,22.5,86.0,1.163,35.17,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,24.5,79.2,1.263,35.17,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,6.5,44.5,2.246,6.39,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,7.5,32.3,3.097,6.39,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,8.5,22.3,4.491,6.39,,
-2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,9.5,14.6,6.824,6.39,,
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,7.5,83.1,1.203,12.26,6.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,8.5,76.2,1.312,12.26,6.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,9.5,68.5,1.46,12.26,6.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,escanteios,10.5,60.3,1.659,12.26,6.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,18.5,96.8,1.033,38.83,18.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,20.5,94.3,1.061,38.83,18.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,22.5,90.5,1.105,38.83,18.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes,24.5,85.2,1.174,38.83,18.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,6.5,94.0,1.063,13.5,8.0,1.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,7.5,90.1,1.11,13.5,8.0,1.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,8.5,84.8,1.179,13.5,8.0,0.0
+2026-10-15,604436,Copa Libertadores,Fluminense,Palmeiras,chutes_gol,9.5,78.4,1.276,13.5,8.0,0.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,7.5,38.5,2.596,6.89,13.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,8.5,28.3,3.53,6.89,13.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,9.5,20.1,4.984,6.89,13.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,escanteios,10.5,13.7,7.281,6.89,13.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,18.5,86.4,1.157,28.4,26.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,20.5,79.1,1.264,28.4,26.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,22.5,70.3,1.422,28.4,26.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes,24.5,60.4,1.655,28.4,26.0,1.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,6.5,49.5,2.02,6.77,5.0,0.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,7.5,37.0,2.699,6.77,5.0,0.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,8.5,26.4,3.785,6.77,5.0,0.0
+2026-10-15,601385,Conference League,KAA Gent,AGF,chutes_gol,9.5,18.0,5.554,6.77,5.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,7.5,69.6,1.438,9.99,8.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,8.5,60.0,1.666,9.99,8.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,9.5,50.4,1.984,9.99,8.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,escanteios,10.5,41.2,2.426,9.99,8.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,18.5,27.0,3.705,15.5,25.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,20.5,17.4,5.75,15.5,25.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,22.5,10.6,9.454,15.5,25.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes,24.5,6.1,16.427,15.5,25.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,6.5,31.2,3.209,5.42,7.0,1.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,7.5,20.5,4.88,5.42,7.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,8.5,12.8,7.844,5.42,7.0,0.0
+2026-10-15,601420,Conference League,Universitatea Craiova,Getafe,chutes_gol,9.5,7.5,13.262,5.42,7.0,0.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,7.5,75.7,1.321,11.0,9.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,8.5,67.3,1.485,11.0,9.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,9.5,58.5,1.708,11.0,9.0,0.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,escanteios,10.5,49.8,2.009,11.0,9.0,0.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,18.5,91.9,1.089,32.96,32.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,20.5,86.6,1.155,32.96,32.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,22.5,79.7,1.256,32.96,32.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes,24.5,71.1,1.407,32.96,32.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,6.5,87.8,1.14,11.39,13.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,7.5,81.0,1.234,11.39,13.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,8.5,73.0,1.37,11.39,13.0,1.0
+2026-10-15,601241,Europa League,Lech Poznań,Bayer 04 Leverkusen,chutes_gol,9.5,64.0,1.563,11.39,13.0,1.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,7.5,83.6,1.196,13.16,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,8.5,77.4,1.292,13.16,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,9.5,70.5,1.418,13.16,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,escanteios,10.5,63.3,1.581,13.16,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,18.5,96.9,1.032,38.65,22.0,1.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,20.5,94.3,1.06,38.65,22.0,1.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,22.5,90.6,1.104,38.65,22.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes,24.5,85.4,1.172,38.65,22.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,6.5,97.6,1.024,16.14,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,7.5,95.7,1.045,16.14,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,8.5,93.0,1.076,16.14,6.0,0.0
+2026-10-15,601293,Europa League,Royale Union Saint-Gilloise,Real Sociedad,chutes_gol,9.5,89.2,1.121,16.14,6.0,0.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,7.5,79.9,1.252,11.88,11.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,8.5,72.5,1.379,11.88,11.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,9.5,64.5,1.55,11.88,11.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,escanteios,10.5,56.3,1.777,11.88,11.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,18.5,88.3,1.132,30.61,25.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,20.5,81.6,1.225,30.61,25.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,22.5,73.2,1.367,30.61,25.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes,24.5,63.3,1.58,30.61,25.0,1.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,6.5,74.7,1.339,9.27,6.0,0.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,7.5,64.6,1.549,9.27,6.0,0.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,8.5,54.0,1.853,9.27,6.0,0.0
+2026-10-15,601315,Europa League,Torreense,Sunderland,chutes_gol,9.5,43.6,2.291,9.27,6.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,7.5,77.2,1.295,11.15,6.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,8.5,69.0,1.449,11.15,6.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,9.5,60.2,1.66,11.15,6.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,escanteios,10.5,51.4,1.946,11.15,6.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,18.5,92.9,1.076,33.3,21.0,1.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,20.5,88.1,1.134,33.3,21.0,1.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,22.5,81.8,1.223,33.3,21.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes,24.5,73.8,1.354,33.3,21.0,0.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,6.5,79.0,1.266,9.76,11.0,1.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,7.5,69.6,1.437,9.76,11.0,1.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,8.5,59.3,1.686,9.76,11.0,1.0
+2026-10-15,601184,Europa League,AZ Alkmaar,Hapoel Be'er Sheva,chutes_gol,9.5,48.9,2.044,9.76,11.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,7.5,95.5,1.047,17.37,7.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,8.5,92.9,1.077,17.37,7.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,9.5,89.5,1.117,17.37,7.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,escanteios,10.5,85.4,1.171,17.37,7.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,18.5,88.6,1.129,30.7,21.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,20.5,81.9,1.22,30.7,21.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,22.5,73.6,1.359,30.7,21.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes,24.5,63.8,1.568,30.7,21.0,0.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,6.5,59.4,1.682,7.61,10.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,7.5,47.3,2.113,7.61,10.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,8.5,36.1,2.77,7.61,10.0,1.0
+2026-10-15,601180,Europa League,AC Sparta Praha,Lillestrøm SK,chutes_gol,9.5,26.5,3.779,7.61,10.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,7.5,82.6,1.211,12.13,8.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,8.5,75.5,1.324,12.13,8.0,0.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,9.5,67.7,1.478,12.13,8.0,0.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,escanteios,10.5,59.3,1.685,12.13,8.0,0.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,18.5,83.3,1.201,27.21,26.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,20.5,75.0,1.334,27.21,26.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,22.5,65.2,1.533,27.21,26.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes,24.5,54.7,1.828,27.21,26.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,6.5,76.9,1.3,9.51,8.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,7.5,67.1,1.49,9.51,8.0,1.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,8.5,56.6,1.766,9.51,8.0,0.0
+2026-10-15,601259,Europa League,NK Celje,Omonia Nicosia,chutes_gol,9.5,46.2,2.162,9.51,8.0,0.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,7.5,59.5,1.68,8.82,15.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,8.5,49.0,2.04,8.82,15.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,9.5,39.1,2.556,8.82,15.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,escanteios,10.5,30.3,3.296,8.82,15.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,18.5,86.8,1.152,28.6,37.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,20.5,79.7,1.255,28.6,37.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,22.5,71.0,1.409,28.6,37.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes,24.5,61.1,1.636,28.6,37.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,6.5,29.3,3.414,5.28,16.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,7.5,18.9,5.276,5.28,16.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,8.5,11.6,8.625,5.28,16.0,1.0
+2026-10-15,601424,Conference League,Kuopion Palloseura,Trabzonspor,chutes_gol,9.5,6.7,14.835,5.28,16.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,7.5,85.8,1.165,12.91,8.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,8.5,79.6,1.256,12.91,8.0,0.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,9.5,72.5,1.378,12.91,8.0,0.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,escanteios,10.5,64.8,1.542,12.91,8.0,0.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,18.5,98.4,1.016,44.47,38.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,20.5,96.9,1.032,44.47,38.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,22.5,94.5,1.058,44.47,38.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes,24.5,90.9,1.1,44.47,38.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,6.5,79.6,1.257,9.85,10.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,7.5,70.3,1.422,9.85,10.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,8.5,60.2,1.663,9.85,10.0,1.0
+2026-10-15,601344,Conference League,FC Lugano,FK Crvena zvezda,chutes_gol,9.5,49.8,2.008,9.85,10.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,7.5,85.7,1.167,12.88,5.0,0.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,8.5,79.5,1.258,12.88,5.0,0.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,9.5,72.4,1.381,12.88,5.0,0.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,escanteios,10.5,64.7,1.546,12.88,5.0,0.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,18.5,91.0,1.099,31.19,32.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,20.5,85.4,1.171,31.19,32.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,22.5,78.2,1.278,31.19,32.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes,24.5,69.6,1.436,31.19,32.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,6.5,80.0,1.25,9.92,12.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,7.5,70.9,1.411,9.92,12.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,8.5,60.8,1.645,9.92,12.0,1.0
+2026-10-15,601402,Conference League,Riga FC,FC Kairat Almaty,chutes_gol,9.5,50.5,1.981,9.92,12.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,7.5,20.9,4.778,5.39,9.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,8.5,13.4,7.441,5.39,9.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,9.5,8.3,12.09,5.39,9.0,0.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,escanteios,10.5,4.9,20.404,5.39,9.0,0.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,18.5,86.8,1.152,28.6,22.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,20.5,79.7,1.255,28.6,22.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,22.5,71.0,1.409,28.6,22.0,0.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes,24.5,61.1,1.636,28.6,22.0,0.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,6.5,43.5,2.302,6.31,8.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,7.5,31.3,3.196,6.31,8.0,1.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,8.5,21.4,4.67,6.31,8.0,0.0
+2026-10-15,601394,Conference League,Mjällby AIF,Inter Club d'Escaldes,chutes_gol,9.5,14.0,7.151,6.31,8.0,0.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,7.5,41.4,2.416,7.13,13.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,8.5,31.0,3.229,7.13,13.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,9.5,22.3,4.476,7.13,13.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,escanteios,10.5,15.6,6.417,7.13,13.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,18.5,69.0,1.449,22.74,31.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,20.5,57.8,1.731,22.74,31.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,22.5,46.4,2.157,22.74,31.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes,24.5,35.6,2.807,22.74,31.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,6.5,72.6,1.377,8.92,10.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,7.5,61.9,1.616,8.92,10.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,8.5,50.8,1.969,8.92,10.0,1.0
+2026-10-15,601332,Conference League,CSKA Sofia,AS Monaco,chutes_gol,9.5,40.2,2.488,8.92,10.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,7.5,55.9,1.788,8.45,8.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,8.5,45.2,2.21,8.45,8.0,0.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,9.5,35.4,2.822,8.45,8.0,0.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,escanteios,10.5,26.9,3.714,8.45,8.0,0.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,18.5,80.3,1.245,26.05,23.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,20.5,71.2,1.404,26.05,23.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,22.5,60.9,1.641,26.05,23.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes,24.5,50.1,1.995,26.05,23.0,0.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,6.5,83.0,1.205,10.42,8.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,7.5,74.7,1.339,10.42,8.0,1.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,8.5,65.3,1.532,10.42,8.0,0.0
+2026-10-15,601271,Europa League,Olympique Lyonnais,Crystal Palace,chutes_gol,9.5,55.3,1.807,10.42,8.0,0.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,7.5,90.7,1.103,14.46,8.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,8.5,86.1,1.161,14.46,8.0,0.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,9.5,80.6,1.241,14.46,8.0,0.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,escanteios,10.5,74.2,1.348,14.46,8.0,0.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,18.5,83.4,1.198,27.05,25.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,20.5,75.2,1.33,27.05,25.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,22.5,65.6,1.525,27.05,25.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes,24.5,55.2,1.812,27.05,25.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,6.5,99.2,1.008,19.35,10.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,7.5,98.4,1.016,19.35,10.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,8.5,97.2,1.028,19.35,10.0,1.0
+2026-10-15,601386,Conference League,KF Egnatia,FC Midtjylland,chutes_gol,9.5,95.5,1.047,19.35,10.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,7.5,99.2,1.008,24.11,9.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,8.5,98.6,1.014,24.11,9.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,9.5,97.7,1.023,24.11,9.0,0.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,escanteios,10.5,96.5,1.036,24.11,9.0,0.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,18.5,97.4,1.027,40.43,26.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,20.5,95.2,1.05,40.43,26.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,22.5,91.9,1.088,40.43,26.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes,24.5,87.2,1.147,40.43,26.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,6.5,97.9,1.022,16.52,12.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,7.5,96.2,1.04,16.52,12.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,8.5,93.7,1.068,16.52,12.0,1.0
+2026-10-15,601374,Conference League,HNK Hajduk Split,AFC Ajax,chutes_gol,9.5,90.2,1.108,16.52,12.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,7.5,76.1,1.313,10.95,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,8.5,67.7,1.477,10.95,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,9.5,58.7,1.703,10.95,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,escanteios,10.5,49.7,2.011,10.95,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,18.5,92.5,1.081,32.44,35.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,20.5,87.6,1.142,32.44,35.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,22.5,81.1,1.234,32.44,35.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes,24.5,73.0,1.369,32.44,35.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,6.5,95.8,1.044,14.54,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,7.5,92.8,1.077,14.54,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,8.5,88.7,1.128,14.54,11.0,1.0
+2026-10-15,601399,Conference League,Panathinaikos FC,FK Borac Banja Luka,chutes_gol,9.5,83.4,1.199,14.54,11.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,7.5,38.9,2.569,6.92,5.0,0.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,8.5,28.7,3.485,6.92,5.0,0.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,9.5,20.4,4.908,6.92,5.0,0.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,escanteios,10.5,14.0,7.155,6.92,5.0,0.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,18.5,71.5,1.398,23.32,29.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,20.5,60.6,1.649,23.32,29.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,22.5,49.4,2.026,23.32,29.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes,24.5,38.5,2.595,23.32,29.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,6.5,59.3,1.687,7.59,12.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,7.5,47.1,2.124,7.59,12.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,8.5,35.8,2.794,7.59,12.0,1.0
+2026-10-15,601289,Europa League,Red Bull Salzburg,AC Milan,chutes_gol,9.5,26.1,3.828,7.59,12.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,7.5,58.0,1.726,8.89,10.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,8.5,48.3,2.07,8.89,10.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,9.5,39.3,2.542,8.89,10.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,escanteios,10.5,31.3,3.191,8.89,10.0,0.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,18.5,85.2,1.173,29.63,20.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,20.5,77.3,1.293,29.63,20.0,0.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,22.5,67.7,1.477,29.63,20.0,0.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes,24.5,56.8,1.761,29.63,20.0,0.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,6.5,79.6,1.256,9.89,9.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,7.5,70.4,1.42,9.89,9.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,8.5,60.3,1.657,9.89,9.0,1.0
+2026-10-15,601273,Europa League,Olympique de Marseille,Olympiacos FC,chutes_gol,9.5,50.1,1.996,9.89,9.0,0.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,7.5,78.8,1.269,11.42,12.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,8.5,70.9,1.41,11.42,12.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,9.5,62.4,1.604,11.42,12.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,escanteios,10.5,53.6,1.865,11.42,12.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,18.5,93.9,1.064,33.78,32.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,20.5,89.8,1.114,33.78,32.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,22.5,84.0,1.19,33.78,32.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes,24.5,76.8,1.302,33.78,32.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,6.5,71.8,1.392,8.88,8.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,7.5,61.1,1.636,8.88,8.0,1.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,8.5,50.1,1.995,8.88,8.0,0.0
+2026-10-15,601312,Europa League,TSG Hoffenheim,Beşiktaş JK,chutes_gol,9.5,39.7,2.519,8.88,8.0,0.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,7.5,73.3,1.364,10.54,8.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,8.5,64.4,1.553,10.54,8.0,0.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,9.5,55.1,1.814,10.54,8.0,0.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,escanteios,10.5,46.1,2.169,10.54,8.0,0.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,18.5,88.5,1.129,29.42,23.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,20.5,82.0,1.219,29.42,23.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,22.5,73.9,1.353,29.42,23.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes,24.5,64.5,1.549,29.42,23.0,0.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,6.5,75.4,1.327,9.3,9.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,7.5,65.2,1.533,9.3,9.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,8.5,54.6,1.832,9.3,9.0,1.0
+2026-10-15,601226,Europa League,GNK Dinamo Zagreb,RSC Anderlecht,chutes_gol,9.5,44.1,2.266,9.3,9.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,7.5,79.4,1.26,11.51,4.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,8.5,71.6,1.397,11.51,4.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,9.5,63.1,1.584,11.51,4.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,escanteios,10.5,54.4,1.838,11.51,4.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,18.5,86.8,1.152,28.6,24.0,1.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,20.5,79.7,1.255,28.6,24.0,1.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,22.5,71.0,1.409,28.6,24.0,1.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes,24.5,61.1,1.636,28.6,24.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,6.5,78.6,1.272,9.71,6.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,7.5,69.1,1.446,9.71,6.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,8.5,58.8,1.7,9.71,6.0,0.0
+2026-10-15,601412,Conference League,Sint-Truidense VV,FC Iberia 1999,chutes_gol,9.5,48.4,2.066,9.71,6.0,0.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,7.5,79.2,1.262,11.47,6.0,0.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,8.5,71.4,1.401,11.47,6.0,0.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,9.5,62.9,1.591,11.47,6.0,0.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,escanteios,10.5,54.1,1.847,11.47,6.0,0.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,18.5,90.1,1.11,30.53,34.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,20.5,84.1,1.189,30.53,34.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,22.5,76.6,1.306,30.53,34.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes,24.5,67.6,1.479,30.53,34.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,6.5,87.0,1.15,11.21,11.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,7.5,80.0,1.251,11.21,11.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,8.5,71.6,1.396,11.21,11.0,1.0
+2026-10-15,601406,Conference League,SC Freiburg,FK Jablonec,chutes_gol,9.5,62.5,1.601,11.21,11.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,7.5,78.1,1.281,11.36,5.0,0.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,8.5,70.1,1.427,11.36,5.0,0.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,9.5,61.5,1.625,11.36,5.0,0.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,escanteios,10.5,52.9,1.892,11.36,5.0,0.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,18.5,90.3,1.108,31.43,28.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,20.5,84.4,1.185,31.43,28.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,22.5,76.7,1.303,31.43,28.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes,24.5,67.6,1.479,31.43,28.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,6.5,82.0,1.22,10.44,9.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,7.5,73.7,1.358,10.44,9.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,8.5,64.4,1.553,10.44,9.0,1.0
+2026-10-15,601236,Europa League,Jagiellonia Białystok,FC Ararat-Armenia,chutes_gol,9.5,54.8,1.826,10.44,9.0,0.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,7.5,80.4,1.244,11.7,16.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,8.5,72.8,1.374,11.7,16.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,9.5,64.5,1.551,11.7,16.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,escanteios,10.5,55.9,1.789,11.7,16.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,18.5,92.8,1.077,32.94,27.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,20.5,88.1,1.135,32.94,27.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,22.5,81.7,1.224,32.94,27.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes,24.5,73.8,1.355,32.94,27.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,6.5,91.3,1.096,12.38,10.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,7.5,86.0,1.163,12.38,10.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,8.5,79.3,1.261,12.38,10.0,1.0
+2026-10-15,601304,Europa League,Stade Rennais,OFI Crete,chutes_gol,9.5,71.5,1.399,12.38,10.0,1.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,7.5,20.9,4.777,5.39,7.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,8.5,13.4,7.439,5.39,7.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,9.5,8.3,12.086,5.39,7.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,escanteios,10.5,4.9,20.395,5.39,7.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,18.5,91.7,1.09,31.78,28.0,1.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,20.5,86.5,1.156,31.78,28.0,1.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,22.5,79.6,1.256,31.78,28.0,1.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes,24.5,71.3,1.403,31.78,28.0,1.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,6.5,85.2,1.174,10.83,5.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,7.5,77.6,1.289,10.83,5.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,8.5,68.7,1.455,10.83,5.0,0.0
+2026-10-15,601358,Conference League,FC Twente,FC Thun,chutes_gol,9.5,59.2,1.69,10.83,5.0,0.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,7.5,75.5,1.324,10.88,10.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,8.5,67.0,1.493,10.88,10.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,9.5,58.0,1.724,10.88,10.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,escanteios,10.5,49.0,2.039,10.88,10.0,0.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,18.5,79.3,1.261,25.52,29.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,20.5,70.0,1.429,25.52,29.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,22.5,59.6,1.678,25.52,29.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes,24.5,48.8,2.049,25.52,29.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,6.5,70.2,1.424,8.64,8.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,7.5,59.1,1.693,8.64,8.0,1.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,8.5,47.8,2.093,8.64,8.0,0.0
+2026-10-15,601199,Europa League,Bournemouth,SK Sturm Graz,chutes_gol,9.5,37.2,2.686,8.64,8.0,0.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,7.5,58.5,1.71,8.87,9.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,8.5,48.6,2.059,8.87,9.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,9.5,39.3,2.546,8.87,9.0,0.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,escanteios,10.5,31.0,3.223,8.87,9.0,0.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,18.5,60.7,1.648,21.87,31.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,20.5,48.6,2.058,21.87,31.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,22.5,36.8,2.716,21.87,31.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes,24.5,26.2,3.824,21.87,31.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,6.5,63.6,1.571,8.06,8.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,7.5,52.1,1.92,8.06,8.0,1.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,8.5,41.0,2.437,8.06,8.0,0.0
+2026-10-15,601201,Europa League,Celta Vigo,Juventus,chutes_gol,9.5,31.2,3.207,8.06,8.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,7.5,75.1,1.332,10.78,6.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,8.5,66.4,1.506,10.78,6.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,9.5,57.3,1.746,10.78,6.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,escanteios,10.5,48.2,2.073,10.78,6.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,18.5,86.5,1.156,28.42,15.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,20.5,79.2,1.263,28.42,15.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,22.5,70.4,1.421,28.42,15.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes,24.5,60.5,1.653,28.42,15.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,6.5,95.8,1.044,14.54,7.0,1.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,7.5,92.8,1.077,14.54,7.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,8.5,88.7,1.128,14.54,7.0,0.0
+2026-10-15,601341,Conference League,FC København,Sporting Braga,chutes_gol,9.5,83.4,1.199,14.54,7.0,0.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,7.5,17.5,5.726,5.07,7.0,0.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,8.5,10.8,9.254,5.07,7.0,0.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,9.5,6.4,15.616,5.07,7.0,0.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,escanteios,10.5,3.6,27.39,5.07,7.0,0.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,18.5,78.1,1.281,25.1,26.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,20.5,68.5,1.461,25.1,26.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,22.5,57.9,1.728,25.1,26.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes,24.5,47.0,2.125,25.1,26.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,6.5,55.8,1.792,7.29,11.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,7.5,43.5,2.299,7.29,11.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,8.5,32.4,3.085,7.29,11.0,1.0
+2026-10-15,601256,Europa League,NEC Nijmegen,Levski Sofia,chutes_gol,9.5,23.2,4.315,7.29,11.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,7.5,2.7,37.534,3.08,8.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,8.5,1.2,85.365,3.08,8.0,0.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,9.5,0.5,203.869,3.08,8.0,0.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,escanteios,10.5,0.2,508.209,3.08,8.0,0.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,18.5,88.5,1.13,29.51,28.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,20.5,81.9,1.221,29.51,28.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,22.5,73.8,1.356,29.51,28.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes,24.5,64.3,1.554,29.51,28.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,6.5,65.3,1.532,8.13,12.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,7.5,53.5,1.871,8.13,12.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,8.5,42.0,2.38,8.13,12.0,1.0
+2026-10-15,601326,Conference League,Atalanta,Pafos FC,chutes_gol,9.5,31.7,3.151,8.13,12.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,7.5,67.6,1.479,9.74,13.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,8.5,57.8,1.73,9.74,13.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,9.5,48.1,2.081,9.74,13.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,escanteios,10.5,38.9,2.57,9.74,13.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,18.5,97.2,1.028,39.92,39.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,20.5,95.0,1.053,39.92,39.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,22.5,91.5,1.093,39.92,39.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes,24.5,86.6,1.155,39.92,39.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,6.5,65.0,1.538,8.1,10.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,7.5,53.2,1.88,8.1,10.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,8.5,41.8,2.395,8.1,10.0,1.0
+2026-10-15,601331,Conference League,Brighton & Hove Albion,FK Kauno Žalgiris,chutes_gol,9.5,31.5,3.175,8.1,10.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,7.5,83.8,1.194,12.39,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,8.5,77.0,1.298,12.39,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,9.5,69.4,1.441,12.39,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,escanteios,10.5,61.3,1.631,12.39,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes,18.5,95.9,1.042,36.97,40.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes,20.5,92.8,1.078,36.97,40.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes,22.5,88.3,1.133,36.97,40.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes,24.5,82.3,1.216,36.97,40.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,6.5,94.7,1.056,14.55,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,7.5,91.2,1.096,14.55,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,8.5,86.7,1.153,14.55,14.0,1.0
+2026-10-15,601190,Europa League,Benfica,Celtic,chutes_gol,9.5,81.2,1.232,14.55,14.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,7.5,57.7,1.732,8.8,10.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,8.5,47.8,2.091,8.8,10.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,9.5,38.6,2.591,8.8,10.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,escanteios,10.5,30.4,3.287,8.8,10.0,0.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,18.5,88.5,1.13,29.68,30.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,20.5,81.9,1.221,29.68,30.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,22.5,73.7,1.356,29.68,30.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes,24.5,64.2,1.556,29.68,30.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,6.5,95.1,1.052,14.08,13.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,7.5,91.7,1.091,14.08,13.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,8.5,87.1,1.149,14.08,13.0,1.0
+2026-10-15,601222,Europa League,Ferencváros TC,FC Viktoria Plzeň,chutes_gol,9.5,81.3,1.231,14.08,13.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,7.5,93.1,1.074,15.6,19.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,8.5,89.5,1.117,15.6,19.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,9.5,85.0,1.177,15.6,19.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,escanteios,10.5,79.6,1.257,15.6,19.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,18.5,86.8,1.152,28.6,26.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,20.5,79.7,1.255,28.6,26.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,22.5,71.0,1.409,28.6,26.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes,24.5,61.1,1.636,28.6,26.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,6.5,78.5,1.275,9.68,13.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,7.5,68.9,1.451,9.68,13.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,8.5,58.6,1.708,9.68,13.0,1.0
+2026-10-15,601408,Conference League,SK Brann,Lincoln Red Imps,chutes_gol,9.5,48.1,2.078,9.68,13.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,7.5,75.8,1.319,10.9,13.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,8.5,67.3,1.486,10.9,13.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,9.5,58.3,1.715,10.9,13.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,escanteios,10.5,49.3,2.028,10.9,13.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,18.5,94.9,1.054,35.17,31.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,20.5,91.1,1.097,35.17,31.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,22.5,86.0,1.163,35.17,31.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes,24.5,79.2,1.263,35.17,31.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,6.5,44.5,2.246,6.39,10.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,7.5,32.3,3.097,6.39,10.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,8.5,22.3,4.491,6.39,10.0,1.0
+2026-10-15,601379,Conference League,Heart of Midlothian,FC Nordsjælland,chutes_gol,9.5,14.6,6.824,6.39,10.0,1.0
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,escanteios,7.5,80.8,1.237,11.81,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,escanteios,8.5,73.4,1.363,11.81,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,escanteios,9.5,65.2,1.533,11.81,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,escanteios,10.5,56.7,1.762,11.81,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes,18.5,86.0,1.163,28.25,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes,20.5,78.6,1.273,28.25,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes,22.5,69.7,1.436,28.25,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes,24.5,59.7,1.675,28.25,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes_gol,6.5,87.6,1.141,11.36,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes_gol,7.5,80.8,1.237,11.36,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes_gol,8.5,72.7,1.375,11.36,,
+2026-10-16,604453,Copa Libertadores,Estudiantes de La Plata,Flamengo,chutes_gol,9.5,63.7,1.57,11.36,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,escanteios,7.5,90.2,1.108,14.35,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,escanteios,8.5,85.5,1.169,14.35,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,escanteios,9.5,79.9,1.252,14.35,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,escanteios,10.5,73.4,1.362,14.35,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes,18.5,93.5,1.07,33.57,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes,20.5,89.1,1.123,33.57,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes,22.5,83.1,1.203,33.57,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes,24.5,75.6,1.323,33.57,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes_gol,6.5,94.6,1.057,13.79,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes_gol,7.5,90.9,1.1,13.79,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes_gol,8.5,86.0,1.163,13.79,,
+2026-10-16,602686,2. Bundesliga,Energie Cottbus,1. FC Nürnberg,chutes_gol,9.5,79.9,1.252,13.79,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,escanteios,7.5,98.0,1.02,20.5,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,escanteios,8.5,96.7,1.034,20.5,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,escanteios,9.5,94.9,1.053,20.5,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,escanteios,10.5,92.6,1.08,20.5,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes,18.5,99.2,1.008,52.07,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes,20.5,98.4,1.016,52.07,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes,22.5,97.0,1.031,52.07,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes,24.5,94.8,1.055,52.07,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes_gol,6.5,87.5,1.144,11.32,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes_gol,7.5,80.6,1.24,11.32,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes_gol,8.5,72.4,1.38,11.32,,
+2026-10-16,602687,2. Bundesliga,Holstein Kiel,Hertha BSC,chutes_gol,9.5,63.4,1.578,11.32,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,escanteios,7.5,52.0,1.924,8.08,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,escanteios,8.5,41.3,2.422,8.08,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,escanteios,9.5,31.7,3.152,8.08,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,escanteios,10.5,23.6,4.231,8.08,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes,18.5,62.9,1.59,21.46,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes,20.5,51.1,1.958,21.46,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes,22.5,39.6,2.523,21.46,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes,24.5,29.4,3.402,21.46,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes_gol,6.5,89.4,1.119,11.82,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes_gol,7.5,83.3,1.2,11.82,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes_gol,8.5,75.8,1.319,11.82,,
+2026-10-16,603791,Austrian Bundesliga,SK Rapid Wien,TSV Hartberg,chutes_gol,9.5,67.3,1.485,11.82,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,escanteios,7.5,83.1,1.203,12.3,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,escanteios,8.5,76.3,1.311,12.3,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,escanteios,9.5,68.6,1.458,12.3,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,escanteios,10.5,60.5,1.654,12.3,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes,18.5,95.3,1.049,36.05,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes,20.5,91.9,1.088,36.05,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes,22.5,87.1,1.149,36.05,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes,24.5,80.7,1.24,36.05,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes_gol,6.5,81.5,1.226,10.16,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes_gol,7.5,72.8,1.373,10.16,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes_gol,8.5,63.0,1.586,10.16,,
+2026-10-16,213716,Bundesliga,Eintracht Frankfurt,1. FC Köln,chutes_gol,9.5,52.9,1.891,10.16,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,escanteios,7.5,77.5,1.291,11.19,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,escanteios,8.5,69.3,1.443,11.19,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,escanteios,9.5,60.6,1.651,11.19,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,escanteios,10.5,51.7,1.933,11.19,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes,18.5,99.0,1.01,49.57,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes,20.5,98.0,1.02,49.57,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes,22.5,96.4,1.038,49.57,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes,24.5,93.8,1.067,49.57,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes_gol,6.5,99.1,1.009,18.94,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes_gol,7.5,98.2,1.018,18.94,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes_gol,8.5,96.9,1.032,18.94,,
+2026-10-16,210121,Serie A,Frosinone,Sassuolo,chutes_gol,9.5,95.0,1.053,18.94,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,escanteios,7.5,0.2,508.116,1.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,escanteios,8.5,0.1,1731.498,1.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,escanteios,9.5,0.0,6210.418,1.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,escanteios,10.5,0.0,23288.04,1.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes,18.5,17.3,5.795,13.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes,20.5,10.1,9.928,13.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes,22.5,5.5,18.071,13.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes,24.5,2.9,34.816,13.84,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes_gol,6.5,70.8,1.412,8.71,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes_gol,7.5,59.7,1.674,8.71,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes_gol,8.5,48.5,2.062,8.71,,
+2026-10-16,210493,Ligue 1,Le Mans,Toulouse,chutes_gol,9.5,37.9,2.636,8.71,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,escanteios,7.5,23.8,4.208,5.64,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,escanteios,8.5,15.7,6.368,5.64,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,escanteios,9.5,10.0,10.043,5.64,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,escanteios,10.5,6.1,16.431,5.64,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes,18.5,15.2,6.588,13.45,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes,20.5,8.6,11.598,13.45,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes,22.5,4.6,21.708,13.45,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes,24.5,2.3,43.027,13.45,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes_gol,6.5,1.5,65.386,2.31,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes_gol,7.5,0.5,187.725,2.31,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes_gol,8.5,0.2,577.428,2.31,,
+2026-10-16,213601,La Liga,Deportivo de A Coruña,Levante UD,chutes_gol,9.5,0.1,1886.211,2.31,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,escanteios,7.5,53.8,1.86,8.25,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,escanteios,8.5,43.1,2.322,8.25,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,escanteios,9.5,33.4,2.993,8.25,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,escanteios,10.5,25.1,3.978,8.25,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes,18.5,80.0,1.249,25.83,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes,20.5,70.9,1.411,25.83,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes,22.5,60.6,1.649,25.83,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes,24.5,49.9,2.003,25.83,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes_gol,6.5,40.8,2.449,6.12,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes_gol,7.5,28.9,3.462,6.12,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes_gol,8.5,19.4,5.155,6.12,,
+2026-10-16,10190,Brasileirão Serie B,Ponte Preta,Atlético Goianiense,chutes_gol,9.5,12.4,8.052,6.12,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,escanteios,7.5,61.8,1.618,9.08,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,escanteios,8.5,51.5,1.941,9.08,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,escanteios,9.5,41.7,2.4,9.08,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,escanteios,10.5,32.8,3.052,9.08,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes,18.5,72.5,1.379,23.62,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes,20.5,61.8,1.617,23.62,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes,22.5,50.7,1.974,23.62,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes,24.5,39.8,2.512,23.62,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes_gol,6.5,28.1,3.559,5.19,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes_gol,7.5,18.0,5.561,5.19,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes_gol,8.5,10.9,9.194,5.19,,
+2026-10-16,7301,Brasileirão Serie A,Mirassol,Internacional,chutes_gol,9.5,6.2,16.0,5.19,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,escanteios,7.5,69.8,1.432,10.04,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,escanteios,8.5,60.4,1.657,10.04,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,escanteios,9.5,50.8,1.968,10.04,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,escanteios,10.5,41.7,2.399,10.04,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes,18.5,84.6,1.182,27.62,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes,20.5,76.8,1.303,27.62,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes,22.5,67.5,1.482,27.62,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes,24.5,57.3,1.746,27.62,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes_gol,6.5,38.6,2.594,5.95,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes_gol,7.5,26.8,3.726,5.95,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes_gol,8.5,17.7,5.642,5.95,,
+2026-10-16,10191,Brasileirão Serie B,Sport Recife,Fortaleza,chutes_gol,9.5,11.2,8.968,5.95,,
