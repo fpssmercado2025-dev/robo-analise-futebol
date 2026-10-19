@@ -3443,411 +3443,483 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-10-17,7294,Brasileirão Serie A,Athletico,Palmeiras,chutes_gol,7.5,93.0,1.075,14.58,9.0,1.0
 2026-10-17,7294,Brasileirão Serie A,Athletico,Palmeiras,chutes_gol,8.5,88.9,1.125,14.58,9.0,1.0
 2026-10-17,7294,Brasileirão Serie A,Athletico,Palmeiras,chutes_gol,9.5,83.7,1.195,14.58,9.0,0.0
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,7.5,92.6,1.08,15.39,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,8.5,88.8,1.127,15.39,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,9.5,84.0,1.19,15.39,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,10.5,78.5,1.274,15.39,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,18.5,93.0,1.076,32.96,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,20.5,88.3,1.133,32.96,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,22.5,82.0,1.219,32.96,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,24.5,74.3,1.347,32.96,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,6.5,82.7,1.209,10.37,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,7.5,74.3,1.346,10.37,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,8.5,64.8,1.543,10.37,,
-2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,9.5,54.8,1.824,10.37,,
-2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,7.5,85.5,1.169,12.88,,
-2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,8.5,79.3,1.261,12.88,,
-2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,9.5,72.2,1.385,12.88,,
-2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,10.5,64.5,1.55,12.88,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes,18.5,80.6,1.241,25.99,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes,20.5,71.5,1.398,25.99,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes,22.5,61.4,1.63,25.99,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes,24.5,50.7,1.973,25.99,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,6.5,59.1,1.691,7.56,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,7.5,46.9,2.134,7.56,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,8.5,35.5,2.816,7.56,,
-2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,9.5,25.8,3.873,7.56,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,7.5,98.2,1.018,20.96,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,8.5,97.0,1.03,20.96,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,9.5,95.4,1.048,20.96,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,10.5,93.2,1.073,20.96,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,18.5,83.2,1.202,26.98,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,20.5,74.9,1.335,26.98,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,22.5,65.2,1.533,26.98,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,24.5,54.8,1.824,26.98,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,6.5,79.5,1.257,9.85,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,7.5,70.3,1.423,9.85,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,8.5,60.1,1.663,9.85,,
-2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,9.5,49.8,2.007,9.85,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,7.5,73.9,1.354,10.62,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,8.5,65.0,1.538,10.62,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,9.5,55.8,1.791,10.62,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,10.5,46.8,2.137,10.62,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,18.5,79.7,1.254,25.71,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,20.5,70.5,1.418,25.71,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,22.5,60.2,1.662,25.71,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,24.5,49.4,2.023,25.71,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,6.5,17.2,5.823,4.35,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,7.5,9.8,10.238,4.35,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,8.5,5.2,19.119,4.35,,
-2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,9.5,2.6,37.676,4.35,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,7.5,21.6,4.63,5.44,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,8.5,14.0,7.149,5.44,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,9.5,8.7,11.505,5.44,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,10.5,5.2,19.22,5.44,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,18.5,78.0,1.283,25.14,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,20.5,68.3,1.463,25.14,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,22.5,57.7,1.732,25.14,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,24.5,46.9,2.132,25.14,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,6.5,29.7,3.363,5.31,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,7.5,19.3,5.173,5.31,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,8.5,11.9,8.415,5.31,,
-2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,9.5,7.0,14.395,5.31,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,7.5,33.1,3.02,6.43,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,8.5,23.5,4.248,6.43,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,9.5,16.1,6.208,6.43,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,10.5,10.6,9.396,6.43,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,18.5,7.6,13.111,11.73,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,20.5,3.8,26.51,11.73,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,22.5,1.8,57.163,11.73,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,24.5,0.8,130.782,11.73,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,6.5,41.9,2.388,6.19,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,7.5,29.8,3.35,6.19,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,8.5,20.2,4.945,6.19,,
-2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,9.5,13.1,7.653,6.19,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,7.5,91.7,1.091,14.96,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,8.5,87.5,1.143,14.96,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,9.5,82.4,1.213,14.96,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,10.5,76.5,1.307,14.96,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,18.5,73.7,1.357,23.91,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,20.5,63.2,1.583,23.91,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,22.5,52.1,1.92,23.91,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,24.5,41.2,2.427,23.91,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,6.5,42.1,2.376,6.21,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,7.5,30.0,3.328,6.21,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,8.5,20.4,4.906,6.21,,
-2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,9.5,13.2,7.581,6.21,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,7.5,30.1,3.325,6.18,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,8.5,20.9,4.779,6.18,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,9.5,14.0,7.144,6.18,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,10.5,9.0,11.066,6.18,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,18.5,14.1,7.116,13.23,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,20.5,7.8,12.743,13.23,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,22.5,4.1,24.274,13.23,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,24.5,2.0,48.986,13.23,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,6.5,9.1,10.945,3.59,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,7.5,4.5,22.119,3.59,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,8.5,2.1,47.637,3.59,,
-2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,9.5,0.9,108.525,3.59,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,7.5,76.4,1.308,11.03,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,8.5,68.1,1.469,11.03,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,9.5,59.2,1.689,11.03,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,10.5,50.3,1.987,11.03,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,18.5,95.4,1.048,36.09,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,20.5,92.0,1.087,36.09,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,22.5,87.2,1.147,36.09,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,24.5,80.8,1.237,36.09,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,6.5,95.7,1.045,14.46,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,7.5,92.6,1.08,14.46,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,8.5,88.4,1.131,14.46,,
-2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,9.5,83.0,1.205,14.46,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,7.5,28.5,3.508,6.04,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,8.5,19.6,5.103,6.04,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,9.5,13.0,7.723,6.04,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,10.5,8.2,12.115,6.04,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,18.5,96.0,1.042,37.12,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,20.5,93.0,1.076,37.12,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,22.5,88.5,1.13,37.12,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,24.5,82.6,1.211,37.12,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,6.5,90.1,1.11,12.05,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,7.5,84.4,1.186,12.05,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,8.5,77.2,1.295,12.05,,
-2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,9.5,69.0,1.449,12.05,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,7.5,92.3,1.084,15.25,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,8.5,88.4,1.132,15.25,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,9.5,83.5,1.198,15.25,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,10.5,77.8,1.285,15.25,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,18.5,96.8,1.033,38.85,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,20.5,94.2,1.061,38.85,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,22.5,90.4,1.106,38.85,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,24.5,85.1,1.175,38.85,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,6.5,51.8,1.929,6.95,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,7.5,39.4,2.539,6.95,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,8.5,28.5,3.504,6.95,,
-2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,9.5,19.8,5.055,6.95,,
-2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,7.5,77.5,1.29,11.21,,
-2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,8.5,69.4,1.441,11.21,,
-2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,9.5,60.7,1.648,11.21,,
-2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,10.5,51.8,1.929,11.21,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes,18.5,99.1,1.009,49.99,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes,20.5,98.2,1.019,49.99,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes,22.5,96.5,1.036,49.99,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes,24.5,94.0,1.064,49.99,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,6.5,97.6,1.024,16.22,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,7.5,95.8,1.044,16.22,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,8.5,93.0,1.075,16.22,,
-2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,9.5,89.3,1.119,16.22,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,7.5,76.4,1.308,11.03,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,8.5,68.1,1.469,11.03,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,9.5,59.2,1.689,11.03,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,10.5,50.3,1.987,11.03,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,18.5,78.5,1.274,25.31,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,20.5,69.0,1.449,25.31,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,22.5,58.5,1.71,25.31,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,24.5,47.7,2.098,25.31,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,6.5,9.1,10.945,3.59,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,7.5,4.5,22.119,3.59,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,8.5,2.1,47.637,3.59,,
-2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,9.5,0.9,108.525,3.59,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,7.5,97.4,1.026,19.47,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,8.5,95.8,1.044,19.47,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,9.5,93.6,1.068,19.47,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,10.5,90.8,1.102,19.47,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,18.5,99.5,1.005,57.32,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,20.5,99.0,1.01,57.32,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,22.5,98.0,1.02,57.32,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,24.5,96.4,1.038,57.32,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,6.5,99.9,1.001,25.21,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,7.5,99.7,1.003,25.21,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,8.5,99.5,1.005,25.21,,
-2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,9.5,99.0,1.01,25.21,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,7.5,24.7,4.05,5.72,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,8.5,16.4,6.078,5.72,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,9.5,10.5,9.501,5.72,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,10.5,6.5,15.405,5.72,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,18.5,35.1,2.852,16.76,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,20.5,24.1,4.149,16.76,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,22.5,15.7,6.378,16.76,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,24.5,9.7,10.34,16.76,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,6.5,60.7,1.647,7.7,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,7.5,48.5,2.061,7.7,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,8.5,37.1,2.693,7.7,,
-2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,9.5,27.3,3.667,7.7,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,7.5,31.3,3.196,6.28,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,8.5,22.0,4.553,6.28,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,9.5,14.8,6.744,6.28,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,10.5,9.7,10.349,6.28,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,18.5,55.9,1.788,20.14,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,20.5,43.7,2.286,20.14,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,22.5,32.6,3.067,20.14,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,24.5,23.2,4.317,20.14,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,6.5,25.2,3.962,4.98,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,7.5,15.7,6.354,4.98,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,8.5,9.3,10.79,4.98,,
-2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,9.5,5.2,19.295,4.98,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,7.5,43.9,2.278,7.35,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,8.5,33.4,2.995,7.35,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,9.5,24.5,4.08,7.35,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,10.5,17.4,5.743,7.35,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,18.5,94.5,1.059,34.69,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,20.5,90.5,1.104,34.69,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,22.5,85.1,1.175,34.69,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,24.5,78.1,1.28,34.69,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,6.5,86.7,1.154,11.15,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,7.5,79.6,1.257,11.15,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,8.5,71.2,1.405,11.15,,
-2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,9.5,61.9,1.615,11.15,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,7.5,83.3,1.2,12.34,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,8.5,76.5,1.307,12.34,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,9.5,68.8,1.453,12.34,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,10.5,60.7,1.646,12.34,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,18.5,67.3,1.485,22.37,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,20.5,55.9,1.789,22.37,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,22.5,44.5,2.249,22.37,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,24.5,33.8,2.955,22.37,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,6.5,65.1,1.537,8.11,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,7.5,53.3,1.878,8.11,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,8.5,41.8,2.39,8.11,,
-2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,9.5,31.6,3.166,8.11,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,7.5,7.3,13.756,3.92,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,8.5,3.8,26.211,3.92,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,9.5,1.9,52.292,3.92,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,10.5,0.9,108.646,3.92,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,18.5,38.5,2.601,17.28,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,20.5,27.1,3.695,17.28,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,22.5,18.1,5.541,17.28,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,24.5,11.4,8.757,17.28,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,6.5,75.8,1.318,9.33,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,7.5,65.8,1.521,9.33,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,8.5,55.0,1.817,9.33,,
-2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,9.5,44.5,2.247,9.33,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,7.5,54.6,1.833,8.33,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,8.5,43.9,2.278,8.33,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,9.5,34.2,2.923,8.33,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,10.5,25.9,3.865,8.33,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,18.5,93.9,1.065,33.93,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,20.5,89.6,1.116,33.93,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,22.5,83.9,1.193,33.93,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,24.5,76.5,1.307,33.93,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,6.5,14.7,6.823,4.13,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,7.5,8.0,12.438,4.13,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,8.5,4.2,24.105,4.13,,
-2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,9.5,2.0,49.334,4.13,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,7.5,98.5,1.015,21.75,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,8.5,97.5,1.025,21.75,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,9.5,96.1,1.04,21.75,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,10.5,94.2,1.061,21.75,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,18.5,99.5,1.005,56.32,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,20.5,98.9,1.011,56.32,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,22.5,97.9,1.022,56.32,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,24.5,96.1,1.04,56.32,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,6.5,76.2,1.311,9.38,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,7.5,66.2,1.51,9.38,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,8.5,55.6,1.8,9.38,,
-2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,9.5,45.1,2.22,9.38,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,7.5,39.2,2.554,6.94,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,8.5,29.0,3.453,6.94,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,9.5,20.6,4.844,6.94,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,10.5,14.2,7.027,6.94,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,18.5,54.4,1.838,19.87,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,20.5,42.2,2.37,19.87,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,22.5,31.2,3.208,19.87,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,24.5,21.9,4.557,19.87,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,6.5,20.5,4.874,4.62,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,7.5,12.2,8.219,4.62,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,8.5,6.8,14.704,4.62,,
-2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,9.5,3.6,27.732,4.62,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,7.5,86.7,1.154,13.19,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,8.5,80.8,1.238,13.19,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,9.5,74.0,1.352,13.19,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,10.5,66.5,1.503,13.19,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,18.5,57.8,1.731,20.47,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,20.5,45.6,2.191,20.47,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,22.5,34.4,2.908,20.47,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,24.5,24.7,4.046,20.47,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,6.5,37.6,2.656,5.89,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,7.5,26.1,3.837,5.89,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,8.5,17.1,5.844,5.89,,
-2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,9.5,10.7,9.343,5.89,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,7.5,86.3,1.159,13.08,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,8.5,80.3,1.245,13.08,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,9.5,73.4,1.362,13.08,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,10.5,65.9,1.518,13.08,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,18.5,92.8,1.078,32.78,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,20.5,88.0,1.136,32.78,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,22.5,81.7,1.225,32.78,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,24.5,73.8,1.355,32.78,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,6.5,92.5,1.082,12.84,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,7.5,87.7,1.14,12.84,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,8.5,81.6,1.225,12.84,,
-2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,9.5,74.4,1.344,12.84,,
-2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,7.5,62.8,1.593,9.19,,
-2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,8.5,52.5,1.903,9.19,,
-2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,9.5,42.7,2.341,9.19,,
-2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,10.5,33.8,2.961,9.19,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes,18.5,84.4,1.185,27.48,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes,20.5,76.4,1.308,27.48,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes,22.5,67.1,1.491,27.48,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes,24.5,56.8,1.76,27.48,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,6.5,62.9,1.589,7.91,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,7.5,50.9,1.963,7.91,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,8.5,39.5,2.53,7.91,,
-2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,9.5,29.4,3.396,7.91,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,7.5,77.5,1.29,11.21,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,8.5,69.4,1.441,11.21,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,9.5,60.7,1.648,11.21,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,10.5,51.8,1.929,11.21,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,18.5,96.1,1.041,37.23,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,20.5,93.0,1.075,37.23,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,22.5,88.6,1.128,37.23,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,24.5,82.8,1.208,37.23,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,6.5,83.8,1.194,10.56,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,7.5,75.7,1.321,10.56,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,8.5,66.5,1.504,10.56,,
-2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,9.5,56.7,1.764,10.56,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,7.5,93.6,1.069,15.93,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,8.5,90.1,1.109,15.93,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,9.5,85.8,1.165,15.93,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,10.5,80.7,1.239,15.93,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,18.5,75.4,1.327,24.37,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,20.5,65.2,1.534,24.37,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,22.5,54.3,1.843,24.37,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,24.5,43.4,2.306,24.37,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,6.5,22.4,4.458,4.77,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,7.5,13.6,7.358,4.77,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,8.5,7.8,12.874,4.77,,
-2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,9.5,4.2,23.737,4.77,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,7.5,65.5,1.527,9.5,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,8.5,55.5,1.801,9.5,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,9.5,45.8,2.185,9.5,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,10.5,36.7,2.725,9.5,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,18.5,84.5,1.183,27.52,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,20.5,76.6,1.306,27.52,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,22.5,67.2,1.487,27.52,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,24.5,57.0,1.754,27.52,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,6.5,88.1,1.134,11.51,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,7.5,81.6,1.225,11.51,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,8.5,73.7,1.357,11.51,,
-2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,9.5,64.9,1.542,11.51,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,7.5,72.4,1.382,10.4,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,8.5,63.3,1.581,10.4,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,9.5,53.9,1.854,10.4,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,10.5,44.8,2.23,10.4,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,18.5,66.2,1.509,22.14,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,20.5,54.7,1.828,22.14,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,22.5,43.3,2.312,22.14,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,24.5,32.7,3.057,22.14,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,6.5,37.3,2.678,5.86,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,7.5,25.8,3.878,5.86,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,8.5,16.9,5.921,5.86,,
-2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,9.5,10.5,9.489,5.86,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,7.5,71.5,1.399,10.27,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,8.5,62.3,1.606,10.27,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,9.5,52.9,1.892,10.27,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,10.5,43.8,2.286,10.27,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,18.5,83.9,1.193,27.25,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,20.5,75.7,1.32,27.25,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,22.5,66.2,1.51,27.25,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,24.5,55.9,1.788,27.25,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,6.5,98.5,1.015,17.52,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,7.5,97.2,1.029,17.52,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,8.5,95.2,1.05,17.52,,
-2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,9.5,92.5,1.081,17.52,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,7.5,63.2,1.583,9.24,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,8.5,53.0,1.887,9.24,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,9.5,43.2,2.316,9.24,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,10.5,34.2,2.923,9.24,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,18.5,82.5,1.212,26.72,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,20.5,74.0,1.351,26.72,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,22.5,64.2,1.557,26.72,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,24.5,53.8,1.86,26.72,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,6.5,81.1,1.233,10.1,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,7.5,72.3,1.383,10.1,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,8.5,62.4,1.602,10.1,,
-2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,9.5,52.3,1.913,10.1,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,7.5,94.9,1.054,16.79,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,8.5,92.0,1.087,16.79,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,9.5,88.3,1.132,16.79,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,10.5,83.9,1.192,16.79,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,18.5,94.2,1.062,34.35,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,20.5,90.1,1.109,34.35,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,22.5,84.6,1.183,34.35,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,24.5,77.4,1.292,34.35,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,6.5,95.5,1.047,14.34,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,7.5,92.3,1.083,14.34,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,8.5,88.0,1.137,14.34,,
-2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,9.5,82.5,1.212,14.34,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,7.5,72.0,1.388,10.35,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,8.5,62.9,1.589,10.35,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,9.5,53.5,1.867,10.35,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,10.5,44.5,2.249,10.35,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,18.5,77.6,1.289,25.02,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,20.5,67.9,1.473,25.02,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,22.5,57.2,1.748,25.02,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,24.5,46.4,2.157,25.02,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,6.5,70.6,1.417,8.69,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,7.5,59.5,1.68,8.69,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,8.5,48.3,2.07,8.69,,
-2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,9.5,37.8,2.648,8.69,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,7.5,89.5,1.117,14.09,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,8.5,84.5,1.183,14.09,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,9.5,78.6,1.272,14.09,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,10.5,72.0,1.389,14.09,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,18.5,93.3,1.072,33.33,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,20.5,88.8,1.126,33.33,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,22.5,82.7,1.209,33.33,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,24.5,75.1,1.331,33.33,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,6.5,90.8,1.102,12.25,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,7.5,85.3,1.173,12.25,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,8.5,78.4,1.275,12.25,,
-2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,9.5,70.5,1.419,12.25,,
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,7.5,92.6,1.08,15.39,7.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,8.5,88.8,1.127,15.39,7.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,9.5,84.0,1.19,15.39,7.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,escanteios,10.5,78.5,1.274,15.39,7.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,18.5,93.0,1.076,32.96,22.0,1.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,20.5,88.3,1.133,32.96,22.0,1.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,22.5,82.0,1.219,32.96,22.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes,24.5,74.3,1.347,32.96,22.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,6.5,82.7,1.209,10.37,4.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,7.5,74.3,1.346,10.37,4.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,8.5,64.8,1.543,10.37,4.0,0.0
+2026-10-18,7303,Brasileirão Serie A,São Paulo,Vasco da Gama,chutes_gol,9.5,54.8,1.824,10.37,4.0,0.0
+2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,7.5,85.5,1.169,12.88,5.0,0.0
+2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,8.5,79.3,1.261,12.88,5.0,0.0
+2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,9.5,72.2,1.385,12.88,5.0,0.0
+2026-10-18,210125,Serie A,Udinese,Lecce,escanteios,10.5,64.5,1.55,12.88,5.0,0.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes,18.5,80.6,1.241,25.99,31.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes,20.5,71.5,1.398,25.99,31.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes,22.5,61.4,1.63,25.99,31.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes,24.5,50.7,1.973,25.99,31.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,6.5,59.1,1.691,7.56,13.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,7.5,46.9,2.134,7.56,13.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,8.5,35.5,2.816,7.56,13.0,1.0
+2026-10-18,210125,Serie A,Udinese,Lecce,chutes_gol,9.5,25.8,3.873,7.56,13.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,7.5,98.2,1.018,20.96,3.0,0.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,8.5,97.0,1.03,20.96,3.0,0.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,9.5,95.4,1.048,20.96,3.0,0.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,escanteios,10.5,93.2,1.073,20.96,3.0,0.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,18.5,83.2,1.202,26.98,26.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,20.5,74.9,1.335,26.98,26.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,22.5,65.2,1.533,26.98,26.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes,24.5,54.8,1.824,26.98,26.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,6.5,79.5,1.257,9.85,10.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,7.5,70.3,1.423,9.85,10.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,8.5,60.1,1.663,9.85,10.0,1.0
+2026-10-18,602694,2. Bundesliga,SG Dynamo Dresden,1. FC Magdeburg,chutes_gol,9.5,49.8,2.007,9.85,10.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,7.5,73.9,1.354,10.62,8.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,8.5,65.0,1.538,10.62,8.0,0.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,9.5,55.8,1.791,10.62,8.0,0.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,escanteios,10.5,46.8,2.137,10.62,8.0,0.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,18.5,79.7,1.254,25.71,24.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,20.5,70.5,1.418,25.71,24.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,22.5,60.2,1.662,25.71,24.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes,24.5,49.4,2.023,25.71,24.0,0.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,6.5,17.2,5.823,4.35,8.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,7.5,9.8,10.238,4.35,8.0,1.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,8.5,5.2,19.119,4.35,8.0,0.0
+2026-10-18,602693,2. Bundesliga,Karlsruher SC,Darmstadt 98,chutes_gol,9.5,2.6,37.676,4.35,8.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,7.5,21.6,4.63,5.44,6.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,8.5,14.0,7.149,5.44,6.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,9.5,8.7,11.505,5.44,6.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,escanteios,10.5,5.2,19.22,5.44,6.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,18.5,78.0,1.283,25.14,23.0,1.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,20.5,68.3,1.463,25.14,23.0,1.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,22.5,57.7,1.732,25.14,23.0,1.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes,24.5,46.9,2.132,25.14,23.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,6.5,29.7,3.363,5.31,4.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,7.5,19.3,5.173,5.31,4.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,8.5,11.9,8.415,5.31,4.0,0.0
+2026-10-18,602692,2. Bundesliga,Arminia Bielefeld,VfL Osnabrück,chutes_gol,9.5,7.0,14.395,5.31,4.0,0.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,7.5,33.1,3.02,6.43,11.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,8.5,23.5,4.248,6.43,11.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,9.5,16.1,6.208,6.43,11.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,escanteios,10.5,10.6,9.396,6.43,11.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,18.5,7.6,13.111,11.73,29.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,20.5,3.8,26.51,11.73,29.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,22.5,1.8,57.163,11.73,29.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes,24.5,0.8,130.782,11.73,29.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,6.5,41.9,2.388,6.19,8.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,7.5,29.8,3.35,6.19,8.0,1.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,8.5,20.2,4.945,6.19,8.0,0.0
+2026-10-18,213605,La Liga,Osasuna,Real Racing Club,chutes_gol,9.5,13.1,7.653,6.19,8.0,0.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,7.5,91.7,1.091,14.96,7.0,0.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,8.5,87.5,1.143,14.96,7.0,0.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,9.5,82.4,1.213,14.96,7.0,0.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,escanteios,10.5,76.5,1.307,14.96,7.0,0.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,18.5,73.7,1.357,23.91,33.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,20.5,63.2,1.583,23.91,33.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,22.5,52.1,1.92,23.91,33.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes,24.5,41.2,2.427,23.91,33.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,6.5,42.1,2.376,6.21,11.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,7.5,30.0,3.328,6.21,11.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,8.5,20.4,4.906,6.21,11.0,1.0
+2026-10-18,603794,Austrian Bundesliga,Red Bull Salzburg,SCR Altach,chutes_gol,9.5,13.2,7.581,6.21,11.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,7.5,30.1,3.325,6.18,13.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,8.5,20.9,4.779,6.18,13.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,9.5,14.0,7.144,6.18,13.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,escanteios,10.5,9.0,11.066,6.18,13.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,18.5,14.1,7.116,13.23,34.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,20.5,7.8,12.743,13.23,34.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,22.5,4.1,24.274,13.23,34.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes,24.5,2.0,48.986,13.23,34.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,6.5,9.1,10.945,3.59,11.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,7.5,4.5,22.119,3.59,11.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,8.5,2.1,47.637,3.59,11.0,1.0
+2026-10-18,603795,Austrian Bundesliga,Wolfsberger AC,WSG Tirol,chutes_gol,9.5,0.9,108.525,3.59,11.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,7.5,76.4,1.308,11.03,8.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,8.5,68.1,1.469,11.03,8.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,9.5,59.2,1.689,11.03,8.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,escanteios,10.5,50.3,1.987,11.03,8.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,18.5,95.4,1.048,36.09,32.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,20.5,92.0,1.087,36.09,32.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,22.5,87.2,1.147,36.09,32.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes,24.5,80.8,1.237,36.09,32.0,1.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,6.5,95.7,1.045,14.46,6.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,7.5,92.6,1.08,14.46,6.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,8.5,88.4,1.131,14.46,6.0,0.0
+2026-10-18,209595,Premier League,Bournemouth,Sunderland,chutes_gol,9.5,83.0,1.205,14.46,6.0,0.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,7.5,28.5,3.508,6.04,13.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,8.5,19.6,5.103,6.04,13.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,9.5,13.0,7.723,6.04,13.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,escanteios,10.5,8.2,12.115,6.04,13.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,18.5,96.0,1.042,37.12,22.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,20.5,93.0,1.076,37.12,22.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,22.5,88.5,1.13,37.12,22.0,0.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes,24.5,82.6,1.211,37.12,22.0,0.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,6.5,90.1,1.11,12.05,10.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,7.5,84.4,1.186,12.05,10.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,8.5,77.2,1.295,12.05,10.0,1.0
+2026-10-18,209597,Premier League,Brighton & Hove Albion,Crystal Palace,chutes_gol,9.5,69.0,1.449,12.05,10.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,7.5,92.3,1.084,15.25,5.0,0.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,8.5,88.4,1.132,15.25,5.0,0.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,9.5,83.5,1.198,15.25,5.0,0.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,escanteios,10.5,77.8,1.285,15.25,5.0,0.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,18.5,96.8,1.033,38.85,25.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,20.5,94.2,1.061,38.85,25.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,22.5,90.4,1.106,38.85,25.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes,24.5,85.1,1.175,38.85,25.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,6.5,51.8,1.929,6.95,8.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,7.5,39.4,2.539,6.95,8.0,1.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,8.5,28.5,3.504,6.95,8.0,0.0
+2026-10-18,209600,Premier League,Leeds United,Manchester United,chutes_gol,9.5,19.8,5.055,6.95,8.0,0.0
+2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,7.5,77.5,1.29,11.21,16.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,8.5,69.4,1.441,11.21,16.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,9.5,60.7,1.648,11.21,16.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,escanteios,10.5,51.8,1.929,11.21,16.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes,18.5,99.1,1.009,49.99,35.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes,20.5,98.2,1.019,49.99,35.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes,22.5,96.5,1.036,49.99,35.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes,24.5,94.0,1.064,49.99,35.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,6.5,97.6,1.024,16.22,15.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,7.5,95.8,1.044,16.22,15.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,8.5,93.0,1.075,16.22,15.0,1.0
+2026-10-18,210120,Serie A,Fiorentina,Como,chutes_gol,9.5,89.3,1.119,16.22,15.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,7.5,76.4,1.308,11.03,7.0,0.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,8.5,68.1,1.469,11.03,7.0,0.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,9.5,59.2,1.689,11.03,7.0,0.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,escanteios,10.5,50.3,1.987,11.03,7.0,0.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,18.5,78.5,1.274,25.31,32.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,20.5,69.0,1.449,25.31,32.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,22.5,58.5,1.71,25.31,32.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes,24.5,47.7,2.098,25.31,32.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,6.5,9.1,10.945,3.59,11.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,7.5,4.5,22.119,3.59,11.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,8.5,2.1,47.637,3.59,11.0,1.0
+2026-10-18,210491,Ligue 1,Angers,Olympique de Marseille,chutes_gol,9.5,0.9,108.525,3.59,11.0,1.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,7.5,97.4,1.026,19.47,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,8.5,95.8,1.044,19.47,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,9.5,93.6,1.068,19.47,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,escanteios,10.5,90.8,1.102,19.47,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,18.5,99.5,1.005,57.32,23.0,1.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,20.5,99.0,1.01,57.32,23.0,1.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,22.5,98.0,1.02,57.32,23.0,1.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes,24.5,96.4,1.038,57.32,23.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,6.5,99.9,1.001,25.21,7.0,1.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,7.5,99.7,1.003,25.21,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,8.5,99.5,1.005,25.21,7.0,0.0
+2026-10-18,213714,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,chutes_gol,9.5,99.0,1.01,25.21,7.0,0.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,7.5,24.7,4.05,5.72,4.0,0.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,8.5,16.4,6.078,5.72,4.0,0.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,9.5,10.5,9.501,5.72,4.0,0.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,escanteios,10.5,6.5,15.405,5.72,4.0,0.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,18.5,35.1,2.852,16.76,26.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,20.5,24.1,4.149,16.76,26.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,22.5,15.7,6.378,16.76,26.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes,24.5,9.7,10.34,16.76,26.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,6.5,60.7,1.647,7.7,12.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,7.5,48.5,2.061,7.7,12.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,8.5,37.1,2.693,7.7,12.0,1.0
+2026-10-18,213600,La Liga,Celta Vigo,Deportivo Alavés,chutes_gol,9.5,27.3,3.667,7.7,12.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,7.5,31.3,3.196,6.28,9.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,8.5,22.0,4.553,6.28,9.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,9.5,14.8,6.744,6.28,9.0,0.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,escanteios,10.5,9.7,10.349,6.28,9.0,0.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,18.5,55.9,1.788,20.14,35.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,20.5,43.7,2.286,20.14,35.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,22.5,32.6,3.067,20.14,35.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes,24.5,23.2,4.317,20.14,35.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,6.5,25.2,3.962,4.98,13.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,7.5,15.7,6.354,4.98,13.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,8.5,9.3,10.79,4.98,13.0,1.0
+2026-10-18,603796,Austrian Bundesliga,SK Sturm Graz,Grazer AK 1902,chutes_gol,9.5,5.2,19.295,4.98,13.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,7.5,43.9,2.278,7.35,7.0,0.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,8.5,33.4,2.995,7.35,7.0,0.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,9.5,24.5,4.08,7.35,7.0,0.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,escanteios,10.5,17.4,5.743,7.35,7.0,0.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,18.5,94.5,1.059,34.69,31.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,20.5,90.5,1.104,34.69,31.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,22.5,85.1,1.175,34.69,31.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes,24.5,78.1,1.28,34.69,31.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,6.5,86.7,1.154,11.15,16.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,7.5,79.6,1.257,11.15,16.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,8.5,71.2,1.405,11.15,16.0,1.0
+2026-10-18,210497,Ligue 1,Paris FC,Stade Rennais,chutes_gol,9.5,61.9,1.615,11.15,16.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,7.5,83.3,1.2,12.34,11.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,8.5,76.5,1.307,12.34,11.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,9.5,68.8,1.453,12.34,11.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,escanteios,10.5,60.7,1.646,12.34,11.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,18.5,67.3,1.485,22.37,28.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,20.5,55.9,1.789,22.37,28.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,22.5,44.5,2.249,22.37,28.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes,24.5,33.8,2.955,22.37,28.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,6.5,65.1,1.537,8.11,12.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,7.5,53.3,1.878,8.11,12.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,8.5,41.8,2.39,8.11,12.0,1.0
+2026-10-18,210492,Ligue 1,Le Havre,Auxerre,chutes_gol,9.5,31.6,3.166,8.11,12.0,1.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,7.5,7.3,13.756,3.92,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,8.5,3.8,26.211,3.92,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,9.5,1.9,52.292,3.92,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,escanteios,10.5,0.9,108.646,3.92,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,18.5,38.5,2.601,17.28,24.0,1.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,20.5,27.1,3.695,17.28,24.0,1.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,22.5,18.1,5.541,17.28,24.0,1.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes,24.5,11.4,8.757,17.28,24.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,6.5,75.8,1.318,9.33,7.0,1.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,7.5,65.8,1.521,9.33,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,8.5,55.0,1.817,9.33,7.0,0.0
+2026-10-18,210495,Ligue 1,Lorient,AS Monaco,chutes_gol,9.5,44.5,2.247,9.33,7.0,0.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,7.5,54.6,1.833,8.33,14.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,8.5,43.9,2.278,8.33,14.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,9.5,34.2,2.923,8.33,14.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,escanteios,10.5,25.9,3.865,8.33,14.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,18.5,93.9,1.065,33.93,23.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,20.5,89.6,1.116,33.93,23.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,22.5,83.9,1.193,33.93,23.0,1.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes,24.5,76.5,1.307,33.93,23.0,0.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,6.5,14.7,6.823,4.13,3.0,0.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,7.5,8.0,12.438,4.13,3.0,0.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,8.5,4.2,24.105,4.13,3.0,0.0
+2026-10-18,209603,Premier League,Nottingham Forest,Arsenal,chutes_gol,9.5,2.0,49.334,4.13,3.0,0.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,7.5,98.5,1.015,21.75,9.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,8.5,97.5,1.025,21.75,9.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,9.5,96.1,1.04,21.75,9.0,0.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,escanteios,10.5,94.2,1.061,21.75,9.0,0.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,18.5,99.5,1.005,56.32,23.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,20.5,98.9,1.011,56.32,23.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,22.5,97.9,1.022,56.32,23.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes,24.5,96.1,1.04,56.32,23.0,0.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,6.5,76.2,1.311,9.38,11.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,7.5,66.2,1.51,9.38,11.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,8.5,55.6,1.8,9.38,11.0,1.0
+2026-10-18,213715,Bundesliga,Borussia M'gladbach,TSG Hoffenheim,chutes_gol,9.5,45.1,2.22,9.38,11.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,7.5,39.2,2.554,6.94,4.0,0.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,8.5,29.0,3.453,6.94,4.0,0.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,9.5,20.6,4.844,6.94,4.0,0.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,escanteios,10.5,14.2,7.027,6.94,4.0,0.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,18.5,54.4,1.838,19.87,23.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,20.5,42.2,2.37,19.87,23.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,22.5,31.2,3.208,19.87,23.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes,24.5,21.9,4.557,19.87,23.0,0.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,6.5,20.5,4.874,4.62,10.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,7.5,12.2,8.219,4.62,10.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,8.5,6.8,14.704,4.62,10.0,1.0
+2026-10-18,210117,Serie A,AC Milan,Atalanta,chutes_gol,9.5,3.6,27.732,4.62,10.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,7.5,86.7,1.154,13.19,9.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,8.5,80.8,1.238,13.19,9.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,9.5,74.0,1.352,13.19,9.0,0.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,escanteios,10.5,66.5,1.503,13.19,9.0,0.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,18.5,57.8,1.731,20.47,38.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,20.5,45.6,2.191,20.47,38.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,22.5,34.4,2.908,20.47,38.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes,24.5,24.7,4.046,20.47,38.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,6.5,37.6,2.656,5.89,15.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,7.5,26.1,3.837,5.89,15.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,8.5,17.1,5.844,5.89,15.0,1.0
+2026-10-18,213604,La Liga,Málaga CF,Real Sociedad,chutes_gol,9.5,10.7,9.343,5.89,15.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,7.5,86.3,1.159,13.08,10.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,8.5,80.3,1.245,13.08,10.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,9.5,73.4,1.362,13.08,10.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,escanteios,10.5,65.9,1.518,13.08,10.0,0.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,18.5,92.8,1.078,32.78,20.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,20.5,88.0,1.136,32.78,20.0,0.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,22.5,81.7,1.225,32.78,20.0,0.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes,24.5,73.8,1.355,32.78,20.0,0.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,6.5,92.5,1.082,12.84,9.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,7.5,87.7,1.14,12.84,9.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,8.5,81.6,1.225,12.84,9.0,1.0
+2026-10-18,210496,Ligue 1,Olympique Lyonnais,Nice,chutes_gol,9.5,74.4,1.344,12.84,9.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,7.5,62.8,1.593,9.19,12.0,1.0
+2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,8.5,52.5,1.903,9.19,12.0,1.0
+2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,9.5,42.7,2.341,9.19,12.0,1.0
+2026-10-18,210122,Serie A,Juventus,Lazio,escanteios,10.5,33.8,2.961,9.19,12.0,1.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes,18.5,84.4,1.185,27.48,18.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes,20.5,76.4,1.308,27.48,18.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes,22.5,67.1,1.491,27.48,18.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes,24.5,56.8,1.76,27.48,18.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,6.5,62.9,1.589,7.91,5.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,7.5,50.9,1.963,7.91,5.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,8.5,39.5,2.53,7.91,5.0,0.0
+2026-10-18,210122,Serie A,Juventus,Lazio,chutes_gol,9.5,29.4,3.396,7.91,5.0,0.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,7.5,77.5,1.29,11.21,15.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,8.5,69.4,1.441,11.21,15.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,9.5,60.7,1.648,11.21,15.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,escanteios,10.5,51.8,1.929,11.21,15.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,18.5,96.1,1.041,37.23,27.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,20.5,93.0,1.075,37.23,27.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,22.5,88.6,1.128,37.23,27.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes,24.5,82.8,1.208,37.23,27.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,6.5,83.8,1.194,10.56,7.0,1.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,7.5,75.7,1.321,10.56,7.0,0.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,8.5,66.5,1.504,10.56,7.0,0.0
+2026-10-18,10186,Brasileirão Serie B,CRB,Botafogo-SP,chutes_gol,9.5,56.7,1.764,10.56,7.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,7.5,93.6,1.069,15.93,11.0,1.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,8.5,90.1,1.109,15.93,11.0,1.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,9.5,85.8,1.165,15.93,11.0,1.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,escanteios,10.5,80.7,1.239,15.93,11.0,1.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,18.5,75.4,1.327,24.37,15.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,20.5,65.2,1.534,24.37,15.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,22.5,54.3,1.843,24.37,15.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes,24.5,43.4,2.306,24.37,15.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,6.5,22.4,4.458,4.77,2.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,7.5,13.6,7.358,4.77,2.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,8.5,7.8,12.874,4.77,2.0,0.0
+2026-10-18,10192,Brasileirão Serie B,São Bernardo,Criciúma,chutes_gol,9.5,4.2,23.737,4.77,2.0,0.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,7.5,65.5,1.527,9.5,16.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,8.5,55.5,1.801,9.5,16.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,9.5,45.8,2.185,9.5,16.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,escanteios,10.5,36.7,2.725,9.5,16.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,18.5,84.5,1.183,27.52,30.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,20.5,76.6,1.306,27.52,30.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,22.5,67.2,1.487,27.52,30.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes,24.5,57.0,1.754,27.52,30.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,6.5,88.1,1.134,11.51,12.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,7.5,81.6,1.225,11.51,12.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,8.5,73.7,1.357,11.51,12.0,1.0
+2026-10-18,7300,Brasileirão Serie A,Grêmio,Cruzeiro,chutes_gol,9.5,64.9,1.542,11.51,12.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,7.5,72.4,1.382,10.4,12.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,8.5,63.3,1.581,10.4,12.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,9.5,53.9,1.854,10.4,12.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,escanteios,10.5,44.8,2.23,10.4,12.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,18.5,66.2,1.509,22.14,28.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,20.5,54.7,1.828,22.14,28.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,22.5,43.3,2.312,22.14,28.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes,24.5,32.7,3.057,22.14,28.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,6.5,37.3,2.678,5.86,7.0,1.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,7.5,25.8,3.878,5.86,7.0,0.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,8.5,16.9,5.921,5.86,7.0,0.0
+2026-10-18,10185,Brasileirão Serie B,Avaí,Athletic Club,chutes_gol,9.5,10.5,9.489,5.86,7.0,0.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,7.5,71.5,1.399,10.27,3.0,0.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,8.5,62.3,1.606,10.27,3.0,0.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,9.5,52.9,1.892,10.27,3.0,0.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,escanteios,10.5,43.8,2.286,10.27,3.0,0.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,18.5,83.9,1.193,27.25,26.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,20.5,75.7,1.32,27.25,26.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,22.5,66.2,1.51,27.25,26.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes,24.5,55.9,1.788,27.25,26.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,6.5,98.5,1.015,17.52,13.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,7.5,97.2,1.029,17.52,13.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,8.5,95.2,1.05,17.52,13.0,1.0
+2026-10-18,213607,La Liga,Real Madrid,Sevilla,chutes_gol,9.5,92.5,1.081,17.52,13.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,7.5,63.2,1.583,9.24,9.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,8.5,53.0,1.887,9.24,9.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,9.5,43.2,2.316,9.24,9.0,0.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,escanteios,10.5,34.2,2.923,9.24,9.0,0.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,18.5,82.5,1.212,26.72,25.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,20.5,74.0,1.351,26.72,25.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,22.5,64.2,1.557,26.72,25.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes,24.5,53.8,1.86,26.72,25.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,6.5,81.1,1.233,10.1,7.0,1.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,7.5,72.3,1.383,10.1,7.0,0.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,8.5,62.4,1.602,10.1,7.0,0.0
+2026-10-18,7299,Brasileirão Serie A,Fluminense,Santos,chutes_gol,9.5,52.3,1.913,10.1,7.0,0.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,7.5,94.9,1.054,16.79,10.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,8.5,92.0,1.087,16.79,10.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,9.5,88.3,1.132,16.79,10.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,escanteios,10.5,83.9,1.192,16.79,10.0,0.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,18.5,94.2,1.062,34.35,22.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,20.5,90.1,1.109,34.35,22.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,22.5,84.6,1.183,34.35,22.0,0.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes,24.5,77.4,1.292,34.35,22.0,0.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,6.5,95.5,1.047,14.34,9.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,7.5,92.3,1.083,14.34,9.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,8.5,88.0,1.137,14.34,9.0,1.0
+2026-10-18,10193,Brasileirão Serie B,Vila Nova FC,Grêmio Novorizontino,chutes_gol,9.5,82.5,1.212,14.34,9.0,0.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,7.5,72.0,1.388,10.35,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,8.5,62.9,1.589,10.35,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,9.5,53.5,1.867,10.35,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,escanteios,10.5,44.5,2.249,10.35,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,18.5,77.6,1.289,25.02,30.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,20.5,67.9,1.473,25.02,30.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,22.5,57.2,1.748,25.02,30.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes,24.5,46.4,2.157,25.02,30.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,6.5,70.6,1.417,8.69,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,7.5,59.5,1.68,8.69,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,8.5,48.3,2.07,8.69,18.0,1.0
+2026-10-18,7296,Brasileirão Serie A,Bahia,Flamengo,chutes_gol,9.5,37.8,2.648,8.69,18.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,7.5,89.5,1.117,14.09,17.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,8.5,84.5,1.183,14.09,17.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,9.5,78.6,1.272,14.09,17.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,escanteios,10.5,72.0,1.389,14.09,17.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,18.5,93.3,1.072,33.33,41.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,20.5,88.8,1.126,33.33,41.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,22.5,82.7,1.209,33.33,41.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes,24.5,75.1,1.331,33.33,41.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,6.5,90.8,1.102,12.25,11.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,7.5,85.3,1.173,12.25,11.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,8.5,78.4,1.275,12.25,11.0,1.0
+2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,9.5,70.5,1.419,12.25,11.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,7.5,4.0,25.182,3.37,,
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,8.5,1.9,53.365,3.37,,
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,9.5,0.8,118.581,3.37,,
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,10.5,0.4,274.711,3.37,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,18.5,39.0,2.568,17.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,20.5,27.5,3.638,17.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,22.5,18.4,5.443,17.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,24.5,11.7,8.583,17.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,6.5,67.5,1.482,8.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,7.5,56.0,1.787,8.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,8.5,44.6,2.243,8.36,,
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,9.5,34.2,2.924,8.36,,
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,7.5,59.7,1.674,8.86,,
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,8.5,49.3,2.029,8.86,,
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,9.5,39.5,2.535,8.86,,
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,10.5,30.7,3.259,8.86,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes,18.5,16.3,6.145,13.67,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes,20.5,9.4,10.682,13.67,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes,22.5,5.1,19.747,13.67,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes,24.5,2.6,38.662,13.67,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,6.5,23.0,4.342,4.81,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,7.5,14.1,7.118,4.81,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,8.5,8.1,12.364,4.81,,
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,9.5,4.4,22.623,4.81,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,7.5,71.1,1.407,10.22,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,8.5,61.8,1.618,10.22,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,9.5,52.4,1.91,10.22,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,10.5,43.2,2.312,10.22,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,18.5,61.0,1.64,21.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,20.5,49.0,2.042,21.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,22.5,37.5,2.663,21.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,24.5,27.5,3.638,21.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,6.5,26.4,3.789,5.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,7.5,16.7,6.006,5.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,8.5,9.9,10.075,5.06,,
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,9.5,5.6,17.787,5.06,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,7.5,37.6,2.658,6.81,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,8.5,27.6,3.628,6.81,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,9.5,19.5,5.14,6.81,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,10.5,13.3,7.533,6.81,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,18.5,90.7,1.102,30.96,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,20.5,85.0,1.176,30.96,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,22.5,77.7,1.287,30.96,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,24.5,69.0,1.45,30.96,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,6.5,54.2,1.844,7.15,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,7.5,41.8,2.392,7.15,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,8.5,30.8,3.25,7.15,,
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,9.5,21.7,4.611,7.15,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,7.5,78.9,1.267,11.46,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,8.5,71.1,1.407,11.46,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,9.5,62.6,1.598,11.46,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,10.5,53.9,1.855,11.46,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,18.5,92.0,1.087,31.98,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,20.5,86.9,1.151,31.98,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,22.5,80.1,1.249,31.98,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,24.5,71.9,1.392,31.98,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,6.5,33.1,3.021,5.56,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,7.5,22.1,4.517,5.56,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,8.5,14.0,7.13,5.56,,
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,9.5,8.5,11.826,5.56,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,7.5,61.6,1.624,9.06,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,8.5,51.3,1.95,9.06,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,9.5,41.4,2.413,9.06,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,10.5,32.6,3.072,9.06,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,18.5,64.9,1.541,21.84,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,20.5,53.2,1.88,21.84,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,22.5,41.7,2.398,21.84,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,24.5,31.2,3.2,21.84,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,6.5,43.2,2.316,6.29,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,7.5,31.1,3.218,6.29,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,8.5,21.3,4.704,6.29,,
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,9.5,13.9,7.205,6.29,,
