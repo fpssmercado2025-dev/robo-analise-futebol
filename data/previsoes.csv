@@ -3851,75 +3851,195 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,7.5,85.3,1.173,12.25,11.0,1.0
 2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,8.5,78.4,1.275,12.25,11.0,1.0
 2026-10-18,7302,Brasileirão Serie A,Remo,Red Bull Bragantino,chutes_gol,9.5,70.5,1.419,12.25,11.0,1.0
-2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,7.5,4.0,25.182,3.37,,
-2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,8.5,1.9,53.365,3.37,,
-2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,9.5,0.8,118.581,3.37,,
-2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,10.5,0.4,274.711,3.37,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes,18.5,39.0,2.568,17.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes,20.5,27.5,3.638,17.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes,22.5,18.4,5.443,17.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes,24.5,11.7,8.583,17.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,6.5,67.5,1.482,8.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,7.5,56.0,1.787,8.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,8.5,44.6,2.243,8.36,,
-2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,9.5,34.2,2.924,8.36,,
-2026-10-19,210124,Serie A,Parma,Torino,escanteios,7.5,59.7,1.674,8.86,,
-2026-10-19,210124,Serie A,Parma,Torino,escanteios,8.5,49.3,2.029,8.86,,
-2026-10-19,210124,Serie A,Parma,Torino,escanteios,9.5,39.5,2.535,8.86,,
-2026-10-19,210124,Serie A,Parma,Torino,escanteios,10.5,30.7,3.259,8.86,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes,18.5,16.3,6.145,13.67,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes,20.5,9.4,10.682,13.67,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes,22.5,5.1,19.747,13.67,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes,24.5,2.6,38.662,13.67,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,6.5,23.0,4.342,4.81,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,7.5,14.1,7.118,4.81,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,8.5,8.1,12.364,4.81,,
-2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,9.5,4.4,22.623,4.81,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,7.5,71.1,1.407,10.22,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,8.5,61.8,1.618,10.22,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,9.5,52.4,1.91,10.22,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,10.5,43.2,2.312,10.22,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,18.5,61.0,1.64,21.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,20.5,49.0,2.042,21.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,22.5,37.5,2.663,21.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,24.5,27.5,3.638,21.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,6.5,26.4,3.789,5.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,7.5,16.7,6.006,5.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,8.5,9.9,10.075,5.06,,
-2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,9.5,5.6,17.787,5.06,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,7.5,37.6,2.658,6.81,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,8.5,27.6,3.628,6.81,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,9.5,19.5,5.14,6.81,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,10.5,13.3,7.533,6.81,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,18.5,90.7,1.102,30.96,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,20.5,85.0,1.176,30.96,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,22.5,77.7,1.287,30.96,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,24.5,69.0,1.45,30.96,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,6.5,54.2,1.844,7.15,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,7.5,41.8,2.392,7.15,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,8.5,30.8,3.25,7.15,,
-2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,9.5,21.7,4.611,7.15,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,7.5,78.9,1.267,11.46,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,8.5,71.1,1.407,11.46,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,9.5,62.6,1.598,11.46,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,10.5,53.9,1.855,11.46,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,18.5,92.0,1.087,31.98,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,20.5,86.9,1.151,31.98,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,22.5,80.1,1.249,31.98,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,24.5,71.9,1.392,31.98,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,6.5,33.1,3.021,5.56,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,7.5,22.1,4.517,5.56,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,8.5,14.0,7.13,5.56,,
-2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,9.5,8.5,11.826,5.56,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,7.5,61.6,1.624,9.06,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,8.5,51.3,1.95,9.06,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,9.5,41.4,2.413,9.06,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,10.5,32.6,3.072,9.06,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,18.5,64.9,1.541,21.84,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,20.5,53.2,1.88,21.84,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,22.5,41.7,2.398,21.84,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,24.5,31.2,3.2,21.84,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,6.5,43.2,2.316,6.29,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,7.5,31.1,3.218,6.29,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,8.5,21.3,4.704,6.29,,
-2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,9.5,13.9,7.205,6.29,,
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,7.5,4.0,25.182,3.37,9.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,8.5,1.9,53.365,3.37,9.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,9.5,0.8,118.581,3.37,9.0,0.0
+2026-10-19,210123,Serie A,Monza,Cagliari,escanteios,10.5,0.4,274.711,3.37,9.0,0.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,18.5,39.0,2.568,17.36,30.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,20.5,27.5,3.638,17.36,30.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,22.5,18.4,5.443,17.36,30.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes,24.5,11.7,8.583,17.36,30.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,6.5,67.5,1.482,8.36,11.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,7.5,56.0,1.787,8.36,11.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,8.5,44.6,2.243,8.36,11.0,1.0
+2026-10-19,210123,Serie A,Monza,Cagliari,chutes_gol,9.5,34.2,2.924,8.36,11.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,7.5,59.7,1.674,8.86,8.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,8.5,49.3,2.029,8.86,8.0,0.0
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,9.5,39.5,2.535,8.86,8.0,0.0
+2026-10-19,210124,Serie A,Parma,Torino,escanteios,10.5,30.7,3.259,8.86,8.0,0.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes,18.5,16.3,6.145,13.67,34.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes,20.5,9.4,10.682,13.67,34.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes,22.5,5.1,19.747,13.67,34.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes,24.5,2.6,38.662,13.67,34.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,6.5,23.0,4.342,4.81,11.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,7.5,14.1,7.118,4.81,11.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,8.5,8.1,12.364,4.81,11.0,1.0
+2026-10-19,210124,Serie A,Parma,Torino,chutes_gol,9.5,4.4,22.623,4.81,11.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,7.5,71.1,1.407,10.22,8.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,8.5,61.8,1.618,10.22,8.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,9.5,52.4,1.91,10.22,8.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,escanteios,10.5,43.2,2.312,10.22,8.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,18.5,61.0,1.64,21.06,28.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,20.5,49.0,2.042,21.06,28.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,22.5,37.5,2.663,21.06,28.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes,24.5,27.5,3.638,21.06,28.0,1.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,6.5,26.4,3.789,5.06,6.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,7.5,16.7,6.006,5.06,6.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,8.5,9.9,10.075,5.06,6.0,0.0
+2026-10-19,209604,Premier League,Tottenham Hotspur,Coventry City,chutes_gol,9.5,5.6,17.787,5.06,6.0,0.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,7.5,37.6,2.658,6.81,16.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,8.5,27.6,3.628,6.81,16.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,9.5,19.5,5.14,6.81,16.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,escanteios,10.5,13.3,7.533,6.81,16.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,18.5,90.7,1.102,30.96,33.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,20.5,85.0,1.176,30.96,33.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,22.5,77.7,1.287,30.96,33.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes,24.5,69.0,1.45,30.96,33.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,6.5,54.2,1.844,7.15,9.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,7.5,41.8,2.392,7.15,9.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,8.5,30.8,3.25,7.15,9.0,1.0
+2026-10-19,213603,La Liga,Getafe,Rayo Vallecano,chutes_gol,9.5,21.7,4.611,7.15,9.0,0.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,7.5,78.9,1.267,11.46,20.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,8.5,71.1,1.407,11.46,20.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,9.5,62.6,1.598,11.46,20.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,escanteios,10.5,53.9,1.855,11.46,20.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,18.5,92.0,1.087,31.98,41.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,20.5,86.9,1.151,31.98,41.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,22.5,80.1,1.249,31.98,41.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes,24.5,71.9,1.392,31.98,41.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,6.5,33.1,3.021,5.56,8.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,7.5,22.1,4.517,5.56,8.0,1.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,8.5,14.0,7.13,5.56,8.0,0.0
+2026-10-19,10188,Brasileirão Serie B,Goiás,Náutico,chutes_gol,9.5,8.5,11.826,5.56,8.0,0.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,7.5,61.6,1.624,9.06,10.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,8.5,51.3,1.95,9.06,10.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,9.5,41.4,2.413,9.06,10.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,escanteios,10.5,32.6,3.072,9.06,10.0,0.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,18.5,64.9,1.541,21.84,26.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,20.5,53.2,1.88,21.84,26.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,22.5,41.7,2.398,21.84,26.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes,24.5,31.2,3.2,21.84,26.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,6.5,43.2,2.316,6.29,11.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,7.5,31.1,3.218,6.29,11.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,8.5,21.3,4.704,6.29,11.0,1.0
+2026-10-19,7298,Brasileirão Serie A,Corinthians,Vitória,chutes_gol,9.5,13.9,7.205,6.29,11.0,1.0
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,escanteios,7.5,63.0,1.588,9.21,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,escanteios,8.5,52.8,1.894,9.21,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,escanteios,9.5,43.0,2.328,9.21,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,escanteios,10.5,34.0,2.941,9.21,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes,18.5,89.8,1.114,30.31,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes,20.5,83.7,1.194,30.31,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes,22.5,76.0,1.315,30.31,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes,24.5,67.0,1.492,30.31,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes_gol,6.5,97.7,1.023,16.3,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes_gol,7.5,95.9,1.043,16.3,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes_gol,8.5,93.2,1.073,16.3,,
+2026-10-20,601133,Champions League,Fenerbahçe,SK Slavia Praha,chutes_gol,9.5,89.6,1.116,16.3,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,escanteios,7.5,81.8,1.223,12.01,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,escanteios,8.5,74.6,1.341,12.01,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,escanteios,9.5,66.6,1.502,12.01,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,escanteios,10.5,58.2,1.717,12.01,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes,18.5,97.3,1.028,40.0,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes,20.5,95.0,1.052,40.0,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes,22.5,91.6,1.092,40.0,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes,24.5,86.7,1.153,40.0,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes_gol,6.5,87.5,1.143,11.35,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes_gol,7.5,80.7,1.239,11.35,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes_gol,8.5,72.5,1.378,11.35,,
+2026-10-20,601120,Champions League,Sabah FK,Borussia Dortmund,chutes_gol,9.5,63.5,1.574,11.35,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,escanteios,7.5,81.0,1.234,11.86,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,escanteios,8.5,73.7,1.357,11.86,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,escanteios,9.5,65.6,1.525,11.86,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,escanteios,10.5,57.1,1.751,11.86,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes,18.5,59.5,1.682,20.77,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes,20.5,47.3,2.112,20.77,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes,22.5,36.0,2.779,20.77,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes,24.5,26.1,3.832,20.77,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes_gol,6.5,45.4,2.204,6.45,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes_gol,7.5,33.1,3.021,6.45,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes_gol,8.5,23.0,4.352,6.45,,
+2026-10-20,601078,Champions League,FC Porto,PSV Eindhoven,chutes_gol,9.5,15.2,6.565,6.45,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,escanteios,7.5,63.4,1.578,9.26,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,escanteios,8.5,53.2,1.879,9.26,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,escanteios,9.5,43.4,2.305,9.26,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,escanteios,10.5,34.4,2.906,9.26,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes,18.5,99.8,1.002,71.11,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes,20.5,99.6,1.004,71.11,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes,22.5,99.2,1.008,71.11,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes,24.5,98.3,1.017,71.11,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes_gol,6.5,100.0,1.0,39.36,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes_gol,7.5,100.0,1.0,39.36,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes_gol,8.5,100.0,1.0,39.36,,
+2026-10-20,601044,Champions League,Paris Saint-Germain,FC Barcelona,chutes_gol,9.5,100.0,1.0,39.36,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,escanteios,7.5,45.9,2.18,7.52,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,escanteios,8.5,35.3,2.835,7.52,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,escanteios,9.5,26.2,3.818,7.52,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,escanteios,10.5,18.8,5.308,7.52,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes,18.5,93.0,1.075,32.94,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes,20.5,88.4,1.132,32.94,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes,22.5,82.1,1.218,32.94,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes,24.5,74.3,1.345,32.94,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes_gol,6.5,61.1,1.638,7.73,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes_gol,7.5,48.9,2.045,7.73,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes_gol,8.5,37.5,2.666,7.73,,
+2026-10-20,601037,Champions League,Manchester City,AEK Athens,chutes_gol,9.5,27.6,3.622,7.73,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,escanteios,7.5,89.3,1.12,14.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,escanteios,8.5,84.2,1.187,14.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,escanteios,9.5,78.2,1.278,14.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,escanteios,10.5,71.5,1.399,14.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes,18.5,87.0,1.15,28.65,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes,20.5,79.8,1.252,28.65,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes,22.5,71.2,1.405,28.65,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes,24.5,61.4,1.629,28.65,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes_gol,6.5,90.0,1.112,12.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes_gol,7.5,84.1,1.189,12.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes_gol,8.5,76.9,1.3,12.0,,
+2026-10-20,601056,Champions League,Liverpool FC,Villarreal,chutes_gol,9.5,68.7,1.457,12.0,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,escanteios,7.5,29.2,3.424,6.1,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,escanteios,8.5,20.2,4.953,6.1,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,escanteios,9.5,13.4,7.454,6.1,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,escanteios,10.5,8.6,11.625,6.1,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes,18.5,25.6,3.914,15.27,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes,20.5,16.2,6.154,15.27,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes,22.5,9.8,10.26,15.27,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes,24.5,5.5,18.083,15.27,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes_gol,6.5,25.7,3.886,5.02,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes_gol,7.5,16.1,6.201,5.02,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes_gol,8.5,9.5,10.477,5.02,,
+2026-10-20,601115,Champions League,SSC Napoli,Bodø/Glimt,chutes_gol,9.5,5.4,18.638,5.02,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,escanteios,7.5,79.4,1.26,11.54,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,escanteios,8.5,71.6,1.396,11.54,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,escanteios,9.5,63.2,1.581,11.54,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,escanteios,10.5,54.6,1.832,11.54,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes,18.5,96.8,1.034,38.56,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes,20.5,94.1,1.062,38.56,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes,22.5,90.2,1.108,38.56,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes,24.5,84.9,1.178,38.56,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes_gol,6.5,96.7,1.034,15.28,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes_gol,7.5,94.3,1.061,15.28,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes_gol,8.5,90.8,1.101,15.28,,
+2026-10-20,601110,Champions League,AS Roma,ŠK Slovan Bratislava,chutes_gol,9.5,86.3,1.159,15.28,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,escanteios,7.5,95.2,1.051,17.02,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,escanteios,8.5,92.4,1.082,17.02,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,escanteios,9.5,88.9,1.125,17.02,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,escanteios,10.5,84.6,1.182,17.02,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes,18.5,93.8,1.066,33.75,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes,20.5,89.5,1.117,33.75,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes,22.5,83.7,1.195,33.75,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes,24.5,76.3,1.311,33.75,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes_gol,6.5,90.5,1.105,12.16,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes_gol,7.5,84.9,1.178,12.16,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes_gol,8.5,77.9,1.284,12.16,,
+2026-10-20,601113,Champions League,VfB Stuttgart,Atlético Madrid,chutes_gol,9.5,69.8,1.433,12.16,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,escanteios,7.5,94.5,1.058,16.52,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,escanteios,8.5,91.5,1.093,16.52,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,escanteios,9.5,87.6,1.142,16.52,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,escanteios,10.5,82.9,1.206,16.52,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes,18.5,89.3,1.119,30.0,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes,20.5,83.1,1.204,30.0,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes,22.5,75.2,1.33,30.0,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes,24.5,66.0,1.515,30.0,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes_gol,6.5,37.3,2.679,5.86,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes_gol,7.5,25.8,3.88,5.86,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes_gol,8.5,16.9,5.925,5.86,,
+2026-10-20,10189,Brasileirão Serie B,Londrina,Cuiabá,chutes_gol,9.5,10.5,9.497,5.86,,
