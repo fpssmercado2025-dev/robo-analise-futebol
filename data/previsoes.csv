@@ -5639,51 +5639,147 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-10-26,10199,Brasileirão Serie B,Juventude,Náutico,chutes_gol,7.5,32.3,3.099,6.39,15.0,1.0
 2026-10-26,10199,Brasileirão Serie B,Juventude,Náutico,chutes_gol,8.5,22.3,4.488,6.39,15.0,1.0
 2026-10-26,10199,Brasileirão Serie B,Juventude,Náutico,chutes_gol,9.5,14.7,6.809,6.39,15.0,1.0
-2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,7.5,52.8,1.896,8.15,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,8.5,42.0,2.38,8.15,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,9.5,32.4,3.089,8.15,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,10.5,24.2,4.136,8.15,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,18.5,66.9,1.494,22.26,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,20.5,55.4,1.804,22.26,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,22.5,43.9,2.276,22.26,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,24.5,33.3,3.001,22.26,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,6.5,61.4,1.629,7.77,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,7.5,49.3,2.03,7.77,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,8.5,37.9,2.64,7.77,,
-2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,9.5,28.0,3.577,7.77,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,7.5,32.2,3.106,6.36,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,8.5,22.7,4.404,6.36,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,9.5,15.4,6.493,6.36,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,10.5,10.1,9.921,6.36,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,18.5,83.3,1.201,26.95,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,20.5,75.0,1.334,26.95,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,22.5,65.3,1.532,26.95,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,24.5,54.8,1.824,26.95,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,6.5,87.2,1.147,11.29,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,7.5,80.3,1.245,11.29,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,8.5,72.1,1.387,11.29,,
-2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,9.5,63.0,1.586,11.29,,
-2026-10-27,210145,Serie A,Torino,Como,escanteios,7.5,62.8,1.593,9.18,,
-2026-10-27,210145,Serie A,Torino,Como,escanteios,8.5,52.5,1.904,9.18,,
-2026-10-27,210145,Serie A,Torino,Como,escanteios,9.5,42.6,2.345,9.18,,
-2026-10-27,210145,Serie A,Torino,Como,escanteios,10.5,33.7,2.972,9.18,,
-2026-10-27,210145,Serie A,Torino,Como,chutes,18.5,94.6,1.057,34.71,,
-2026-10-27,210145,Serie A,Torino,Como,chutes,20.5,90.7,1.102,34.71,,
-2026-10-27,210145,Serie A,Torino,Como,chutes,22.5,85.3,1.172,34.71,,
-2026-10-27,210145,Serie A,Torino,Como,chutes,24.5,78.4,1.275,34.71,,
-2026-10-27,210145,Serie A,Torino,Como,chutes_gol,6.5,75.5,1.325,9.29,,
-2026-10-27,210145,Serie A,Torino,Como,chutes_gol,7.5,65.3,1.531,9.29,,
-2026-10-27,210145,Serie A,Torino,Como,chutes_gol,8.5,54.6,1.832,9.29,,
-2026-10-27,210145,Serie A,Torino,Como,chutes_gol,9.5,44.0,2.27,9.29,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,7.5,53.4,1.873,8.21,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,8.5,42.7,2.344,8.21,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,9.5,33.0,3.032,8.21,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,10.5,24.7,4.045,8.21,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,18.5,52.2,1.915,19.48,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,20.5,40.0,2.501,19.48,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,22.5,29.1,3.435,19.48,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,24.5,20.2,4.956,19.48,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,6.5,48.7,2.053,6.71,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,7.5,36.3,2.752,6.71,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,8.5,25.8,3.874,6.71,,
-2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,9.5,17.5,5.703,6.71,,
+2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,7.5,52.8,1.896,8.15,3.0,0.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,8.5,42.0,2.38,8.15,3.0,0.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,9.5,32.4,3.089,8.15,3.0,0.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,escanteios,10.5,24.2,4.136,8.15,3.0,0.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,18.5,66.9,1.494,22.26,25.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,20.5,55.4,1.804,22.26,25.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,22.5,43.9,2.276,22.26,25.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes,24.5,33.3,3.001,22.26,25.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,6.5,61.4,1.629,7.77,9.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,7.5,49.3,2.03,7.77,9.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,8.5,37.9,2.64,7.77,9.0,1.0
+2026-10-27,210144,Serie A,Sassuolo,Lazio,chutes_gol,9.5,28.0,3.577,7.77,9.0,0.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,7.5,32.2,3.106,6.36,15.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,8.5,22.7,4.404,6.36,15.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,9.5,15.4,6.493,6.36,15.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,escanteios,10.5,10.1,9.921,6.36,15.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,18.5,83.3,1.201,26.95,39.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,20.5,75.0,1.334,26.95,39.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,22.5,65.3,1.532,26.95,39.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes,24.5,54.8,1.824,26.95,39.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,6.5,87.2,1.147,11.29,16.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,7.5,80.3,1.245,11.29,16.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,8.5,72.1,1.387,11.29,16.0,1.0
+2026-10-27,210138,Serie A,AS Roma,Cagliari,chutes_gol,9.5,63.0,1.586,11.29,16.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,escanteios,7.5,62.8,1.593,9.18,11.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,escanteios,8.5,52.5,1.904,9.18,11.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,escanteios,9.5,42.6,2.345,9.18,11.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,escanteios,10.5,33.7,2.972,9.18,11.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes,18.5,94.6,1.057,34.71,29.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes,20.5,90.7,1.102,34.71,29.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes,22.5,85.3,1.172,34.71,29.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes,24.5,78.4,1.275,34.71,29.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes_gol,6.5,75.5,1.325,9.29,10.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes_gol,7.5,65.3,1.531,9.29,10.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes_gol,8.5,54.6,1.832,9.29,10.0,1.0
+2026-10-27,210145,Serie A,Torino,Como,chutes_gol,9.5,44.0,2.27,9.29,10.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,7.5,53.4,1.873,8.21,10.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,8.5,42.7,2.344,8.21,10.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,9.5,33.0,3.032,8.21,10.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,escanteios,10.5,24.7,4.045,8.21,10.0,0.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,18.5,52.2,1.915,19.48,35.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,20.5,40.0,2.501,19.48,35.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,22.5,29.1,3.435,19.48,35.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes,24.5,20.2,4.956,19.48,35.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,6.5,48.7,2.053,6.71,15.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,7.5,36.3,2.752,6.71,15.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,8.5,25.8,3.874,6.71,15.0,1.0
+2026-10-27,10198,Brasileirão Serie B,Ceará,Goiás,chutes_gol,9.5,17.5,5.703,6.71,15.0,1.0
+2026-10-28,210146,Serie A,Venezia,Inter,escanteios,7.5,78.6,1.272,11.37,,
+2026-10-28,210146,Serie A,Venezia,Inter,escanteios,8.5,70.6,1.416,11.37,,
+2026-10-28,210146,Serie A,Venezia,Inter,escanteios,9.5,62.0,1.612,11.37,,
+2026-10-28,210146,Serie A,Venezia,Inter,escanteios,10.5,53.3,1.878,11.37,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes,18.5,98.6,1.014,45.58,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes,20.5,97.3,1.028,45.58,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes,22.5,95.1,1.051,45.58,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes,24.5,91.8,1.089,45.58,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes_gol,6.5,97.9,1.021,16.62,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes_gol,7.5,96.2,1.039,16.62,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes_gol,8.5,93.8,1.067,16.62,,
+2026-10-28,210146,Serie A,Venezia,Inter,chutes_gol,9.5,90.4,1.107,16.62,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,escanteios,7.5,8.0,12.444,4.03,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,escanteios,8.5,4.3,23.341,4.03,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,escanteios,9.5,2.2,45.853,4.03,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,escanteios,10.5,1.1,93.841,4.03,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes,18.5,47.5,2.107,18.7,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes,20.5,35.3,2.831,18.7,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes,22.5,25.0,4.005,18.7,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes,24.5,16.8,5.961,18.7,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes_gol,6.5,58.0,1.724,7.47,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes_gol,7.5,45.7,2.188,7.47,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes_gol,8.5,34.4,2.904,7.47,,
+2026-10-28,210137,Serie A,AC Milan,Bologna,chutes_gol,9.5,24.9,4.019,7.47,,
+2026-10-28,210143,Serie A,Parma,Udinese,escanteios,7.5,10.5,9.496,4.35,,
+2026-10-28,210143,Serie A,Parma,Udinese,escanteios,8.5,5.9,16.938,4.35,,
+2026-10-28,210143,Serie A,Parma,Udinese,escanteios,9.5,3.2,31.616,4.35,,
+2026-10-28,210143,Serie A,Parma,Udinese,escanteios,10.5,1.6,61.438,4.35,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes,18.5,36.8,2.721,17.02,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes,20.5,25.5,3.917,17.02,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes,22.5,16.8,5.96,17.02,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes,24.5,10.5,9.564,17.02,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes_gol,6.5,40.9,2.445,6.12,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes_gol,7.5,29.0,3.449,6.12,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes_gol,8.5,19.5,5.123,6.12,,
+2026-10-28,210143,Serie A,Parma,Udinese,chutes_gol,9.5,12.5,7.977,6.12,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,escanteios,7.5,82.5,1.212,12.12,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,escanteios,8.5,75.4,1.326,12.12,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,escanteios,9.5,67.5,1.48,12.12,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,escanteios,10.5,59.2,1.688,12.12,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes,18.5,96.5,1.036,37.86,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes,20.5,93.7,1.067,37.86,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes,22.5,89.6,1.116,37.86,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes,24.5,84.0,1.191,37.86,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes_gol,6.5,95.0,1.053,14.06,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes_gol,7.5,91.5,1.092,14.06,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes_gol,8.5,86.9,1.151,14.06,,
+2026-10-28,210142,Serie A,Monza,SSC Napoli,chutes_gol,9.5,81.1,1.233,14.06,,
+2026-10-28,210141,Serie A,Genoa,Juventus,escanteios,7.5,97.6,1.025,19.57,,
+2026-10-28,210141,Serie A,Genoa,Juventus,escanteios,8.5,96.0,1.041,19.57,,
+2026-10-28,210141,Serie A,Genoa,Juventus,escanteios,9.5,93.9,1.065,19.57,,
+2026-10-28,210141,Serie A,Genoa,Juventus,escanteios,10.5,91.1,1.097,19.57,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes,18.5,97.2,1.029,39.64,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes,20.5,94.9,1.054,39.64,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes,22.5,91.3,1.095,39.64,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes,24.5,86.4,1.157,39.64,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes_gol,6.5,91.9,1.088,12.65,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes_gol,7.5,86.9,1.15,12.65,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes_gol,8.5,80.6,1.241,12.65,,
+2026-10-28,210141,Serie A,Genoa,Juventus,chutes_gol,9.5,73.1,1.368,12.65,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,escanteios,7.5,92.3,1.084,15.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,escanteios,8.5,88.3,1.132,15.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,escanteios,9.5,83.4,1.199,15.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,escanteios,10.5,77.7,1.288,15.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes,18.5,98.3,1.017,43.72,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes,20.5,96.7,1.034,43.72,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes,22.5,94.2,1.061,43.72,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes,24.5,90.5,1.105,43.72,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes_gol,6.5,95.2,1.051,14.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes_gol,7.5,91.8,1.089,14.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes_gol,8.5,87.3,1.146,14.17,,
+2026-10-28,7322,Brasileirão Serie A,Santos,Palmeiras,chutes_gol,9.5,81.6,1.226,14.17,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,escanteios,7.5,86.3,1.159,13.04,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,escanteios,8.5,80.3,1.246,13.04,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,escanteios,9.5,73.3,1.364,13.04,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,escanteios,10.5,65.7,1.521,13.04,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes,18.5,93.8,1.067,33.66,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes,20.5,89.5,1.118,33.66,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes,22.5,83.6,1.196,33.66,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes,24.5,76.2,1.313,33.66,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes_gol,6.5,63.4,1.578,7.95,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes_gol,7.5,51.4,1.944,7.95,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes_gol,8.5,40.0,2.498,7.95,,
+2026-10-28,7320,Brasileirão Serie A,Red Bull Bragantino,Chapecoense,chutes_gol,9.5,29.9,3.341,7.95,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,escanteios,7.5,67.4,1.484,9.72,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,escanteios,8.5,57.6,1.736,9.72,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,escanteios,9.5,47.8,2.09,9.72,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,escanteios,10.5,38.7,2.585,9.72,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes,18.5,81.1,1.233,26.12,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes,20.5,72.2,1.385,26.12,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes,22.5,62.0,1.612,26.12,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes,24.5,51.4,1.947,26.12,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes_gol,6.5,42.9,2.331,6.27,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes_gol,7.5,30.8,3.245,6.27,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes_gol,8.5,21.1,4.752,6.27,,
+2026-10-28,7318,Brasileirão Serie A,Fluminense,Internacional,chutes_gol,9.5,13.7,7.29,6.27,,
