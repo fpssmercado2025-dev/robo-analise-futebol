@@ -1964,3 +1964,42 @@ fixture_id,time_casa,time_fora,escanteios_casa,escanteios_fora,chutes_casa,chute
 601092,SK Slavia Praha,Arsenal,4.0,2.0,18.0,12.0,6.0,5.0,2026-11-04,Champions League
 7324,Athletico,Vasco da Gama,7.0,0.0,15.0,7.0,4.0,3.0,2026-11-04,Brasileirão Serie A
 7328,Flamengo,Grêmio,7.0,4.0,17.0,7.0,8.0,4.0,2026-11-04,Brasileirão Serie A
+7325,Botafogo,Atlético Mineiro,4.0,4.0,13.0,13.0,3.0,3.0,2026-11-05,Brasileirão Serie A
+7332,São Paulo,Corinthians,6.0,8.0,21.0,18.0,5.0,4.0,2026-11-05,Brasileirão Serie A
+601285,Real Sociedad,Olympique Lyonnais,5.0,6.0,11.0,12.0,4.0,4.0,2026-11-05,Europa League
+601354,FC Thun,Heart of Midlothian,4.0,5.0,18.0,15.0,8.0,4.0,2026-11-05,Conference League
+601423,Kuopion Palloseura,KAA Gent,3.0,7.0,6.0,20.0,1.0,3.0,2026-11-05,Conference League
+601364,FK Crvena zvezda,Inter Club d'Escaldes,6.0,3.0,29.0,6.0,8.0,3.0,2026-11-05,Conference League
+601391,Lincoln Red Imps,HNK Hajduk Split,0.0,8.0,5.0,15.0,0.0,1.0,2026-11-05,Conference League
+601393,Mjällby AIF,FK Borac Banja Luka,4.0,6.0,11.0,15.0,5.0,4.0,2026-11-05,Conference League
+601174,AC Milan,Ferencváros TC,2.0,4.0,15.0,12.0,2.0,8.0,2026-11-05,Europa League
+601179,AC Sparta Praha,Bournemouth,3.0,10.0,12.0,20.0,3.0,9.0,2026-11-05,Europa League
+601212,Crystal Palace,TSG Hoffenheim,5.0,5.0,13.0,15.0,5.0,5.0,2026-11-05,Europa League
+601255,NEC Nijmegen,Omonia Nicosia,5.0,2.0,19.0,6.0,9.0,3.0,2026-11-05,Europa League
+601282,RSC Anderlecht,Red Bull Salzburg,5.0,4.0,12.0,8.0,7.0,3.0,2026-11-05,Europa League
+601247,Levski Sofia,Jagiellonia Białystok,4.0,5.0,13.0,10.0,5.0,2.0,2026-11-05,Europa League
+601250,Lillestrøm SK,FC Viktoria Plzeň,3.0,6.0,15.0,17.0,4.0,11.0,2026-11-05,Europa League
+601327,Atalanta,FC Kairat Almaty,9.0,2.0,16.0,7.0,7.0,3.0,2026-11-05,Conference League
+601320,AGF,Sporting Braga,2.0,7.0,14.0,26.0,5.0,8.0,2026-11-05,Conference League
+601347,FC Midtjylland,AFC Ajax,1.0,8.0,10.0,24.0,4.0,11.0,2026-11-05,Conference League
+601416,Trabzonspor,SC Freiburg,7.0,4.0,15.0,12.0,2.0,5.0,2026-11-05,Conference League
+601191,Benfica,Lech Poznań,6.0,3.0,24.0,6.0,12.0,5.0,2026-11-05,Europa League
+601185,Bayer 04 Leverkusen,Olympique de Marseille,6.0,2.0,10.0,8.0,3.0,2.0,2026-11-05,Europa League
+601306,Sunderland,GNK Dinamo Zagreb,5.0,3.0,17.0,9.0,7.0,4.0,2026-11-05,Europa League
+601411,Sint-Truidense VV,SK Brann,4.0,7.0,17.0,9.0,5.0,5.0,2026-11-05,Conference League
+601403,Riga FC,FK Jablonec,5.0,5.0,13.0,11.0,2.0,3.0,2026-11-05,Conference League
+601421,Universitatea Craiova,KF Egnatia,5.0,6.0,19.0,9.0,9.0,4.0,2026-11-05,Conference League
+601316,Torreense,FC Ararat-Armenia,4.0,6.0,12.0,19.0,5.0,8.0,2026-11-05,Europa League
+601208,Celtic,Beşiktaş JK,5.0,7.0,10.0,15.0,6.0,4.0,2026-11-05,Europa League
+601299,SK Sturm Graz,NK Celje,12.0,2.0,31.0,8.0,7.0,7.0,2026-11-05,Europa League
+601181,AZ Alkmaar,Juventus,4.0,2.0,18.0,9.0,3.0,3.0,2026-11-05,Europa League
+601232,Hapoel Be'er Sheva,OFI Crete,4.0,2.0,16.0,11.0,4.0,3.0,2026-11-05,Europa League
+601202,Celta Vigo,Royale Union Saint-Gilloise,11.0,1.0,13.0,15.0,4.0,3.0,2026-11-05,Europa League
+601356,FC Twente,Pafos FC,12.0,1.0,29.0,6.0,13.0,4.0,2026-11-05,Conference League
+601400,Panathinaikos FC,CSKA Sofia,12.0,4.0,24.0,9.0,12.0,5.0,2026-11-05,Conference League
+601325,AS Monaco,FC Nordsjælland,4.0,3.0,11.0,3.0,5.0,1.0,2026-11-05,Conference League
+601343,FC København,FC Iberia 1999,3.0,2.0,12.0,5.0,4.0,2.0,2026-11-05,Conference League
+601346,FC Lugano,FK Kauno Žalgiris,4.0,2.0,14.0,5.0,5.0,1.0,2026-11-05,Conference League
+601371,Getafe,Brighton & Hove Albion,5.0,5.0,8.0,15.0,4.0,3.0,2026-11-05,Conference League
+10216,Botafogo-SP,Londrina,3.0,2.0,16.0,8.0,7.0,0.0,2026-11-05,Brasileirão Serie B
+7330,Palmeiras,Remo,5.0,3.0,19.0,11.0,9.0,5.0,2026-11-05,Brasileirão Serie A
