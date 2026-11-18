@@ -9371,183 +9371,291 @@ data_jogo,fixture_id,liga,time_casa,time_fora,mercado,linha,prob_over,odd_justa,
 2026-11-16,212712,UEFA Nations League,Switzerland,Scotland,chutes_gol,7.5,31.4,3.179,6.32,9.0,1.0
 2026-11-16,212712,UEFA Nations League,Switzerland,Scotland,chutes_gol,8.5,21.5,4.645,6.32,9.0,1.0
 2026-11-16,212712,UEFA Nations League,Switzerland,Scotland,chutes_gol,9.5,14.1,7.114,6.32,9.0,0.0
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,7.5,44.3,2.259,7.38,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,8.5,33.7,2.971,7.38,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,9.5,24.7,4.052,7.38,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,10.5,17.5,5.713,7.38,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,18.5,65.2,1.534,21.97,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,20.5,53.4,1.871,21.97,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,22.5,41.9,2.389,21.97,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,24.5,31.3,3.196,21.97,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,6.5,36.9,2.709,5.83,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,7.5,25.6,3.911,5.83,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,8.5,16.8,5.938,5.83,,
-2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,9.5,10.6,9.437,5.83,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,7.5,78.0,1.282,11.63,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,8.5,70.3,1.422,11.63,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,9.5,62.2,1.608,11.63,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,10.5,53.9,1.854,11.63,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,18.5,89.7,1.115,35.1,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,20.5,83.1,1.203,35.1,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,22.5,74.4,1.344,35.1,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,24.5,63.6,1.572,35.1,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,6.5,94.2,1.062,13.99,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,7.5,90.4,1.106,13.99,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,8.5,85.5,1.17,13.99,,
-2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,9.5,79.4,1.259,13.99,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,7.5,25.8,3.882,5.82,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,8.5,17.2,5.804,5.82,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,9.5,11.1,9.05,5.82,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,10.5,6.8,14.657,5.82,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,18.5,74.3,1.345,23.95,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,20.5,63.9,1.565,23.95,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,22.5,52.8,1.895,23.95,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,24.5,41.9,2.39,23.95,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,6.5,70.6,1.416,8.68,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,7.5,59.5,1.681,8.68,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,8.5,48.2,2.073,8.68,,
-2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,9.5,37.6,2.657,8.68,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,7.5,73.8,1.355,11.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,8.5,65.7,1.521,11.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,9.5,57.4,1.742,11.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,10.5,49.2,2.032,11.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,18.5,65.1,1.535,22.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,20.5,53.4,1.873,22.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,22.5,41.8,2.395,22.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,24.5,31.1,3.216,22.09,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,6.5,54.6,1.832,7.17,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,7.5,42.1,2.374,7.17,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,8.5,31.0,3.224,7.17,,
-2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,9.5,21.9,4.573,7.17,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,7.5,53.0,1.887,8.18,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,8.5,42.3,2.364,8.18,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,9.5,32.7,3.06,8.18,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,10.5,24.5,4.083,8.18,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,18.5,73.8,1.356,24.05,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,20.5,63.2,1.583,24.05,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,22.5,51.9,1.926,24.05,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,24.5,40.9,2.448,24.05,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,6.5,59.9,1.67,7.66,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,7.5,47.8,2.091,7.66,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,8.5,36.6,2.73,7.66,,
-2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,9.5,27.0,3.705,7.66,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,7.5,53.0,1.887,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,8.5,42.2,2.368,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,9.5,32.6,3.072,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,10.5,24.3,4.111,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,18.5,57.4,1.742,20.34,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,20.5,45.1,2.215,20.34,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,22.5,33.9,2.953,20.34,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,24.5,24.2,4.13,20.34,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,6.5,65.5,1.526,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,7.5,53.8,1.857,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,8.5,42.5,2.355,8.17,,
-2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,9.5,32.2,3.105,8.17,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,7.5,66.5,1.503,9.62,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,8.5,56.6,1.766,9.62,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,9.5,46.9,2.134,9.62,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,10.5,37.7,2.649,9.62,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,18.5,91.0,1.099,31.9,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,20.5,85.4,1.172,31.9,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,22.5,78.0,1.283,31.9,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,24.5,69.0,1.449,31.9,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,6.5,92.5,1.081,12.86,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,7.5,87.8,1.139,12.86,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,8.5,81.7,1.223,12.86,,
-2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,9.5,74.5,1.342,12.86,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,7.5,28.1,3.561,6.0,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,8.5,19.4,5.161,6.0,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,9.5,12.9,7.763,6.0,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,10.5,8.3,12.07,6.0,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,18.5,69.3,1.443,22.94,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,20.5,58.0,1.724,22.94,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,22.5,46.5,2.151,22.94,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,24.5,35.6,2.811,22.94,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,6.5,60.4,1.654,7.67,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,7.5,48.2,2.074,7.67,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,8.5,36.8,2.717,7.67,,
-2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,9.5,27.0,3.71,7.67,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,7.5,46.7,2.143,7.59,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,8.5,35.9,2.784,7.59,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,9.5,26.7,3.749,7.59,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,10.5,19.2,5.22,7.59,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,18.5,55.3,1.808,19.98,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,20.5,43.0,2.324,19.98,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,22.5,31.9,3.138,19.98,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,24.5,22.5,4.445,19.98,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,6.5,19.5,5.12,4.54,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,7.5,11.4,8.754,4.54,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,8.5,6.3,15.897,4.54,,
-2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,9.5,3.3,30.469,4.54,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,7.5,62.4,1.602,9.22,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,8.5,52.4,1.908,9.22,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,9.5,42.8,2.336,9.22,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,10.5,34.1,2.936,9.22,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,18.5,83.4,1.199,29.29,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,20.5,74.8,1.337,29.29,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,22.5,64.4,1.552,29.29,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,24.5,52.9,1.892,29.29,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,6.5,74.0,1.351,9.19,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,7.5,63.8,1.568,9.19,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,8.5,53.1,1.882,9.19,,
-2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,9.5,42.9,2.333,9.19,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,7.5,20.2,4.94,5.34,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,8.5,12.9,7.778,5.34,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,9.5,7.8,12.793,5.34,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,10.5,4.6,21.884,5.34,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,18.5,66.9,1.495,23.44,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,20.5,55.1,1.814,23.44,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,22.5,43.1,2.32,23.44,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,24.5,31.6,3.163,23.44,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,6.5,65.4,1.53,8.2,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,7.5,53.9,1.857,8.2,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,8.5,42.7,2.342,8.2,,
-2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,9.5,32.6,3.066,8.2,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,7.5,23.3,4.286,5.61,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,8.5,15.3,6.531,5.61,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,9.5,9.6,10.375,5.61,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,10.5,5.8,17.113,5.61,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,18.5,67.5,1.481,22.34,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,20.5,56.0,1.784,22.34,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,22.5,44.5,2.245,22.34,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,24.5,33.9,2.952,22.34,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,6.5,52.4,1.907,7.0,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,7.5,39.9,2.505,7.0,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,8.5,29.0,3.452,7.0,,
-2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,9.5,20.1,4.974,7.0,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,7.5,41.5,2.408,7.15,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,8.5,31.1,3.212,7.15,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,9.5,22.5,4.443,7.15,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,10.5,15.7,6.352,7.15,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,18.5,51.9,1.928,19.39,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,20.5,39.6,2.527,19.39,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,22.5,28.7,3.483,19.39,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,24.5,19.8,5.042,19.39,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,6.5,26.6,3.763,5.08,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,7.5,16.8,5.963,5.08,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,8.5,10.0,10.005,5.08,,
-2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,9.5,5.7,17.678,5.08,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,7.5,44.2,2.26,7.41,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,8.5,34.0,2.944,7.41,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,9.5,25.2,3.96,7.41,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,10.5,18.2,5.487,7.41,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,18.5,66.8,1.496,24.38,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,20.5,54.9,1.822,24.38,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,22.5,42.4,2.357,24.38,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,24.5,30.2,3.31,24.38,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,6.5,73.2,1.366,9.21,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,7.5,63.2,1.583,9.21,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,8.5,52.8,1.893,9.21,,
-2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,9.5,42.9,2.333,9.21,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,7.5,63.0,1.587,9.22,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,8.5,52.8,1.893,9.22,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,9.5,43.0,2.326,9.22,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,10.5,34.0,2.939,9.22,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,18.5,82.6,1.21,26.54,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,20.5,74.1,1.35,26.54,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,22.5,64.2,1.556,26.54,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,24.5,53.7,1.861,26.54,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,6.5,91.2,1.096,12.37,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,7.5,85.9,1.164,12.37,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,8.5,79.2,1.262,12.37,,
-2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,9.5,71.4,1.401,12.37,,
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,7.5,44.3,2.259,7.38,8.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,8.5,33.7,2.971,7.38,8.0,0.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,9.5,24.7,4.052,7.38,8.0,0.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,escanteios,10.5,17.5,5.713,7.38,8.0,0.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,18.5,65.2,1.534,21.97,26.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,20.5,53.4,1.871,21.97,26.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,22.5,41.9,2.389,21.97,26.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes,24.5,31.3,3.196,21.97,26.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,6.5,36.9,2.709,5.83,10.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,7.5,25.6,3.911,5.83,10.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,8.5,16.8,5.938,5.83,10.0,1.0
+2026-11-17,606231,CONCACAF Nations League,Martinique,Aruba,chutes_gol,9.5,10.6,9.437,5.83,10.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,7.5,78.0,1.282,11.63,15.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,8.5,70.3,1.422,11.63,15.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,9.5,62.2,1.608,11.63,15.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,escanteios,10.5,53.9,1.854,11.63,15.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,18.5,89.7,1.115,35.1,25.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,20.5,83.1,1.203,35.1,25.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,22.5,74.4,1.344,35.1,25.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes,24.5,63.6,1.572,35.1,25.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,6.5,94.2,1.062,13.99,11.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,7.5,90.4,1.106,13.99,11.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,8.5,85.5,1.17,13.99,11.0,1.0
+2026-11-17,606230,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,chutes_gol,9.5,79.4,1.259,13.99,11.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,7.5,25.8,3.882,5.82,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,8.5,17.2,5.804,5.82,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,9.5,11.1,9.05,5.82,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,escanteios,10.5,6.8,14.657,5.82,10.0,0.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,18.5,74.3,1.345,23.95,29.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,20.5,63.9,1.565,23.95,29.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,22.5,52.8,1.895,23.95,29.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes,24.5,41.9,2.39,23.95,29.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,6.5,70.6,1.416,8.68,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,7.5,59.5,1.681,8.68,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,8.5,48.2,2.073,8.68,10.0,1.0
+2026-11-17,606198,CONCACAF Nations League,Canada,Guatemala,chutes_gol,9.5,37.6,2.657,8.68,10.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,7.5,73.8,1.355,11.09,7.0,0.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,8.5,65.7,1.521,11.09,7.0,0.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,9.5,57.4,1.742,11.09,7.0,0.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,escanteios,10.5,49.2,2.032,11.09,7.0,0.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,18.5,65.1,1.535,22.09,31.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,20.5,53.4,1.873,22.09,31.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,22.5,41.8,2.395,22.09,31.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes,24.5,31.1,3.216,22.09,31.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,6.5,54.6,1.832,7.17,13.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,7.5,42.1,2.374,7.17,13.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,8.5,31.0,3.224,7.17,13.0,1.0
+2026-11-17,606214,CONCACAF Nations League,Dominica,Cayman Islands,chutes_gol,9.5,21.9,4.573,7.17,13.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,7.5,53.0,1.887,8.18,10.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,8.5,42.3,2.364,8.18,10.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,9.5,32.7,3.06,8.18,10.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,escanteios,10.5,24.5,4.083,8.18,10.0,0.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,18.5,73.8,1.356,24.05,16.0,0.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,20.5,63.2,1.583,24.05,16.0,0.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,22.5,51.9,1.926,24.05,16.0,0.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes,24.5,40.9,2.448,24.05,16.0,0.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,6.5,59.9,1.67,7.66,9.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,7.5,47.8,2.091,7.66,9.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,8.5,36.6,2.73,7.66,9.0,1.0
+2026-11-17,606199,CONCACAF Nations League,Saint Lucia,Barbados,chutes_gol,9.5,27.0,3.705,7.66,9.0,0.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,7.5,53.0,1.887,8.17,7.0,0.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,8.5,42.2,2.368,8.17,7.0,0.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,9.5,32.6,3.072,8.17,7.0,0.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,escanteios,10.5,24.3,4.111,8.17,7.0,0.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,18.5,57.4,1.742,20.34,41.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,20.5,45.1,2.215,20.34,41.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,22.5,33.9,2.953,20.34,41.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes,24.5,24.2,4.13,20.34,41.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,6.5,65.5,1.526,8.17,14.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,7.5,53.8,1.857,8.17,14.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,8.5,42.5,2.355,8.17,14.0,1.0
+2026-11-17,606215,CONCACAF Nations League,Belize,Sint Maarten,chutes_gol,9.5,32.2,3.105,8.17,14.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,7.5,66.5,1.503,9.62,9.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,8.5,56.6,1.766,9.62,9.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,9.5,46.9,2.134,9.62,9.0,0.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,escanteios,10.5,37.7,2.649,9.62,9.0,0.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,18.5,91.0,1.099,31.9,33.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,20.5,85.4,1.172,31.9,33.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,22.5,78.0,1.283,31.9,33.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes,24.5,69.0,1.449,31.9,33.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,6.5,92.5,1.081,12.86,14.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,7.5,87.8,1.139,12.86,14.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,8.5,81.7,1.223,12.86,14.0,1.0
+2026-11-17,606216,CONCACAF Nations League,Saint Kitts and Nevis,Bonaire,chutes_gol,9.5,74.5,1.342,12.86,14.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,7.5,28.1,3.561,6.0,10.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,8.5,19.4,5.161,6.0,10.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,9.5,12.9,7.763,6.0,10.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,escanteios,10.5,8.3,12.07,6.0,10.0,0.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,18.5,69.3,1.443,22.94,27.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,20.5,58.0,1.724,22.94,27.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,22.5,46.5,2.151,22.94,27.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes,24.5,35.6,2.811,22.94,27.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,6.5,60.4,1.654,7.67,9.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,7.5,48.2,2.074,7.67,9.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,8.5,36.8,2.717,7.67,9.0,1.0
+2026-11-17,212736,UEFA Nations League,Poland,Sweden,chutes_gol,9.5,27.0,3.71,7.67,9.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,7.5,46.7,2.143,7.59,9.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,8.5,35.9,2.784,7.59,9.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,9.5,26.7,3.749,7.59,9.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,escanteios,10.5,19.2,5.22,7.59,9.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,18.5,55.3,1.808,19.98,25.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,20.5,43.0,2.324,19.98,25.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,22.5,31.9,3.138,19.98,25.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes,24.5,22.5,4.445,19.98,25.0,1.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,6.5,19.5,5.12,4.54,4.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,7.5,11.4,8.754,4.54,4.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,8.5,6.3,15.897,4.54,4.0,0.0
+2026-11-17,212731,UEFA Nations League,Hungary,Northern Ireland,chutes_gol,9.5,3.3,30.469,4.54,4.0,0.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,7.5,62.4,1.602,9.22,7.0,0.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,8.5,52.4,1.908,9.22,7.0,0.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,9.5,42.8,2.336,9.22,7.0,0.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,escanteios,10.5,34.1,2.936,9.22,7.0,0.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,18.5,83.4,1.199,29.29,33.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,20.5,74.8,1.337,29.29,33.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,22.5,64.4,1.552,29.29,33.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes,24.5,52.9,1.892,29.29,33.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,6.5,74.0,1.351,9.19,14.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,7.5,63.8,1.568,9.19,14.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,8.5,53.1,1.882,9.19,14.0,1.0
+2026-11-17,212730,UEFA Nations League,Wales,Portugal,chutes_gol,9.5,42.9,2.333,9.19,14.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,7.5,20.2,4.94,5.34,13.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,8.5,12.9,7.778,5.34,13.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,9.5,7.8,12.793,5.34,13.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,escanteios,10.5,4.6,21.884,5.34,13.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,18.5,66.9,1.495,23.44,33.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,20.5,55.1,1.814,23.44,33.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,22.5,43.1,2.32,23.44,33.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes,24.5,31.6,3.163,23.44,33.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,6.5,65.4,1.53,8.2,15.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,7.5,53.9,1.857,8.2,15.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,8.5,42.7,2.342,8.2,15.0,1.0
+2026-11-17,212733,UEFA Nations League,Ireland,Kosovo,chutes_gol,9.5,32.6,3.066,8.2,15.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,7.5,23.3,4.286,5.61,8.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,8.5,15.3,6.531,5.61,8.0,0.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,9.5,9.6,10.375,5.61,8.0,0.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,escanteios,10.5,5.8,17.113,5.61,8.0,0.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,18.5,67.5,1.481,22.34,26.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,20.5,56.0,1.784,22.34,26.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,22.5,44.5,2.245,22.34,26.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes,24.5,33.9,2.952,22.34,26.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,6.5,52.4,1.907,7.0,12.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,7.5,39.9,2.505,7.0,12.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,8.5,29.0,3.452,7.0,12.0,1.0
+2026-11-17,212735,UEFA Nations League,Bosnia & Herzegovina,Romania,chutes_gol,9.5,20.1,4.974,7.0,12.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,7.5,41.5,2.408,7.15,16.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,8.5,31.1,3.212,7.15,16.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,9.5,22.5,4.443,7.15,16.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,escanteios,10.5,15.7,6.352,7.15,16.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,18.5,51.9,1.928,19.39,23.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,20.5,39.6,2.527,19.39,23.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,22.5,28.7,3.483,19.39,23.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes,24.5,19.8,5.042,19.39,23.0,0.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,6.5,26.6,3.763,5.08,7.0,1.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,7.5,16.8,5.963,5.08,7.0,0.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,8.5,10.0,10.005,5.08,7.0,0.0
+2026-11-17,212732,UEFA Nations League,Ukraine,Georgia,chutes_gol,9.5,5.7,17.678,5.08,7.0,0.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,7.5,44.2,2.26,7.41,13.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,8.5,34.0,2.944,7.41,13.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,9.5,25.2,3.96,7.41,13.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,escanteios,10.5,18.2,5.487,7.41,13.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,18.5,66.8,1.496,24.38,24.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,20.5,54.9,1.822,24.38,24.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,22.5,42.4,2.357,24.38,24.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes,24.5,30.2,3.31,24.38,24.0,0.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,6.5,73.2,1.366,9.21,8.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,7.5,63.2,1.583,9.21,8.0,1.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,8.5,52.8,1.893,9.21,8.0,0.0
+2026-11-17,212734,UEFA Nations League,Israel,Austria,chutes_gol,9.5,42.9,2.333,9.21,8.0,0.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,7.5,63.0,1.587,9.22,8.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,8.5,52.8,1.893,9.22,8.0,0.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,9.5,43.0,2.326,9.22,8.0,0.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,escanteios,10.5,34.0,2.939,9.22,8.0,0.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,18.5,82.6,1.21,26.54,29.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,20.5,74.1,1.35,26.54,29.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,22.5,64.2,1.556,26.54,29.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes,24.5,53.7,1.861,26.54,29.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,6.5,91.2,1.096,12.37,11.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,7.5,85.9,1.164,12.37,11.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,8.5,79.2,1.262,12.37,11.0,1.0
+2026-11-17,212729,UEFA Nations League,Denmark,Norway,chutes_gol,9.5,71.4,1.401,12.37,11.0,1.0
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,escanteios,7.5,31.3,3.192,6.29,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,escanteios,8.5,21.9,4.566,6.29,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,escanteios,9.5,14.7,6.797,6.29,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,escanteios,10.5,9.5,10.495,6.29,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes,18.5,54.9,1.823,19.9,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes,20.5,42.6,2.349,19.9,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes,22.5,31.5,3.178,19.9,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes,24.5,22.2,4.511,19.9,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes_gol,6.5,71.7,1.394,8.81,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes_gol,7.5,60.8,1.645,8.81,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes_gol,8.5,49.6,2.016,8.81,,
+2026-11-18,606217,CONCACAF Nations League,French Guiana,Saint Vincent and the Grenadines,chutes_gol,9.5,39.0,2.565,8.81,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,escanteios,7.5,40.3,2.482,7.03,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,escanteios,8.5,29.9,3.348,7.03,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,escanteios,9.5,21.3,4.69,7.03,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,escanteios,10.5,14.7,6.803,7.03,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes,18.5,64.6,1.547,21.8,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes,20.5,52.8,1.892,21.8,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes,22.5,41.3,2.421,21.8,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes,24.5,30.8,3.243,21.8,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes_gol,6.5,88.8,1.126,11.66,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes_gol,7.5,82.5,1.212,11.66,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes_gol,8.5,74.8,1.337,11.66,,
+2026-11-18,606200,CONCACAF Nations League,USA,Haiti,chutes_gol,9.5,66.1,1.512,11.66,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,escanteios,7.5,67.9,1.474,10.3,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,escanteios,8.5,59.3,1.686,10.3,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,escanteios,9.5,50.8,1.967,10.3,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,escanteios,10.5,42.8,2.337,10.3,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes,18.5,73.4,1.362,30.21,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes,20.5,61.6,1.624,30.21,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes,22.5,47.8,2.091,30.21,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes,24.5,32.8,3.053,30.21,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes_gol,6.5,64.8,1.542,8.32,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes_gol,7.5,54.0,1.851,8.32,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes_gol,8.5,43.6,2.296,8.32,,
+2026-11-18,606246,CONCACAF Nations League,El Salvador,Saint Martin,chutes_gol,9.5,34.1,2.934,8.32,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,escanteios,7.5,40.8,2.453,7.09,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,escanteios,8.5,30.5,3.281,7.09,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,escanteios,9.5,22.0,4.549,7.09,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,escanteios,10.5,15.3,6.517,7.09,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes,18.5,65.1,1.535,22.37,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes,20.5,53.4,1.874,22.37,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes,22.5,41.6,2.401,22.37,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes,24.5,30.8,3.246,22.37,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes_gol,6.5,63.4,1.578,7.95,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes_gol,7.5,51.4,1.946,7.95,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes_gol,8.5,39.9,2.504,7.95,,
+2026-11-18,606201,CONCACAF Nations League,Mexico,Jamaica,chutes_gol,9.5,29.8,3.354,7.95,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,escanteios,7.5,21.1,4.742,5.41,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,escanteios,8.5,13.5,7.401,5.41,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,escanteios,9.5,8.3,12.06,5.41,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,escanteios,10.5,4.9,20.433,5.41,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes,18.5,63.4,1.576,22.16,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes,20.5,51.5,1.941,22.16,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes,22.5,39.8,2.516,22.16,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes,24.5,29.0,3.453,22.16,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes_gol,6.5,64.7,1.546,8.29,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes_gol,7.5,53.8,1.859,8.29,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes_gol,8.5,43.3,2.31,8.29,,
+2026-11-18,606247,CONCACAF Nations League,Nicaragua,Montserrat,chutes_gol,9.5,33.8,2.96,8.29,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,escanteios,7.5,67.0,1.493,9.64,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,escanteios,8.5,57.0,1.753,9.64,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,escanteios,9.5,47.2,2.119,9.64,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,escanteios,10.5,38.0,2.633,9.64,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes,18.5,87.7,1.14,28.97,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes,20.5,80.8,1.237,28.97,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes,22.5,72.3,1.383,28.97,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes,24.5,62.7,1.596,28.97,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes_gol,6.5,68.6,1.457,8.47,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes_gol,7.5,57.2,1.748,8.47,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes_gol,8.5,45.8,2.181,8.47,,
+2026-11-18,7335,Brasileirão Serie A,Coritiba,Santos,chutes_gol,9.5,35.3,2.83,8.47,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,escanteios,7.5,74.3,1.346,10.62,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,escanteios,8.5,65.4,1.529,10.62,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,escanteios,9.5,56.1,1.782,10.62,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,escanteios,10.5,47.0,2.129,10.62,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes,18.5,77.2,1.295,24.84,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes,20.5,67.4,1.484,24.84,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes,22.5,56.6,1.767,24.84,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes,24.5,45.7,2.189,24.84,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes_gol,6.5,47.4,2.107,6.61,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes_gol,7.5,35.0,2.853,6.61,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes_gol,8.5,24.6,4.06,6.61,,
+2026-11-18,7340,Brasileirão Serie A,Remo,Chapecoense,chutes_gol,9.5,16.5,6.05,6.61,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,escanteios,7.5,77.3,1.294,11.09,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,escanteios,8.5,68.9,1.451,11.09,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,escanteios,9.5,60.0,1.666,11.09,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,escanteios,10.5,51.0,1.959,11.09,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes,18.5,85.4,1.171,27.8,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes,20.5,77.7,1.287,27.8,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes,22.5,68.5,1.46,27.8,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes,24.5,58.3,1.714,27.8,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes_gol,6.5,84.9,1.178,10.75,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes_gol,7.5,77.1,1.296,10.75,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes_gol,8.5,68.2,1.467,10.75,,
+2026-11-18,7337,Brasileirão Serie A,Flamengo,Athletico,chutes_gol,9.5,58.5,1.71,10.75,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,escanteios,7.5,78.9,1.267,11.37,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,escanteios,8.5,70.9,1.41,11.37,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,escanteios,9.5,62.3,1.606,11.37,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,escanteios,10.5,53.4,1.872,11.37,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes,18.5,96.4,1.037,37.65,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes,20.5,93.6,1.068,37.65,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes,22.5,89.4,1.118,37.65,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes,24.5,83.8,1.194,37.65,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes_gol,6.5,88.6,1.129,11.58,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes_gol,7.5,82.1,1.217,11.58,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes_gol,8.5,74.3,1.345,11.58,,
+2026-11-18,7336,Brasileirão Serie A,Cruzeiro,Palmeiras,chutes_gol,9.5,65.5,1.525,11.58,,
